@@ -12,18 +12,15 @@
           "child": [
             {
               "name": "Flexible cables",
-              "id": 1,
-              "images": []
+              "id": 1
             },
             {
               "name": "Flexible rubber cables",
-              "id": 2,
-              "images": []
+              "id": 2
             },
             {
               "name": "Specialized cables",
-              "id": 3,
-              "images": []
+              "id": 3
             }
           ]
         },
@@ -31,34 +28,28 @@
           "name": "Low volatage <br/>cables",
           "child": [
             {
-              "name": "Uninstall <br/>copper cables",
-              "id": "",
-              "images": []
+              "name": "Uninsulated <br/>copper cables",
+              "id": "4"
             },
             {
               "name": "Green/Yellow <br/>Ground cables",
-              "id": "",
-              "images": []
+              "id": "5"
             },
             {
               "name": "LSOH cables",
-              "id": "",
-              "images": []
+              "id": "6"
             },
             {
               "name": "XLPE Cables",
-              "id": "",
-              "images": []
+              "id": "7"
             },
             {
               "name": "STA Cables",
-              "id": "",
-              "images": []
+              "id": "8"
             },
             {
               "name": "SWA Cables",
-              "id": "",
-              "images": []
+              "id": "9"
             }
           ]
         },
@@ -67,18 +58,15 @@
           "child": [
             {
               "name": "British NYA Specification",
-              "id": "",
-              "images": []
+              "id": "10"
             },
             {
               "name": "NYA Wires-LSOH",
-              "id": "",
-              "images": []
+              "id": "11"
             },
             {
               "name": "American AWG Specification",
-              "id": "",
-              "images": []
+              "id": "12"
             }
           ]
         },
@@ -87,43 +75,35 @@
           "child": [
             {
               "name": "Pendant lighting",
-              "id": "",
-              "images": []
+              "id": "13"
             },
             {
               "name": "Recessed lighting",
-              "id": "",
-              "images": []
+              "id": "14"
             },
             {
               "name": "Bulbs",
-              "id": "",
-              "images": []
+              "id": "15"
             },
             {
               "name": "Lighitng Strips",
-              "id": "",
-              "images": []
+              "id": "16"
             },
             {
               "name": "Interior Spotlights",
-              "id": "",
-              "images": []
+              "id": "17"
             },
             {
               "name": "Track Light",
-              "id": "",
-              "images": []
+              "id": "18"
             },
             {
-              "name": "volatage Coverters",
-              "id": "",
-              "images": []
+              "name": "Volatage Coverters",
+              "id": "19"
             },
             {
               "name": "Lighting Unit",
-              "id": "",
-              "images": []
+              "id": "20"
             }
           ]
         },
@@ -132,8 +112,7 @@
           "child": [
             {
               "name": "Exterior Spotlights",
-              "id": "",
-              "images": []
+              "id": "21"
             }
           ]
         },
@@ -142,23 +121,21 @@
           "child": [
             {
               "name": "Circuit Breaker",
-              "id": "",
-              "images": []
+              "id": "22"
             },
             {
               "name": "Motor protection device",
-              "id": "",
-              "images": []
+              "id": "23"
             },
             {
               "name": "Electrical panels",
-              "id": "",
-              "images": []
+              "id": "24"
             }
           ]
         },
         {
           "name": "Switches and Sockets",
+          "id": "25",
           "child": []
         }
       ]
@@ -204,6 +181,196 @@
         "fibercables2.webp",
         "fibercables3.webp",
         "fibercables4.webp"
+      ]
+    },
+    "2": {
+      "name": "Flexible rubber cables",
+      "description": "Flexible rubber cables description",
+      "images": ["flexiblerubbercables1.webp", "flexiblerubbercables2.webp"]
+    },
+    "3": {
+      "name": "Specialized cables",
+      "description": "Specialized cables description",
+      "images": [
+        "specializedcables1.webp",
+        "specializedcables2.webp",
+        "specializedcables3.webp",
+        "specializedcables4.webp"
+      ]
+    },
+
+    "4": {
+      "name": "Uninsulated Copper Cables",
+      "description": "Uninsulated Copper Cables description",
+      "images": ["uninstallcoppercables1.webp"]
+    },
+    "5": {
+      "name": "Green/Yellow Ground cables",
+      "description": "Green/Yellow Ground cables description",
+      "images": [
+        "greenyellowgroundcables1.webp",
+        "greenyellowgroundcables2.webp",
+        "greenyellowgroundcables3.webp"
+      ]
+    },
+    "6": {
+      "name": "LSOH cables",
+      "description": "LSOH cables description",
+      "images": [
+        "LSOHcables1.webp",
+        "LSOHcables2.webp",
+        "LSOHcables3.webp",
+        "LSOHcables4.webp"
+      ]
+    },
+    "7": {
+      "name": "XLPE cables",
+      "description": "XLPE cables description",
+      "images": [
+        "XLPEcables1.webp",
+        "XLPEcables2.webp",
+        "XLPEcables3.webp",
+        "XLPEcables4.webp"
+      ]
+    },
+    "8": {
+      "name": "STA cables",
+      "description": "STA cables description",
+      "images": ["STAcables1.webp"]
+    },
+    "9": {
+      "name": "SWA cables",
+      "description": "SWA cables description",
+      "images": [
+        "SWAcables1.webp",
+        "SWAcables2.webp",
+        "SWAcables3.webp",
+        "SWAcables4.webp"
+      ]
+    },
+
+    "10": {
+      "name": "British NYA Specification",
+      "description": "British NYA Specification cables description",
+      "images": [
+        "BritishNYASpecification1.webp",
+        "BritishNYASpecification2.webp",
+        "BritishNYASpecification3.webp",
+        "BritishNYASpecification4.webp"
+      ]
+    },
+    "11": {
+      "name": "NYA Wires-LSOH",
+      "description": "NYA Wires-LSOH",
+      "images": [
+        "NYAWiresLSOH1.webp",
+        "NYAWiresLSOH2.webp",
+        "NYAWiresLSOH3.webp",
+        "NYAWiresLSOH4.webp"
+      ]
+    },
+    "12": {
+      "name": "American AWG Specification ",
+      "description": "American AWG Specification description",
+      "images": [
+        "AmericanAWGSpecification1.webp",
+        "AmericanAWGSpecification2.webp",
+        "AmericanAWGSpecification3.webp",
+        "AmericanAWGSpecification4.webp"
+      ]
+    },
+
+    "13": {
+      "name": "Pendant lighting",
+      "description": "Pendant lighting description",
+      "images": ["Pendantlighting1.webp", "Pendantlighting2.webp"]
+    },
+    "14": {
+      "name": "Recessed lighting",
+      "description": "Recessed lighting description",
+      "images": ["Recessedlighting1.webp"]
+    },
+    "15": {
+      "name": "Bulbs ",
+      "description": "Bulbs  description",
+      "images": ["Bulbs1.webp", "Bulbs2.webp", "Bulbs3.webp", "Bulbs4.webp"]
+    },
+    "16": {
+      "name": "Lighitng Strips",
+      "description": "Lighitng Strips description",
+      "images": ["LighitngStrips1.webp", "LighitngStrips3.webp"]
+    },
+    "17": {
+      "name": "Interior Spotlights",
+      "description": "Interior Spotlights description",
+      "images": [
+        "InteriorSpotlights1.webp",
+        "InteriorSpotlights2.webp",
+        "InteriorSpotlights3.webp",
+        "InteriorSpotlights4.webp"
+      ]
+    },
+    "18": {
+      "name": "Track Light",
+      "description": "Track Light description",
+      "images": ["TrackLight1.webp", "TrackLight2.webp"]
+    },
+    "19": {
+      "name": "Volatage Coverters",
+      "description": "TVolatage Coverters description",
+      "images": ["VolatageCoverters2.webp", "VolatageCoverters3.webp"]
+    },
+    "20": {
+      "name": "Lighting Unit",
+      "description": "Lighting Unit description",
+      "images": ["LightingUnit1.webp"]
+    },
+
+    "21": {
+      "name": "Exterior Spotlights",
+      "description": "Exterior Spotlights description",
+      "images": [
+        "ExteriorSpotlights1.webp",
+        "ExteriorSpotlights2.webp",
+        "ExteriorSpotlights3.webp",
+        "ExteriorSpotlights4.webp"
+      ]
+    },
+
+    "22": {
+      "name": "Circuit Breaker",
+      "description": "Circuit Breaker description",
+      "images": [
+        "CircuitBreaker1.webp",
+        "CircuitBreaker2.webp",
+        "CircuitBreaker3.webp",
+        "CircuitBreaker4.webp"
+      ]
+    },
+    "23": {
+      "name": "Motor protection device",
+      "description": "Motor protection device description",
+      "images": ["Motorprotectiondevice1.webp", "Motorprotectiondevice2.webp"]
+    },
+    "24": {
+      "name": "Electrical panels",
+      "description": "Electrical panels description",
+      "images": [
+        "Electricalpanels1.webp",
+        "Electricalpanels2.webp",
+        "Electricalpanels3.webp",
+        "Electricalpanels4.webp"
+      ]
+    },
+
+    "25": {
+      "name": "Switches and Sockets",
+      "description": "Switches and Sockets description",
+      "images": [
+        "SwitchesandSockets1.jpg",
+        "SwitchesandSockets2.jpg",
+        "SwitchesandSockets3.jpg",
+        "SwitchesandSockets4.png"
       ]
     }
   }

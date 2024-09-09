@@ -46,7 +46,7 @@ export default function Header() {
             <ul>
               {details.navbar.map((each) => (
                 <li class="dropdown">
-                  <a href="#">
+                  <a href={"#"}>
                     <span>{each.name}</span>
                     {each?.child && each?.child?.length !== 0 && (
                       <i class="bi bi-chevron-down toggle-dropdown"></i>
@@ -56,7 +56,13 @@ export default function Header() {
                     {each?.child &&
                       each?.child?.map((eachSubCat) => (
                         <li class="dropdown">
-                          <a href="#">
+                          <a
+                            href={
+                              eachSubCat?.child?.length === 0
+                                ? `/product/${eachSubCat.id}`
+                                : "#"
+                            }
+                          >
                             <span
                               dangerouslySetInnerHTML={{
                                 __html: eachSubCat.name,

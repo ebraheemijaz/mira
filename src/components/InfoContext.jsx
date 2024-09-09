@@ -6,7 +6,8 @@ const details = {
   website_name: "Mira Project Suppliers",
   phone: "0532942055",
   email: "info@miraprojectssupplier.com",
-  address: "ss",
+  address:
+    "Address Building 3273 Old Makkah Road Alfarouk District postal code 22349",
   navbar: [
     {
       name: "Electricity",

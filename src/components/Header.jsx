@@ -19,7 +19,7 @@ export default function Header() {
         <div class="container d-flex justify-content-center justify-content-md-between">
           <div class="contact-info d-flex align-items-center">
             <i class="bi bi-envelope d-flex align-items-center">
-              <a href="mailto:contact@example.com">{details?.email}</a>
+              <a href={`mailto:${details?.email}`}>{details?.email}</a>
             </i>
             <i class="bi bi-phone d-flex align-items-center ms-4">
               <span>{details?.phone}</span>

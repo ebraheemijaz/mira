@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
-// import About from "./components/About";
+import About from "./components/About";
 import Choose from "./components/Choose";
 // import Products from "./components/Products";
 // import Owner from "./components/Owner";
@@ -21,10 +21,10 @@ function App() {
         <>
           <Header />
           <Hero />
+          <About />
           <Choose />
           <ContactUs />
           {/* 
-          <About />
           <Products />
           <Owner />
         */}

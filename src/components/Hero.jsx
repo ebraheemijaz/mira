@@ -19,14 +19,16 @@ export default function Hero() {
               <h2>
                 We are <span>professional</span>
               </h2>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat.
+              <p style={{ color: "white" }}>
+                Mira Project Suppliers is a leading Electrical and Plumbing
+                project supplier dedicated to provide top quality products and
+                exceptional customer service to private and public sector
+                companies. With years of experience in the industry we have
+                established ourselves as a trusted supplier of Electrical and
+                plumbing projects.
               </p>
-              <a href="#featured-services" class="btn-get-started">
-                Get Started
+              <a href="#contact" class="btn-get-started">
+                Contact US
               </a>
             </div>
           </div>

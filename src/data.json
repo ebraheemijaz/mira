@@ -124,18 +124,45 @@
               "id": "22"
             },
             {
-              "name": "Motor protection device",
-              "id": "23"
-            },
-            {
               "name": "Electrical panels",
               "id": "24"
             }
           ]
         },
         {
+          "name": "Electrical installation",
+          "child": [
+            {
+              "name": "Electrical enclosures",
+              "id": "27"
+            },
+            {
+              "name": "Plastic Pipes",
+              "id": "28"
+            },
+            {
+              "name": "Metal conduit fittings",
+              "id": "29"
+            },
+            {
+              "name": "Metal Pipes",
+              "id": "30"
+            },
+            {
+              "name": "Plastic conduit fittings",
+              "id": "31"
+            }
+          ]
+        },
+
+        {
           "name": "Switches and Sockets",
           "id": "25",
+          "child": []
+        },
+        {
+          "name": "Fans",
+          "id": "26",
           "child": []
         }
       ]
@@ -175,22 +202,23 @@
   "product": {
     "1": {
       "name": "Flexible cables",
-      "description": "<p>Cables: Connecting with Flexibility and Reliability</p> <p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p> <h3>Our Cable Products:</h3> <h5>Types of Cables</h5> <ul> <li><strong>Flexible Cables:</strong> Versatile and adaptable for complex installations</li> <li><strong>Flexible Rubber Cables:</strong> Resistant to abrasion, oil, and weathering</li> <li><strong>Specialized Cables:</strong> <ul> <li>High-temperature cables</li> <li>Chemical-resistant cables</li> <li>Fire-resistant cables</li> <li>Data transmission cables (e.g., coaxial, twisted pair)</li> </ul> </li> </ul> <h3>Why Choose Our Cables:</h3> <h5>Cable Features</h5> <ul> <li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li> <li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li> <li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li> <li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li> <li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li> </ul> <h3>Applications:</h3> <ul> <li>Industrial automation and control systems</li> <li>Electrical contracting and construction</li> <li>Manufacturing (e.g., automotive, aerospace, appliances)</li> <li>Renewable energy (e.g., solar, wind)</li> <li>Data centers and networking</li> </ul>",
+      "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Flexible Cables:</strong> Versatile and adaptable for complex installations</li><li><strong>Flexible Rubber Cables:</strong> Resistant to abrasion, oil, and weathering</li><li><strong>Specialized Cables:</strong><ul><li>High-temperature cables</li><li>Chemical-resistant cables</li><li>Fire-resistant cables</li><li>Data transmission cables (e.g., coaxial, twisted pair)</li></ul></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
       "images": [
         "fibercables1.webp",
         "fibercables2.webp",
         "fibercables3.webp",
-        "fibercables4.webp"
+        "fibercables4.webp",
+        "fibercables5.jpg"
       ]
     },
     "2": {
       "name": "Flexible rubber cables",
-      "description": "<p>Cables: Connecting with Flexibility and Reliability</p> <p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p> <h3>Our Cable Products:</h3> <h5>Types of Cables</h5> <ul> <li><strong>Flexible Cables:</strong> Versatile and adaptable for complex installations</li> <li><strong>Flexible Rubber Cables:</strong> Resistant to abrasion, oil, and weathering</li> <li><strong>Specialized Cables:</strong> <ul> <li>High-temperature cables</li> <li>Chemical-resistant cables</li> <li>Fire-resistant cables</li> <li>Data transmission cables (e.g., coaxial, twisted pair)</li> </ul> </li> </ul> <h3>Why Choose Our Cables:</h3> <h5>Cable Features</h5> <ul> <li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li> <li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li> <li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li> <li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li> <li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li> </ul> <h3>Applications:</h3> <ul> <li>Industrial automation and control systems</li> <li>Electrical contracting and construction</li> <li>Manufacturing (e.g., automotive, aerospace, appliances)</li> <li>Renewable energy (e.g., solar, wind)</li> <li>Data centers and networking</li> </ul>",
+      "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Flexible Cables:</strong> Versatile and adaptable for complex installations</li><li><strong>Flexible Rubber Cables:</strong> Resistant to abrasion, oil, and weathering</li><li><strong>Specialized Cables:</strong><ul><li>High-temperature cables</li><li>Chemical-resistant cables</li><li>Fire-resistant cables</li><li>Data transmission cables (e.g., coaxial, twisted pair)</li></ul></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
       "images": ["flexiblerubbercables1.webp", "flexiblerubbercables2.webp"]
     },
     "3": {
       "name": "Specialized cables",
-      "description": "<p>Cables: Connecting with Flexibility and Reliability</p> <p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p> <h3>Our Cable Products:</h3> <h5>Types of Cables</h5> <ul> <li><strong>Flexible Cables:</strong> Versatile and adaptable for complex installations</li> <li><strong>Flexible Rubber Cables:</strong> Resistant to abrasion, oil, and weathering</li> <li><strong>Specialized Cables:</strong> <ul> <li>High-temperature cables</li> <li>Chemical-resistant cables</li> <li>Fire-resistant cables</li> <li>Data transmission cables (e.g., coaxial, twisted pair)</li> </ul> </li> </ul> <h3>Why Choose Our Cables:</h3> <h5>Cable Features</h5> <ul> <li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li> <li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li> <li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li> <li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li> <li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li> </ul> <h3>Applications:</h3> <ul> <li>Industrial automation and control systems</li> <li>Electrical contracting and construction</li> <li>Manufacturing (e.g., automotive, aerospace, appliances)</li> <li>Renewable energy (e.g., solar, wind)</li> <li>Data centers and networking</li> </ul>",
+      "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Flexible Cables:</strong> Versatile and adaptable for complex installations</li><li><strong>Flexible Rubber Cables:</strong> Resistant to abrasion, oil, and weathering</li><li><strong>Specialized Cables:</strong><ul><li>High-temperature cables</li><li>Chemical-resistant cables</li><li>Fire-resistant cables</li><li>Data transmission cables (e.g., coaxial, twisted pair)</li></ul></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
       "images": [
         "specializedcables1.webp",
         "specializedcables2.webp",
@@ -201,12 +229,12 @@
 
     "4": {
       "name": "Uninsulated Copper Cables",
-      "description": "Uninsulated Copper Cables description",
-      "images": ["uninstallcoppercables1.webp"]
+      "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
+      "images": ["uninstallcoppercables1.webp", "uninstallcoppercables2.webp"]
     },
     "5": {
       "name": "Green/Yellow Ground cables",
-      "description": "Green/Yellow Ground cables description",
+      "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
       "images": [
         "greenyellowgroundcables1.webp",
         "greenyellowgroundcables2.webp",
@@ -215,7 +243,7 @@
     },
     "6": {
       "name": "LSOH cables",
-      "description": "LSOH cables description",
+      "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
       "images": [
         "LSOHcables1.webp",
         "LSOHcables2.webp",
@@ -225,7 +253,7 @@
     },
     "7": {
       "name": "XLPE cables",
-      "description": "XLPE cables description",
+      "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
       "images": [
         "XLPEcables1.webp",
         "XLPEcables2.webp",
@@ -235,12 +263,12 @@
     },
     "8": {
       "name": "STA cables",
-      "description": "STA cables description",
+      "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
       "images": ["STAcables1.webp"]
     },
     "9": {
       "name": "SWA cables",
-      "description": "SWA cables description",
+      "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
       "images": [
         "SWAcables1.webp",
         "SWAcables2.webp",
@@ -251,7 +279,7 @@
 
     "10": {
       "name": "British NYA Specification",
-      "description": "British NYA Specification cables description",
+      "description": "<p>At Mira Project Suppliers, we specialize in providing high-quality electrical wires, ensuring reliable and efficient connections for various applications. Our extensive range of electrical wires meets international standards, catering to diverse industry needs.</p><h4 style='color: black;'>Our Electrical Wire Products:</h4><ul><li><strong>Unmatched quality:</strong> Our wires meet international standards (IEC, ASTM, etc.)</li><li><strong>Wide range:</strong> We offer various sizes, materials, and insulation types</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Competitive pricing:</strong> Cost-effective without compromising on quality</li><li><strong>Excellent customer service:</strong> Dedicated support for your electrical wire needs</li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h4 style='color: black;'>Applications:</h4><ul><li>Electrical contracting and construction</li><li>Industrial automation and control systems</li><li>Electrical panels and switchgear</li><li>Appliance manufacturing</li><li>Automotive and aerospace industries</li></ul>",
       "images": [
         "BritishNYASpecification1.webp",
         "BritishNYASpecification2.webp",
@@ -261,7 +289,7 @@
     },
     "11": {
       "name": "NYA Wires-LSOH",
-      "description": "NYA Wires-LSOH",
+      "description": "<p>At Mira Project Suppliers, we specialize in providing high-quality electrical wires, ensuring reliable and efficient connections for various applications. Our extensive range of electrical wires meets international standards, catering to diverse industry needs.</p><h4 style='color: black;'>Our Electrical Wire Products:</h4><ul><li><strong>Unmatched quality:</strong> Our wires meet international standards (IEC, ASTM, etc.)</li><li><strong>Wide range:</strong> We offer various sizes, materials, and insulation types</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Competitive pricing:</strong> Cost-effective without compromising on quality</li><li><strong>Excellent customer service:</strong> Dedicated support for your electrical wire needs</li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h4 style='color: black;'>Applications:</h4><ul><li>Electrical contracting and construction</li><li>Industrial automation and control systems</li><li>Electrical panels and switchgear</li><li>Appliance manufacturing</li><li>Automotive and aerospace industries</li></ul>",
       "images": [
         "NYAWiresLSOH1.webp",
         "NYAWiresLSOH2.webp",
@@ -271,38 +299,49 @@
     },
     "12": {
       "name": "American AWG Specification ",
-      "description": "American AWG Specification description",
+      "description": "<p>At Mira Project Suppliers, we specialize in providing high-quality electrical wires, ensuring reliable and efficient connections for various applications. Our extensive range of electrical wires meets international standards, catering to diverse industry needs.</p><h4 style='color: black;'>Our Electrical Wire Products:</h4><ul><li><strong>Unmatched quality:</strong> Our wires meet international standards (IEC, ASTM, etc.)</li><li><strong>Wide range:</strong> We offer various sizes, materials, and insulation types</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Competitive pricing:</strong> Cost-effective without compromising on quality</li><li><strong>Excellent customer service:</strong> Dedicated support for your electrical wire needs</li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h4 style='color: black;'>Applications:</h4><ul><li>Electrical contracting and construction</li><li>Industrial automation and control systems</li><li>Electrical panels and switchgear</li><li>Appliance manufacturing</li><li>Automotive and aerospace industries</li></ul>",
       "images": [
         "AmericanAWGSpecification1.webp",
         "AmericanAWGSpecification2.webp",
         "AmericanAWGSpecification3.webp",
-        "AmericanAWGSpecification4.webp"
+        "AmericanAWGSpecification4.webp",
+        "AmericanAWGSpecification5.webp"
       ]
     },
 
     "13": {
       "name": "Pendant lighting",
-      "description": "Pendant lighting description",
+      "description": "<div><p>Add a touch of sophistication and elegance to your interior with our stunning pendant lighting collection. Pendant lights are a versatile and stylish way to illuminate your home, office, or commercial space, offering a unique blend of form and function.</p><h4 style='color: black;'>Key Features:</h4><ul><li>Suspended from the ceiling, pendant lights provide focused lighting and create a sense of openness</li><li>Available in a wide range of styles, materials, and finishes to suit your interior design</li><li>Adjustable arms and shades allow for customizable lighting direction and ambiance</li><li>Energy-efficient options available, including LED and eco-friendly materials</li><li>Perfect for kitchens, dining rooms, living rooms, bedrooms, and commercial spaces</li></ul><h4 style='color: black;'>Benefits:</h4><ul><li>Creates a focal point in the room, adding visual interest and style</li><li>Provides task lighting for cooking, reading, and workspaces</li><li>Can be used to create a cozy atmosphere or brighten up a room</li><li>Easy to install and maintain</li><li>Suitable for modern, contemporary, and traditional interior designs</li></ul><h4 style='color: black;'>Explore Our Collection</h4><p>Browse our extensive range of pendant lights, featuring:</p><ul><li>Modern and sleek designs</li><li>Rustic and vintage-inspired fixtures</li><li>Industrial-chic metal shades</li><li>Elegant glass and crystal pendants</li><li>Energy-efficient LED options</li></ul><p>Find the perfect pendant light to elevate your space and create a warm, inviting atmosphere.</p></div>",
       "images": ["Pendantlighting1.webp", "Pendantlighting2.webp"]
     },
     "14": {
       "name": "Recessed lighting",
-      "description": "Recessed lighting description",
-      "images": ["Recessedlighting1.webp"]
+      "description": "<div><p>Experience the perfect blend of style and subtlety with our recessed lighting solutions. Recessed lights are expertly designed to blend into your ceiling, providing a sleek and minimalist appearance while delivering exceptional illumination.</p><h4 style='color: black;'>Key Features:</h4><ul><li>Flush-mounted design creates a seamless look, perfect for modern interiors</li><li>Available in various trim styles, reflector finishes, and lens options</li><li>Adjustable and fixed options for customizable lighting direction</li><li>Energy-efficient LED and halogen options for reduced energy consumption</li><li>Suitable for living rooms, kitchens, hallways, and commercial spaces</li></ul><h4 style='color: black;'>Benefits:</h4><ul><li>Creates a clean and uncluttered ceiling line, perfect for minimalist designs</li><li>Provides focused lighting for task areas, such as kitchen counters and reading nooks</li><li>Can be used to create ambiance and highlight architectural features</li><li>Easy to install and maintain, with simple bulb replacement</li><li>Compatible with smart home systems for advanced lighting control</li></ul><h4 style='color: black;'>Explore Our Collection</h4><p>Discover our range of recessed lighting options, featuring:</p><ul><li>Ultra-thin trim designs for minimal visual impact</li><li>High-performance reflectors for maximum light output</li><li>Adjustable and fixed gimbal rings for precise lighting control</li><li>Wet-location and outdoor-rated options for versatility</li><li>Energy-efficient LED solutions for reduced energy consumption</li></ul></div>",
+      "images": [
+        "Recessedlighting1.webp",
+        "Recessedlighting3.webp",
+        "Recessedlighting4.jpg",
+        "Recessedlighting5.jpg"
+      ]
     },
     "15": {
       "name": "Bulbs ",
-      "description": "Bulbs  description",
+      "description": "<div><p>Find the perfect light bulb to suit your needs with our extensive range of incandescent, halogen, and LED options. From warm and cozy to bright and energizing, our bulbs offer a variety of color temperatures and lumen outputs to enhance your space.</p><h4 style='color: black;'>Key Features:</h4><ul><li><strong>Energy Efficiency:</strong> LED bulbs use up to 90% less energy than traditional incandescent bulbs</li><li><strong>Long-Lasting:</strong> LED bulbs can last up to 25 times longer than incandescent bulbs</li><li><strong>Dimmable:</strong> Many of our bulbs are dimmable, allowing for customizable brightness</li><li><strong>Color Temperature:</strong> Choose from warm white (2700K-3000K), soft white (3000K-3500K), bright white (3500K-4100K), and daylight (5000K-6500K)</li><li><strong>Lumen Output:</strong> Select from a range of lumen outputs to suit your lighting needs</li></ul><h4 style='color: black;'>Benefits:</h4><ul><li><strong>Save Energy and Money:</strong> Reduce your energy consumption and lower your utility bills</li><li><strong>Less Maintenance:</strong> Long-lasting bulbs mean less frequent replacements</li><li><strong>Customizable Lighting:</strong> Dimmable bulbs and various color temperatures allow for personalized lighting</li><li><strong>Environmentally Friendly:</strong> LED bulbs are free of toxic chemicals and recyclable</li></ul><h4 style='color: black;'>Explore Our Collection</h4><p>Discover our range of recessed lighting options, featuring:</p><ul><li><strong>Incandescent Bulbs:</strong> Classic and affordable, perfect for decorative fixtures</li><li><strong>Halogen Bulbs:</strong> Bright and energizing, ideal for task lighting</li><li><strong>LED Bulbs:</strong> Energy-efficient and long-lasting, suitable for a wide range of applications</li><li><strong>Smart Bulbs:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li><li><strong>Specialty Bulbs:</strong> Appliance bulbs, stage lighting, and more!</li></ul></div>",
       "images": ["Bulbs1.webp", "Bulbs2.webp", "Bulbs3.webp", "Bulbs4.webp"]
     },
     "16": {
       "name": "Lighitng Strips",
-      "description": "Lighitng Strips description",
-      "images": ["LighitngStrips1.webp", "LighitngStrips3.webp"]
+      "description": "<div><p>Add a touch of modernity and flexibility to your lighting with our innovative lighting strips. These versatile and easy-to-use strips can be cut to size, bent, and shaped to fit any space or design.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Flexible and Bendable:</strong> Can be shaped to fit curved or irregular surfaces</li><li><strong>Cuttable:</strong> Can be cut to size for customized lengths</li><li><strong>Adhesive Backing:</strong> Easy to install with peel-and-stick adhesive</li><li><strong>Waterproof:</strong> Suitable for indoor and outdoor use, including bathrooms and kitchens</li><li><strong>Color Changing:</strong> RGB and color temperature adjustable options available</li></ul><h4 style=\"color: black;\">Benefits:</h4><ul><li><strong>Easy Installation:</strong> Simple peel-and-stick installation, no wiring required</li><li><strong>Customizable:</strong> Cut to size and shape to fit your unique space</li><li><strong>Space-Saving:</strong> Thin and flexible design, perfect for tight spaces</li><li><strong>Energy Efficient:</strong> LED technology uses minimal energy</li><li><strong>Ambiance Creation:</strong> Create unique ambiance and highlight architectural features</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>RGB Lighting Strips:</strong> Color-changing options for dynamic ambiance</li><li><strong>White Lighting Strips:</strong> Warm white, soft white, and bright white options</li><li><strong>Outdoor Lighting Strips:</strong> Weatherproof and durable options for exterior use</li><li><strong>Smart Lighting Strips:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li><li><strong>Specialty Lighting Strips:</strong> UV, infrared, and more!</li></ul><h4 style=\"color: black;\">Ideas for Use</h4><ul><li>Under cabinet lighting</li><li>Backlighting for TVs and computers</li><li>Accent lighting for stairs and hallways</li><li>Ambient lighting for bedrooms and living rooms</li><li>Decorative lighting for parties and events</li></ul></div>",
+      "images": [
+        "LighitngStrips1.webp",
+        "LighitngStrips3.webp",
+        "LighitngStrips4.jpg",
+        "LighitngStrips5.jpg"
+      ]
     },
     "17": {
       "name": "Interior Spotlights",
-      "description": "Interior Spotlights description",
+      "description": "<div><p>Elevate your interior design with our versatile and adjustable interior spotlights. Perfect for highlighting architectural features, artwork, or task areas, these spotlights provide focused lighting to enhance your space.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Adjustable Arms:</strong> Direct light exactly where you need it</li><li><strong>Swivel Heads:</strong> Rotate and tilt to customize light direction</li><li><strong>LED Technology:</strong> Energy-efficient and long-lasting</li><li><strong>Dimmable Options:</strong> Customize brightness to suit your needs</li><li><strong>Stylish Designs:</strong> Sleek and modern fixtures to complement your decor</li></ul><h4 style=\"color: black;\">Benefits:</h4><ul><li><strong>Accentuate Features:</strong> Highlight architectural details, artwork, or decorative elements</li><li><strong>Task Lighting:</strong> Focus light on workspaces, reading areas, or kitchen counters</li><li><strong>Ambiance Creation:</strong> Create a cozy atmosphere or brighten up a room</li><li><strong>Energy Efficiency:</strong> LED technology reduces energy consumption</li><li><strong>Design Flexibility:</strong> Adjustable arms and swivel heads for customized lighting</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Fixed Spotlights:</strong> Stationary fixtures for focused lighting</li><li><strong>Adjustable Spotlights:</strong> Flexible arms and swivel heads for customized lighting</li><li><strong>Recessed Spotlights:</strong> Flush-mounted fixtures for a sleek appearance</li><li><strong>Track Lighting:</strong> Flexible and adjustable lighting systems</li><li><strong>Smart Spotlights:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li></ul><h4 style=\"color: black;\">Ideas for Use</h4><ul><li>Highlighting architectural features or artwork</li><li>Task lighting for workspaces or reading areas</li><li>Accent lighting for stairs or hallways</li><li>Ambient lighting for living rooms or bedrooms</li><li>Showcase lighting for retail or display cases</li></ul></div>",
       "images": [
         "InteriorSpotlights1.webp",
         "InteriorSpotlights2.webp",
@@ -312,23 +351,23 @@
     },
     "18": {
       "name": "Track Light",
-      "description": "Track Light description",
+      "description": "<div><p>Customize Your Lighting Adjustable and versatile, our track lights provide focused lighting for any space.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Flexible Tracks:</strong> Bendable and adjustable tracks for customized lighting</li><li><strong>Swivel Heads:</strong> Rotate and tilt to direct light exactly where you need it</li><li><strong>LED Technology:</strong> Energy-efficient and long-lasting</li><li><strong>Dimmable Options:</strong> Customize brightness to suit your needs</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Single-Circuit Tracks:</strong> Simple and efficient lighting solutions</li><li><strong>Two-Circuit Tracks:</strong> Independent control of multiple lights</li><li><strong>Smart Tracks:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li></ul><h4 style=\"color: black;\">Ideas for Use</h4><ul><li><strong>Accent Lighting:</strong> Highlight architectural features or artwork</li><li><strong>Task Lighting:</strong> Focus light on workspaces or reading areas</li><li><strong>Ambient Lighting:</strong> Create a cozy atmosphere or brighten up a room</li></ul></div>",
       "images": ["TrackLight1.webp", "TrackLight2.webp"]
     },
     "19": {
       "name": "Volatage Coverters",
-      "description": "TVolatage Coverters description",
+      "description": "<div><p>Safe and Reliable Power Conversion Convert voltage with ease and confidence using our reliable voltage converters.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Step-Up/Step-Down:</strong> Convert voltage up or down to match your device's needs</li><li><strong>Compact Design:</strong> Portable and travel-friendly</li><li><strong>Safety Features:</strong> Overload protection, short-circuit protection, and more</li><li><strong>Wide Range:</strong> Convert 110V to 220V, 220V to 110V, and more</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Travel Converters:</strong> Compact and portable for on-the-go use</li><li><strong>Heavy-Duty Converters:</strong> High-wattage conversion for heavy loads</li><li><strong>Smart Converters:</strong> Automatic voltage detection and adjustment</li></ul></div>",
       "images": ["VolatageCoverters2.webp", "VolatageCoverters3.webp"]
     },
     "20": {
       "name": "Lighting Unit",
-      "description": "Lighting Unit description",
+      "description": "<div><p>Efficient and Reliable Lighting Solutions Our lighting units provide high-quality, energy-efficient lighting for various applications.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>LED Technology:</strong> Energy-efficient and long-lasting</li><li><strong>Compact Design:</strong> Space-saving and discreet</li><li><strong>Adjustable:</strong> Customize light direction and brightness</li><li><strong>Durable:</strong> Weather-resistant and built to last</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Indoor Lighting Units:</strong> Suitable for homes, offices, and commercial spaces</li><li><strong>Outdoor Lighting Units:</strong> Weather-resistant for exterior use</li><li><strong>Specialty Lighting Units:</strong> Custom solutions for unique applications</li></ul><h4 style=\"color: black;\">Ideas for Use:</h4><ul><li><strong>Task Lighting:</strong> Focus light on workspaces or reading areas</li><li><strong>Ambient Lighting:</strong> Create a cozy atmosphere or brighten up a room</li><li><strong>Accent Lighting:</strong> Highlight architectural features or artwork</li></ul></div>",
       "images": ["LightingUnit1.webp"]
     },
 
     "21": {
       "name": "Exterior Spotlights",
-      "description": "Exterior Spotlights description",
+      "description": "<div><p>Brighten Up Your Home's Exterior Enhance your home's curb appeal and safety with our exterior lighting solutions. Our range includes flood lights, spotlights, and more to illuminate your outdoor space.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Weather-Resistant:</strong> Durable and waterproof designs for harsh outdoor conditions</li><li><strong>Energy-Efficient:</strong> LED technology reduces energy consumption</li><li><strong>Adjustable:</strong> Customize light direction and brightness to suit your needs</li><li><strong>Security:</strong> Motion-sensing and timer options for added security</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Flood Lights:</strong> Broad-spectrum lighting for large areas</li><li><strong>Spotlights:</strong> Focused lighting for specific areas or features</li><li><strong>Pathway Lighting:</strong> Soft, ambient lighting for walkways and gardens</li><li><strong>Security Lighting:</strong> Motion-sensing and timer-enabled lights for added safety</li><li><strong>Smart Exterior Lighting:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li></ul><h4 style=\"color: black;\">Ideas for Use</h4><ul><li><strong>Highlight Architectural Features:</strong> Showcase your home's exterior design</li><li><strong>Improve Safety:</strong> Illuminate walkways, stairs, and entryways</li><li><strong>Enhance Curb Appeal:</strong> Boost your home's exterior appearance</li><li><strong>Create Ambiance:</strong> Soften outdoor spaces with warm, ambient lighting</li></ul></div>",
       "images": [
         "ExteriorSpotlights1.webp",
         "ExteriorSpotlights2.webp",
@@ -339,7 +378,7 @@
 
     "22": {
       "name": "Circuit Breaker",
-      "description": "Circuit Breaker description",
+      "description": "<div><p>Safe and Efficient Circuit Control Our low voltage circuit breakers provide reliable protection for your electrical systems.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Automatic Reset:</strong> Easy recovery from overloads</li><li><strong>Compact Design:</strong> Space-saving installation</li><li><strong>High Accuracy:</strong> Precise overcurrent detection</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Miniature Circuit Breakers:</strong> For small-scale applications</li><li><strong>Molded Case Circuit Breakers:</strong> For high-capacity needs</li><li><strong>Smart Circuit Breakers:</strong> Wi-Fi enabled for remote monitoring</li></ul></div>",
       "images": [
         "CircuitBreaker1.webp",
         "CircuitBreaker2.webp",
@@ -347,14 +386,9 @@
         "CircuitBreaker4.webp"
       ]
     },
-    "23": {
-      "name": "Motor protection device",
-      "description": "Motor protection device description",
-      "images": ["Motorprotectiondevice1.webp", "Motorprotectiondevice2.webp"]
-    },
     "24": {
       "name": "Electrical panels",
-      "description": "Electrical panels description",
+      "description": "<div><p>Reliable and Efficient Energy Management Our electrical panels provide safe and organized power distribution for residential, commercial, and industrial applications.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Customizable:</strong> Tailored to meet specific energy needs</li><li><strong>Space-Saving:</strong> Compact designs for flexible installation</li><li><strong>Safety Features:</strong> Overcurrent protection, grounding, and more</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Main Electrical Panels:</strong> Central power distribution hubs</li><li><strong>Sub Panels:</strong> Secondary distribution points for expanded systems</li><li><strong>Smart Panels:</strong> Wi-Fi enabled for remote monitoring and control</li></ul></div>",
       "images": [
         "Electricalpanels1.webp",
         "Electricalpanels2.webp",
@@ -365,12 +399,73 @@
 
     "25": {
       "name": "Switches and Sockets",
-      "description": "Switches and Sockets description",
+      "description": "<div><p>Reliable and Safe Solutions for Your Home or Office Our electrical switches and sockets provide a safe and convenient way to control and connect your electrical devices.</p><h4 style={{ color: 'black' }}>Key Features:</h4><ul><li><strong>Durable Materials:</strong> High-quality materials for long-lasting use</li><li><strong>Variety of Options:</strong> Range of styles, finishes, and configurations</li><li><strong>Safety Features:</strong> Overload protection, surge protection, and more</li></ul><h4 style={{ color: 'black' }}>Explore Our Collection</h4><ul><li><strong>Light Switches:</strong> Control your lighting with ease</li><li><strong>Power Sockets:</strong> Connect your devices with confidence</li><li><strong>Smart Switches and Sockets:</strong> Wi-Fi enabled for remote control and monitoring</li></ul></div>",
       "images": [
         "SwitchesandSockets1.jpg",
         "SwitchesandSockets2.jpg",
         "SwitchesandSockets3.jpg",
-        "SwitchesandSockets4.png"
+        "SwitchesandSockets4.png",
+        "SwitchesandSockets5.png",
+        "SwitchesandSockets6.png"
+      ]
+    },
+
+    "26": {
+      "name": "Fans",
+      "description": "<div><p>Stay Cool and Comfortable with Our Range of Fans Our fans provide a refreshing and energy-efficient way to keep your home or office cool and comfortable.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Ceiling Fans:</strong> Circulate air and reduce energy costs</li><li><strong>Stand Fans:</strong> Portable and versatile for personal use</li><li><strong>Quiet Operation:</strong> Minimal noise for disturbance-free use</li><li><strong>Adjustable Settings:</strong> Customize your comfort level</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Ceiling Fans:</strong> Sleek designs for modern homes</li><li><strong>Stand Fans:</strong> Compact and lightweight for easy movement</li><li><strong>Pedestal Fans:</strong> Adjustable height and tilt for optimal airflow</li><li><strong>Smart Fans:</strong> Wi-Fi enabled for remote control and scheduling</li></ul></div>",
+      "images": ["Fans1.jpg", "Fans2.webp", "Fans3.webp", "Fans4.jpg"]
+    },
+
+    "27": {
+      "name": "Electrical enclosures",
+      "description": "<div><p>Protect and Organize Your Electrical Systems Our Products: Our electric enclosures, wire collections, and boxes provide a safe and organized way to manage your electrical systems.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>Durable Materials:</strong> High-quality materials for long-lasting use</li><li><strong>Variety of Sizes:</strong> Range of sizes to fit your specific needs</li><li><strong>Easy Installation:</strong> Simple and quick installation process</li><li><strong>Protection:</strong> Safeguard against environmental elements and tampering</li></ul><h4 style=\"color: black\">Explore Our Collection</h4><ul><li><strong>Electric Enclosures:</strong> Protect and house electrical components</li><li><strong>Wire Collections:</strong> Organize and manage wires and cables</li><li><strong>Boxes and Cabinets:</strong> Secure and store electrical equipment</li><li><strong>Accessories:</strong> Additional components for customization and convenience</li></ul></div>",
+      "images": [
+        "Electricalenclosures1.webp",
+        "Electricalenclosures2.webp",
+        "Electricalenclosures3.webp",
+        "Electricalenclosures4.webp",
+        "Electricalenclosures5.webp"
+      ]
+    },
+    "28": {
+      "name": "Plastic Pipes",
+      "description": "<div><p>Protect and Organize Your Electrical Systems Our Products: Our electric enclosures, wire collections, and boxes provide a safe and organized way to manage your electrical systems.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Corrosion Resistance:</strong> Withstand harsh chemicals and environments</li><li><strong>High Pressure Resistance:</strong> Handle high water pressure with ease</li><li><strong>Low Maintenance:</strong> Resist scaling and abrasion for long-lasting use</li><li><strong>Flexible and Lightweight:</strong> Easy to install and transport</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>PVC Pipes:</strong> Versatile and cost-effective solutions</li><li><strong>PE Pipes:</strong> High-density polyethylene pipes for heavy-duty use</li><li><strong>PP Pipes:</strong> Polypropylene pipes for high-temperature applications</li><li><strong>Fittings and Accessories:</strong> Complete your plumbing system with our range of fittings and accessories</li></ul></div>",
+      "images": [
+        "PlasticPipes1.webp",
+        "PlasticPipes3.webp",
+        "PlasticPipes7.jpg"
+      ]
+    },
+    "29": {
+      "name": "Metal conduit fittings",
+      "description": "<div><p>Metal Conduit Fittings - Secure and Protect Your Wiring Reliable and Durable Electrical Raceway Solutions Our Products: Our metal conduit fittings provide a secure and protective pathway for your electrical wiring.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>Durable Materials:</strong> High-quality metals for long-lasting use</li><li><strong>Corrosion Resistance:</strong> Withstand harsh environments and chemicals</li><li><strong>Easy Installation:</strong> Simple and quick connection process</li><li><strong>Flexibility:</strong> Range of fittings for various conduit types and sizes</li></ul><h4 style=\"color: black\">Explore Our Collection</h4><ul><li><strong>Conduit Bodies:</strong> Connect and branch conduit lines</li><li><strong>Couplings:</strong> Join conduit sections with ease</li><li><strong>Elbows:</strong> Change direction with 90-degree bends</li><li><strong>Adapters:</strong> Transition between different conduit types and sizes</li><li><strong>Accessories:</strong> Complete your conduit system with our range of accessories</li></ul></div>",
+      "images": [
+        "Metalconduitfittings1.webp",
+        "Metalconduitfittings2.webp",
+        "Metalconduitfittings3.webp",
+        "Metalconduitfittings4.jpg"
+      ]
+    },
+    "30": {
+      "name": "Metal Pipes",
+      "description": "<div><p>Metal Pipes - Strong and Versatile Solutions Reliable and Durable Plumbing and Industrial Solutions Our metal pipes provide a strong and versatile solution for your plumbing and industrial needs.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>High-Strength Materials:</strong> High-quality metals for long-lasting use</li><li><strong>Corrosion Resistance:</strong> Withstand harsh environments and chemicals</li><li><strong>Easy Installation:</strong> Simple and quick connection process</li><li><strong>Flexibility:</strong> Range of pipes for various applications and sizes</li></ul><h4 style=\"color: black\">Explore Our Collection</h4><ul><li><strong>Galvanized Pipes:</strong> Coated for added corrosion resistance</li><li><strong>Stainless Steel Pipes:</strong> High-corrosion resistance for harsh environments</li><li><strong>Copper Pipes:</strong> High-thermal conductivity for plumbing and HVAC</li><li><strong>Aluminum Pipes:</strong> Lightweight and corrosion-resistant for industrial use</li><li><strong>Fittings and Accessories:</strong> Complete your piping system with our range of fittings and accessories</li></ul></div>",
+      "images": [
+        "MetalPipes1.webp",
+        "MetalPipes2.webp",
+        "MetalPipes3.jpg",
+        "MetalPipes4.webp"
+      ]
+    },
+    "31": {
+      "name": "Plastic conduit fittings",
+      "description": "<div><p>Plastic Conduit Fittings - Flexible and Corrosion-Resistant Solutions Reliable and Durable Electrical Raceway Systems Our plastic conduit fittings provide a flexible and corrosion-resistant solution for your electrical wiring needs.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>High-Quality Materials:</strong> Durable plastics for long-lasting use</li><li><strong>Corrosion Resistance:</strong> Withstand harsh environments and chemicals</li><li><strong>Easy Installation:</strong> Simple and quick connection process</li><li><strong>Flexibility:</strong> Range of fittings for various conduit types and sizes</li></ul><h4 style=\"color: black\">Explore Our Collection</h4><ul><li><strong>Conduit Bodies:</strong> Connect and branch conduit lines</li><li><strong>Couplings:</strong> Join conduit sections with ease</li><li><strong>Elbows:</strong> Change direction with 90-degree bends</li><li><strong>Adapters:</strong> Transition between different conduit types and sizes</li><li><strong>Accessories:</strong> Complete your conduit system with our range of accessories</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>Chemical Resistance:</strong> Withstand exposure to harsh chemicals</li><li><strong>UV Resistance:</strong> Withstand outdoor exposure</li><li><strong>Low Maintenance:</strong> Resistant to scaling and abrasion</li></ul></div>",
+      "images": [
+        "Plasticconduitfittings1.webp",
+        "Plasticconduitfittings2.webp",
+        "Plasticconduitfittings3.webp",
+        "Plasticconduitfittings4.webp",
+        "Plasticconduitfittings5.webp",
+        "Plasticconduitfittings6.webp"
       ]
     }
   }

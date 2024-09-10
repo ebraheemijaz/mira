@@ -50,9 +50,10 @@ export default function ProductDetail() {
               data-aos-delay="200"
             >
               {product?.images?.map((eachImg) => (
-                <div class="col-lg-3 col-md-3 portfolio-item isotope-item filter-app">
+                <div class="col-lg-2 col-md-2 portfolio-item isotope-item filter-app">
                   <div class="portfolio-content h-100">
                     <img
+                      style={{ height: "200px" }}
                       src={`${window.location.protocol}//${window.location.host}/${eachImg}`}
                       class="img-fluid"
                       alt=""
@@ -64,7 +65,7 @@ export default function ProductDetail() {
                 <div class="portfolio-content h-100">
                   <img src={img} class="img-fluid" alt="" />
                 </div>
-              </div>{" "}
+              </div>
               <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
                 <div class="portfolio-content h-100">
                   <img src={img} class="img-fluid" alt="" />
@@ -79,14 +80,77 @@ export default function ProductDetail() {
               <div class="icon">
                 <i class="fas fa-dna"></i>
               </div>
-              <a href="#" class="stretched-link">
-                <h3>Desciption</h3>
-              </a>
+              <h4 style={{ color: "black" }}>Description</h4>
               <div
                 dangerouslySetInnerHTML={{
                   __html: product?.description,
                 }}
               ></div>
+              {/* <div>
+                <p>
+                  Plastic Conduit Fittings - Flexible and Corrosion-Resistant
+                  Solutions Reliable and Durable Electrical Raceway Systems Our
+                  plastic conduit fittings provide a flexible and
+                  corrosion-resistant solution for your electrical wiring needs.
+                </p>
+                <h4 style={{ color: "black" }}>Key Features:</h4>
+                <ul>
+                  <li>
+                    <strong>High-Quality Materials:</strong> Durable plastics
+                    for long-lasting use
+                  </li>
+                  <li>
+                    <strong>Corrosion Resistance:</strong> Withstand harsh
+                    environments and chemicals
+                  </li>
+                  <li>
+                    <strong>Easy Installation:</strong> Simple and quick
+                    connection process
+                  </li>
+                  <li>
+                    <strong>Flexibility:</strong> Range of fittings for various
+                    conduit types and sizes
+                  </li>
+                </ul>
+
+                <h4 style={{ color: "black" }}>Explore Our Collection</h4>
+                <ul>
+                  <li>
+                    <strong>Conduit Bodies:</strong> Connect and branch conduit
+                    lines
+                  </li>
+                  <li>
+                    <strong>Couplings:</strong> Join conduit sections with ease
+                  </li>
+                  <li>
+                    <strong>Elbows:</strong> Change direction with 90-degree
+                    bends
+                  </li>
+                  <li>
+                    <strong>Adapters:</strong> Transition between different
+                    conduit types and sizes
+                  </li>
+                  <li>
+                    <strong>Accessories:</strong> Complete your conduit system
+                    with our range of accessories
+                  </li>
+                </ul>
+
+                <h4 style={{ color: "black" }}>Benefits</h4>
+                <ul>
+                  <li>
+                    <strong>Chemical Resistance:</strong> Withstand exposure to
+                    harsh chemicals
+                  </li>
+                  <li>
+                    <strong>UV Resistance:</strong> Withstand outdoor exposure
+                  </li>
+                  <li>
+                    <strong>Low Maintenance:</strong> Resistant to scaling and
+                    abrasion
+                  </li>
+                </ul>
+              </div> */}
             </div>
           </div>
         </div>

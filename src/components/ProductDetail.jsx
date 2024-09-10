@@ -88,66 +88,65 @@ export default function ProductDetail() {
               ></div>
               {/* <div>
                 <p>
-                  Plastic Conduit Fittings - Flexible and Corrosion-Resistant
-                  Solutions Reliable and Durable Electrical Raceway Systems Our
-                  plastic conduit fittings provide a flexible and
-                  corrosion-resistant solution for your electrical wiring needs.
+                  Plumbing Fixtures - Complete Your Plumbing System Essential
+                  Products for a Functional and Comfortable Space
                 </p>
-                <h4 style={{ color: "black" }}>Key Features:</h4>
+
+                <h4 style={{ color: "black" }}>Electric Water Heaters</h4>
                 <ul>
                   <li>
-                    <strong>High-Quality Materials:</strong> Durable plastics
-                    for long-lasting use
-                  </li>
-                  <li>
-                    <strong>Corrosion Resistance:</strong> Withstand harsh
-                    environments and chemicals
-                  </li>
-                  <li>
-                    <strong>Easy Installation:</strong> Simple and quick
-                    connection process
-                  </li>
-                  <li>
-                    <strong>Flexibility:</strong> Range of fittings for various
-                    conduit types and sizes
+                    <strong>Reliable Hot Water Solutions:</strong> Efficient and
+                    long-lasting electric water heaters
                   </li>
                 </ul>
 
-                <h4 style={{ color: "black" }}>Explore Our Collection</h4>
+                <h4 style={{ color: "black" }}>Faucets and Sinks</h4>
                 <ul>
                   <li>
-                    <strong>Conduit Bodies:</strong> Connect and branch conduit
-                    lines
+                    <strong>Stylish and Functional Fixtures:</strong> For
+                    kitchens and bathrooms
                   </li>
+                </ul>
+
+                <h4 style={{ color: "black" }}>Toilets and Bidets</h4>
+                <ul>
                   <li>
-                    <strong>Couplings:</strong> Join conduit sections with ease
+                    <strong>Hygienic and Water-Efficient Options:</strong> For a
+                    comfortable and eco-friendly experience
                   </li>
+                </ul>
+
+                <h4 style={{ color: "black" }}>Showers and Bathtubs</h4>
+                <ul>
                   <li>
-                    <strong>Elbows:</strong> Change direction with 90-degree
-                    bends
+                    <strong>Relaxing and Rejuvenating Fixtures:</strong> For the
+                    ultimate bathing experience
                   </li>
+                </ul>
+
+                <h4 style={{ color: "black" }}>Drainage Solutions</h4>
+                <ul>
                   <li>
-                    <strong>Adapters:</strong> Transition between different
-                    conduit types and sizes
-                  </li>
-                  <li>
-                    <strong>Accessories:</strong> Complete your conduit system
-                    with our range of accessories
+                    <strong>
+                      Effective and Easy-to-Install Drainage Products:
+                    </strong>{" "}
+                    For a hassle-free plumbing system
                   </li>
                 </ul>
 
                 <h4 style={{ color: "black" }}>Benefits</h4>
                 <ul>
                   <li>
-                    <strong>Chemical Resistance:</strong> Withstand exposure to
-                    harsh chemicals
+                    <strong>Convenience:</strong> Complete your plumbing system
+                    with essential fixtures
                   </li>
                   <li>
-                    <strong>UV Resistance:</strong> Withstand outdoor exposure
+                    <strong>Comfort:</strong> Enjoy a functional and comfortable
+                    living space
                   </li>
                   <li>
-                    <strong>Low Maintenance:</strong> Resistant to scaling and
-                    abrasion
+                    <strong>Style:</strong> Enhance your space with stylish and
+                    modern fixtures
                   </li>
                 </ul>
               </div> */}

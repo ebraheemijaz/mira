@@ -62,7 +62,7 @@ export default function About() {
         </div>
       </section>
       <section
-        id="why-us"
+        id="about-us"
         style={{ margin: "2%" }}
         class="why-us section light-background"
       >

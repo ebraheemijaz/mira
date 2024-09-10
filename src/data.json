@@ -172,18 +172,22 @@
       "child": [
         {
           "name": "Plumbing Tools",
+          "id": "32",
           "child": []
         },
         {
           "name": "Plumbing supply",
+          "id": "33",
           "child": []
         },
         {
           "name": "Floor drains",
+          "id": "34",
           "child": []
         },
         {
           "name": "Air Conditioning <br/>Accessories",
+          "id": "35",
           "child": []
         },
         {
@@ -191,7 +195,7 @@
           "child": [
             {
               "name": "Water heater",
-              "id": "",
+              "id": "36",
               "images": []
             }
           ]
@@ -466,6 +470,58 @@
         "Plasticconduitfittings4.webp",
         "Plasticconduitfittings5.webp",
         "Plasticconduitfittings6.webp"
+      ]
+    },
+
+    "32": {
+      "name": "Plumbing Tools",
+      "description": "<div><p>Plumbing Tools - Essential for Efficient and Effective Plumbing Professional-Grade Solutions for Plumbers and DIY Enthusiasts Our plumbing tools provide the essential solutions for efficient and effective plumbing installations, repairs, and maintenance.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>Durable Materials:</strong> High-quality materials for long-lasting use</li><li><strong>Ergonomic Design:</strong> Comfortable grip and reduced fatigue</li><li><strong>Precision Engineering:</strong> Accurate and precise performance</li><li><strong>Versatility:</strong> Range of tools for various plumbing tasks</li></ul><h4 style=\"color: black\">Explore Our Collection:</h4><ul><li><strong>Pipe Wrenches:</strong> Grip and twist pipes with ease</li><li><strong>Plunger:</strong> Effective solutions for clogged drains</li><li><strong>Tubing Cutters:</strong> Clean and precise cuts</li><li><strong>Valve Keys:</strong> Easy operation of valves</li><li><strong>Tool Sets:</strong> Comprehensive sets for complete plumbing solutions</li></ul><h4 style=\"color: black\">Benefits:</h4><ul><li><strong>Time-Saving:</strong> Efficient tools for faster completion of tasks</li><li><strong>Cost-Effective:</strong> Long-lasting tools reduce replacement costs</li><li><strong>Professional Results:</strong> High-quality tools for accurate and precise performance</li></ul></div>",
+      "images": [
+        "PlumbingTools1.webp",
+        "PlumbingTools2.webp",
+        "PlumbingTools3.webp",
+        "PlumbingTools4.webp"
+      ]
+    },
+    "33": {
+      "name": "Plumbing supply",
+      "description": "<div><p>Plumbing Supply - Comprehensive Solutions for All Your Plumbing Needs Reliable and Durable Products for Plumbers and DIY Enthusiasts Our plumbing supply offers a wide range of products to cater to all your plumbing requirements, including:</p><h4 style=\"color: black\">Tension Connection</h4><ul><li><strong>PPR Test Plug:</strong> Ensure leak-free connections with our PPR test plug</li><li><strong>Hot Gray Pressure:</strong> Withstand high temperatures and pressures with our hot gray pressure products</li></ul><h4 style=\"color: black\">External Thread Bushing</h4><ul><li><strong>Easy Installation:</strong> Simplify your plumbing tasks with our easy-to-install external thread bushing</li><li><strong>Secure Connection:</strong> Ensure a secure and leak-free connection with our external thread bushing</li></ul><h4 style=\"color: black\">Other Products</h4><ul><li><strong>Pipes and Fittings:</strong> Comprehensive range of pipes and fittings for various plumbing applications</li><li><strong>Valves and Accessories:</strong> High-quality valves and accessories for efficient plumbing solutions</li><li><strong>Tools and Equipment:</strong> Professional-grade tools and equipment for efficient plumbing tasks</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>One-Stop Solution:</strong> Find all your plumbing needs in one place</li><li><strong>High-Quality Products:</strong> Reliable and durable products for long-lasting performance</li><li><strong>Competitive Pricing:</strong> Affordable prices for all your plumbing supply needs</li></ul></div>",
+      "images": [
+        "Plumbingsupply1.webp",
+        "Plumbingsupply2.webp",
+        "Plumbingsupply3.webp",
+        "Plumbingsupply4.webp"
+      ]
+    },
+    "34": {
+      "name": "Floor drains",
+      "description": "<div><p>Plumbing Flood Drains - Protect Your Property from Water Damage</p><h4 style=\"color: black\">Reliable and Efficient Flood Protection Solutions</h4><ul><li><strong>Automatic Flood Control:</strong> Prevents water backup and flooding</li><li><strong>Heavy-Duty Construction:</strong> Durable and long-lasting performance</li><li><strong>Easy Installation:</strong> Simple and quick setup</li><li><strong>Customizable Options:</strong> Suitable for various plumbing applications</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>Peace of Mind:</strong> Protect your property from costly water damage</li><li><strong>Reduced Risk:</strong> Minimize the risk of flooding and water backup</li><li><strong>Compliance:</strong> Meets local plumbing codes and regulations</li></ul></div>",
+      "images": [
+        "Floordrains1.webp",
+        "Floordrains2.webp",
+        "Floordrains3.webp",
+        "Floordrains4.png"
+      ]
+    },
+
+    "35": {
+      "name": "Air Conditioning Accessories",
+      "description": "<div><p>Air Conditioning Accessories - Enhance Your Cooling Experience</p><h4 style=\"color: black\">Upgrade and Optimize Your AC System</h4><ul><li><strong>Air Filters:</strong> Improve indoor air quality and system efficiency</li><li><strong>Thermostats:</strong> Precise temperature control for ultimate comfort</li><li><strong>Ducting and Vents:</strong> Optimize airflow and reduce energy loss</li><li><strong>Mounting Hardware:</strong> Secure and stable installation</li><li><strong>Maintenance Kits:</strong> Keep your AC system running smoothly</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>Improved Performance:</strong> Boost your AC system's efficiency and effectiveness</li><li><strong>Increased Comfort:</strong> Enjoy a cooler and healthier indoor environment</li><li><strong>Extended Lifespan:</strong> Protect your AC system from damage and wear</li></ul></div>",
+      "images": [
+        "AirConditioningAccessories1.webp",
+        "AirConditioningAccessories2.webp",
+        "AirConditioningAccessories3.webp",
+        "AirConditioningAccessories4.webp"
+      ]
+    },
+    "36": {
+      "name": "Water heater",
+      "description": "<div><p>Plumbing Fixtures - Complete Your Plumbing System Essential Products for a Functional and Comfortable Space</p><h4 style=\"color: black\">Electric Water Heaters</h4><ul><li><strong>Reliable Hot Water Solutions:</strong> Efficient and long-lasting electric water heaters</li></ul><h4 style=\"color: black\">Faucets and Sinks</h4><ul><li><strong>Stylish and Functional Fixtures:</strong> For kitchens and bathrooms</li></ul><h4 style=\"color: black\">Toilets and Bidets</h4><ul><li><strong>Hygienic and Water-Efficient Options:</strong> For a comfortable and eco-friendly experience</li></ul><h4 style=\"color: black\">Showers and Bathtubs</h4><ul><li><strong>Relaxing and Rejuvenating Fixtures:</strong> For the ultimate bathing experience</li></ul><h4 style=\"color: black\">Drainage Solutions</h4><ul><li><strong>Effective and Easy-to-Install Drainage Products:</strong> For a hassle-free plumbing system</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>Convenience:</strong> Complete your plumbing system with essential fixtures</li><li><strong>Comfort:</strong> Enjoy a functional and comfortable living space</li><li><strong>Style:</strong> Enhance your space with stylish and modern fixtures</li></ul></div>",
+      "images": [
+        "Waterheater1.webp",
+        "Waterheater2.webp",
+        "Waterheater3.webp",
+        "Waterheater4.webp"
       ]
     }
   }

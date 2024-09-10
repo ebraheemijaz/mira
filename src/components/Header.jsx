@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 // import logo from "../assets/logo.png";
 import InfoContext, { DetailsContect } from "./InfoContext";
-import { Link } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 // import { Link } from "react-router-dom";
 
 export default function Header() {
@@ -9,6 +9,8 @@ export default function Header() {
   const [openMobileMenu, setOpenMobileMenu] = useState(false);
   const [nestedOpen, setNestedOpen] = useState("");
   const [nested1Open, setNested1Open] = useState("");
+  const location = useLocation();
+  const navigate = useNavigate();
 
   return (
     <header
@@ -116,7 +118,30 @@ export default function Header() {
                 </li>
               ))}
               <li>
-                <a href="#services">About Us</a>
+                <a
+                  href="#about-us"
+                  onClick={(sectionID = "about-us") => {
+                    const isHomePage = location.pathname === "/";
+                    if (!isHomePage) {
+                      navigate("/");
+                      setTimeout(() => {
+                        navigate(`/#${sectionID}`);
+                        const section = document.getElementById(sectionID);
+                        if (section) {
+                          section.scrollIntoView({ behavior: "smooth" });
+                        }
+                      }, 200);
+                    } else {
+                      navigate(`/#${sectionID}`);
+                      const section = document.getElementById(sectionID);
+                      if (section) {
+                        section.scrollIntoView({ behavior: "smooth" });
+                      }
+                    }
+                  }}
+                >
+                  About Us
+                </a>
               </li>
               <li>
                 <a href="#contact">Contact Us</a>

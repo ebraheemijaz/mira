@@ -82,7 +82,11 @@ export default function ProductDetail() {
               <a href="#" class="stretched-link">
                 <h3>Desciption</h3>
               </a>
-              <p>{product?.description}</p>
+              <div
+                dangerouslySetInnerHTML={{
+                  __html: product?.description,
+                }}
+              ></div>
             </div>
           </div>
         </div>

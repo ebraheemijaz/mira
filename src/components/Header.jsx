@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useContext, useState } from "react";
 // import logo from "../assets/logo.png";
 import InfoContext, { DetailsContect } from "./InfoContext";
 import { Link } from "react-router-dom";
@@ -6,9 +6,15 @@ import { Link } from "react-router-dom";
 
 export default function Header() {
   const details = useContext(DetailsContect);
+  const [openMobileMenu, setOpenMobileMenu] = useState(false);
+  const [nestedOpen, setNestedOpen] = useState("");
+  const [nested1Open, setNested1Open] = useState("");
 
   return (
-    <header id="header" class="header sticky-top">
+    <header
+      id="header"
+      class={`header sticky-top ${openMobileMenu ? "mobile-nav-active" : ""}`}
+    >
       <div class="topbar d-flex align-items-center">
         <div class="container d-flex justify-content-center justify-content-md-between">
           <div class="contact-info d-flex align-items-center">
@@ -46,13 +52,18 @@ export default function Header() {
             <ul>
               {details.navbar.map((each) => (
                 <li class="dropdown">
-                  <a href={"#"}>
+                  <a
+                    href={"#"}
+                    onClick={() => {
+                      setNestedOpen(each);
+                    }}
+                  >
                     <span>{each.name}</span>
                     {each?.child && each?.child?.length !== 0 && (
                       <i class="bi bi-chevron-down toggle-dropdown"></i>
                     )}
                   </a>
-                  <ul>
+                  <ul className={nestedOpen === each ? "dropdown-active" : ""}>
                     {each?.child &&
                       each?.child?.map((eachSubCat) => (
                         <li class="dropdown">
@@ -62,6 +73,9 @@ export default function Header() {
                                 ? `/product/${eachSubCat.id}`
                                 : "#"
                             }
+                            onClick={() => {
+                              setNested1Open(eachSubCat);
+                            }}
                           >
                             <span
                               dangerouslySetInnerHTML={{
@@ -73,10 +87,20 @@ export default function Header() {
                                 <i class="bi bi-chevron-down toggle-dropdown"></i>
                               )}
                           </a>
-                          <ul>
+                          <ul
+                            className={
+                              nested1Open === eachSubCat
+                                ? "dropdown-active"
+                                : ""
+                            }
+                          >
                             {eachSubCat?.child &&
                               eachSubCat.child.map((eachproduct) => (
-                                <li>
+                                <li
+                                  onClick={() => {
+                                    setOpenMobileMenu(false);
+                                  }}
+                                >
                                   <Link
                                     to={`/product/${eachproduct.id}`}
                                     dangerouslySetInnerHTML={{
@@ -98,7 +122,14 @@ export default function Header() {
                 <a href="#contact">Contact Us</a>
               </li>
             </ul>
-            <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+            <i
+              class={`mobile-nav-toggle d-xl-none bi bi-${
+                openMobileMenu ? "x" : "list"
+              }`}
+              onClick={() => {
+                setOpenMobileMenu((prev) => !prev);
+              }}
+            ></i>
           </nav>
         </div>
       </div>

@@ -33,7 +33,7 @@ export default function Header() {
                 details.setLang(details.lang === "EN" ? "AR" : "EN");
               }}
             >
-              {details.lang}
+              {details.lang==="EN"?"AR":"EN"}
             </span>
             {/* <a href="#" class="twitter">
               <i class="bi bi-twitter-x"></i>

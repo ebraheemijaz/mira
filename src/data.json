@@ -3,168 +3,202 @@
   "phone": "0532942055",
   "email": "info@miraprojectssupplier.com",
   "address": "Address Building 3273 Old Makkah Road Alfarouk District postal code 22349",
-  "navbar": [
+"navbar": [
     {
       "name": "Electricity",
       "nameAR": "كَهْرَباء",
       "child": [
         {
           "name": "Cables",
-          "nameAR": "nameAR",
+          "nameAR": "أسلاك",
           "child": [
             {
               "name": "Flexible cables",
-              "nameAR": "nameAR",
+              "nameAR": "أسلاك مرنة",
               "id": 1
             },
             {
               "name": "Flexible rubber cables",
+              "nameAR": "أسلاك مطاطية مرنة",
               "id": 2
             },
             {
               "name": "Specialized cables",
+              "nameAR": "أسلاك متخصصة",
               "id": 3
             }
           ]
         },
         {
           "name": "Low volatage <br/>cables",
+          "nameAR": "أسلاك منخفضة الجهد",
           "child": [
             {
               "name": "Uninsulated <br/>copper cables",
+              "nameAR": "أسلاك نحاسية غير معزولة",
               "id": "4"
             },
             {
               "name": "Green/Yellow <br/>Ground cables",
+              "nameAR": "أسلاك تأريض خضراء/صفراء",
               "id": "5"
             },
             {
               "name": "LSOH cables",
+              "nameAR": "أسلاك LSOH",
               "id": "6"
             },
             {
               "name": "XLPE Cables",
+              "nameAR": "أسلاك XLPE",
               "id": "7"
             },
             {
               "name": "STA Cables",
+              "nameAR": "أسلاك STA",
               "id": "8"
             },
             {
               "name": "SWA Cables",
+              "nameAR": "أسلاك SWA",
               "id": "9"
             }
           ]
         },
         {
           "name": "Wires",
+          "nameAR": "أسلاك",
           "child": [
             {
               "name": "British NYA Specification",
+              "nameAR": "مواصفات NYA البريطانية",
               "id": "10"
             },
             {
               "name": "NYA Wires-LSOH",
+              "nameAR": "أسلاك NYA-LSOH",
               "id": "11"
             },
             {
               "name": "American AWG Specification",
+              "nameAR": "مواصفات AWG الأمريكية",
               "id": "12"
             }
           ]
         },
         {
           "name": "Interior lighting",
+          "nameAR": "الإضاءة الداخلية",
           "child": [
             {
               "name": "Pendant lighting",
+              "nameAR": "الإضاءة المعلقة",
               "id": "13"
             },
             {
               "name": "Recessed lighting",
+              "nameAR": "الإضاءة المدمجة",
               "id": "14"
             },
             {
               "name": "Bulbs",
+              "nameAR": "مصابيح",
               "id": "15"
             },
             {
               "name": "Lighitng Strips",
+              "nameAR": "شرائط الإضاءة",
               "id": "16"
             },
             {
               "name": "Interior Spotlights",
+              "nameAR": "أضواء داخلية",
               "id": "17"
             },
             {
               "name": "Track Light",
+              "nameAR": "إضاءة مسار",
               "id": "18"
             },
             {
               "name": "Volatage Coverters",
+              "nameAR": "محولات الجهد",
               "id": "19"
             },
             {
               "name": "Lighting Unit",
+              "nameAR": "وحدة الإضاءة",
               "id": "20"
             }
           ]
         },
         {
           "name": "Exterior lighting",
+          "nameAR": "الإضاءة الخارجية",
           "child": [
             {
               "name": "Exterior Spotlights",
+              "nameAR": "أضواء خارجية",
               "id": "21"
             }
           ]
         },
         {
           "name": "Low volatage <br/>pannel and <br/>circuit  breakers",
+          "nameAR": "لوحات الجهد المنخفض وقواطع الدائرة",
           "child": [
             {
               "name": "Circuit Breaker",
+              "nameAR": "قاطع الدائرة",
               "id": "22"
             },
             {
               "name": "Electrical panels",
+              "nameAR": "لوحات كهربائية",
               "id": "24"
             }
           ]
         },
         {
           "name": "Electrical installation",
+          "nameAR": "التركيبات الكهربائية",
           "child": [
             {
               "name": "Electrical enclosures",
+              "nameAR": "أغطية كهربائية",
               "id": "27"
             },
             {
               "name": "Plastic Pipes",
+              "nameAR": "أنابيب بلاستيكية",
               "id": "28"
             },
             {
               "name": "Metal conduit fittings",
+              "nameAR": "وصلات أنابيب معدنية",
               "id": "29"
             },
             {
               "name": "Metal Pipes",
+              "nameAR": "أنابيب معدنية",
               "id": "30"
             },
             {
               "name": "Plastic conduit fittings",
+              "nameAR": "وصلات أنابيب بلاستيكية",
               "id": "31"
             }
           ]
         },
-
         {
           "name": "Switches and Sockets",
+          "nameAR": "المفاتيح والمقابس",
           "id": "25",
           "child": []
         },
         {
           "name": "Fans",
+          "nameAR": "المراوح",
           "id": "26",
           "child": []
         }
@@ -176,29 +210,35 @@
       "child": [
         {
           "name": "Plumbing Tools",
+          "nameAR": "أدوات السباكة",
           "id": "32",
           "child": []
         },
         {
           "name": "Plumbing supply",
+          "nameAR": "توريدات السباكة",
           "id": "33",
           "child": []
         },
         {
           "name": "Floor drains",
+          "nameAR": "مراحيض الأرضية",
           "id": "34",
           "child": []
         },
         {
           "name": "Air Conditioning <br/>Accessories",
+          "nameAR": "ملحقات تكييف الهواء",
           "id": "35",
           "child": []
         },
         {
           "name": "Plumbing Finishes",
+          "nameAR": "تشطيبات السباكة",
           "child": [
             {
               "name": "Water heater",
+              "nameAR": "سخان المياه",
               "id": "36",
               "images": []
             }
@@ -211,7 +251,7 @@
     "1": {
       "name": "Flexible cables",
       "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Flexible Cables:</strong> Versatile and adaptable for complex installations</li><li><strong>Flexible Rubber Cables:</strong> Resistant to abrasion, oil, and weathering</li><li><strong>Specialized Cables:</strong><ul><li>High-temperature cables</li><li>Chemical-resistant cables</li><li>Fire-resistant cables</li><li>Data transmission cables (e.g., coaxial, twisted pair)</li></ul></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
-      "descriptionAR": "<p>الكابلات: الاتصال بالمرونة والموثوقية</p><p>في Mira Project Suppliers، نقدم مجموعة شاملة من الكابلات المصممة لتلبية احتياجات مختلف الصناعات. تضمن منتجات الكابلات لدينا اتصالات موثوقة ومرونة ومتانة حتى في البيئات الصعبة.</p><h4 style='color: black;'>منتجات الكابلات لدينا:</h4><h5 style='color: black;'>أنواع الكابلات</h5><ul><li><strong>الكابلات المرنة:</strong> متعددة الاستخدامات وقابلة للتكيف مع التركيبات المعقدة</li><li><strong>كابلات المطاط المرنة:</strong> مقاومة للتآكل والزيوت والعوامل الجوية</li><li><strong>الكابلات المتخصصة:</strong><ul><li>كابلات درجات الحرارة العالية</li><li>كابلات مقاومة للمواد الكيميائية</li><li>كابلات مقاومة للحريق</li><li>كابلات نقل البيانات (مثل الكابلات المحورية، الكابلات الملتوية)</li></ul></li></ul><h4 style='color: black;'>لماذا تختار كابلاتنا:</h4><h5 style='color: black;'>ميزات الكابلات</h5><ul><li><strong>مرونة لا مثيل لها:</strong> تتكيف كابلاتنا مع التركيبات المعقدة والمساحات الضيقة</li><li><strong>المتانة:</strong> تتحمل البيئات القاسية والظروف القصوى</li><li><strong>التخصيص:</strong> حلول مصممة خصيصًا لتلبية متطلبات الصناعات المختلفة</li><li><strong>الامتثال:</strong> تفي بالمعايير الدولية (IEC، ASTM، إلخ.)</li><li><strong>خدمة عملاء ممتازة:</strong> دعم مخصص لتلبية احتياجاتك المتعلقة بالكابلات</li></ul><h4 style='color: black;'>التطبيقات:</h4><ul><li>الأتمتة الصناعية وأنظمة التحكم</li><li>التعاقدات الكهربائية والبناء</li><li>التصنيع (مثل السيارات، الطيران، الأجهزة)</li><li>الطاقة المتجددة (مثل الطاقة الشمسية، الرياح)</li><li>مراكز البيانات والشبكات</li></ul>",
+      "descriptionAR": "<p>الكابلات: الاتصال بمرونة وموثوقية</p><p>في Mira Project Suppliers، نقدم مجموعة شاملة من الكابلات المصممة لتلبية الاحتياجات المتنوعة للصناعات المختلفة. تضمن منتجات الكابلات لدينا اتصالات موثوقة ومرونة ومتانة، حتى في البيئات الصعبة.</p><h4 style='color: black;'>منتجات الكابلات لدينا:</h4><h5 style='color: black;'>أنواع الكابلات</h5><ul><li><strong>الكابلات المرنة:</strong> متعددة الاستخدامات وقابلة للتكيف مع التركيبات المعقدة</li><li><strong>الكابلات المطاطية المرنة:</strong> مقاومة للتآكل والزيوت والعوامل الجوية</li><li><strong>الكابلات المتخصصة:</strong><ul><li>كابلات مقاومة للحرارة العالية</li><li>كابلات مقاومة للمواد الكيميائية</li><li>كابلات مقاومة للحريق</li><li>كابلات نقل البيانات (مثل: الكابلات المحورية، الكابلات الملتوية)</li></ul></li></ul><h4 style='color: black;'>لماذا تختار كابلاتنا:</h4><h5 style='color: black;'>ميزات الكابلات</h5><ul><li><strong>مرونة لا تضاهى:</strong> كابلاتنا تتناسب مع التركيبات المعقدة والمساحات الضيقة</li><li><strong>المتانة:</strong> تتحمل البيئات القاسية والظروف القاسية</li><li><strong>التخصيص:</strong> حلول مخصصة لمتطلبات الصناعة المحددة</li><li><strong>الامتثال:</strong> تفي بالمعايير الدولية (IEC، ASTM، إلخ)</li><li><strong>خدمة العملاء الممتازة:</strong> دعم مخصص لاحتياجات الكابلات الخاصة بك</li></ul><h4 style='color: black;'>التطبيقات:</h4><ul><li>أتمتة الأنظمة الصناعية والتحكم</li><li>العقود الكهربائية والبناء</li><li>التصنيع (مثل: السيارات، الطيران، الأجهزة المنزلية)</li><li>الطاقة المتجددة (مثل: الطاقة الشمسية، الرياح)</li><li>مراكز البيانات والشبكات</li></ul>",
       "images": [
         "fibercables1.webp",
         "fibercables2.webp",
@@ -223,11 +263,13 @@
     "2": {
       "name": "Flexible rubber cables",
       "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Flexible Cables:</strong> Versatile and adaptable for complex installations</li><li><strong>Flexible Rubber Cables:</strong> Resistant to abrasion, oil, and weathering</li><li><strong>Specialized Cables:</strong><ul><li>High-temperature cables</li><li>Chemical-resistant cables</li><li>Fire-resistant cables</li><li>Data transmission cables (e.g., coaxial, twisted pair)</li></ul></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
+      "descriptionAR": "<p>الكابلات: الاتصال بمرونة وموثوقية</p><p>في Mira Project Suppliers، نقدم مجموعة شاملة من الكابلات المصممة لتلبية الاحتياجات المتنوعة للصناعات المختلفة. تضمن منتجات الكابلات لدينا اتصالات موثوقة ومرونة ومتانة، حتى في البيئات الصعبة.</p><h4 style='color: black;'>منتجات الكابلات لدينا:</h4><h5 style='color: black;'>أنواع الكابلات</h5><ul><li><strong>الكابلات المرنة:</strong> متعددة الاستخدامات وقابلة للتكيف مع التركيبات المعقدة</li><li><strong>الكابلات المطاطية المرنة:</strong> مقاومة للتآكل والزيوت والعوامل الجوية</li><li><strong>الكابلات المتخصصة:</strong><ul><li>كابلات مقاومة للحرارة العالية</li><li>كابلات مقاومة للمواد الكيميائية</li><li>كابلات مقاومة للحريق</li><li>كابلات نقل البيانات (مثل: الكابلات المحورية، الكابلات الملتوية)</li></ul></li></ul><h4 style='color: black;'>لماذا تختار كابلاتنا:</h4><h5 style='color: black;'>ميزات الكابلات</h5><ul><li><strong>مرونة لا تضاهى:</strong> كابلاتنا تتناسب مع التركيبات المعقدة والمساحات الضيقة</li><li><strong>المتانة:</strong> تتحمل البيئات القاسية والظروف القاسية</li><li><strong>التخصيص:</strong> حلول مخصصة لمتطلبات الصناعة المحددة</li><li><strong>الامتثال:</strong> تفي بالمعايير الدولية (IEC، ASTM، إلخ)</li><li><strong>خدمة العملاء الممتازة:</strong> دعم مخصص لاحتياجات الكابلات الخاصة بك</li></ul><h4 style='color: black;'>التطبيقات:</h4><ul><li>أتمتة الأنظمة الصناعية والتحكم</li><li>العقود الكهربائية والبناء</li><li>التصنيع (مثل: السيارات، الطيران، الأجهزة المنزلية)</li><li>الطاقة المتجددة (مثل: الطاقة الشمسية، الرياح)</li><li>مراكز البيانات والشبكات</li></ul>",
       "images": ["flexiblerubbercables1.webp", "flexiblerubbercables2.webp"]
     },
     "3": {
       "name": "Specialized cables",
       "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Flexible Cables:</strong> Versatile and adaptable for complex installations</li><li><strong>Flexible Rubber Cables:</strong> Resistant to abrasion, oil, and weathering</li><li><strong>Specialized Cables:</strong><ul><li>High-temperature cables</li><li>Chemical-resistant cables</li><li>Fire-resistant cables</li><li>Data transmission cables (e.g., coaxial, twisted pair)</li></ul></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
+      "descriptionAR": "<p>الكابلات: الاتصال بمرونة وموثوقية</p><p>في Mira Project Suppliers، نقدم مجموعة شاملة من الكابلات المصممة لتلبية الاحتياجات المتنوعة للصناعات المختلفة. تضمن منتجات الكابلات لدينا اتصالات موثوقة ومرونة ومتانة، حتى في البيئات الصعبة.</p><h4 style='color: black;'>منتجات الكابلات لدينا:</h4><h5 style='color: black;'>أنواع الكابلات</h5><ul><li><strong>الكابلات المرنة:</strong> متعددة الاستخدامات وقابلة للتكيف مع التركيبات المعقدة</li><li><strong>الكابلات المطاطية المرنة:</strong> مقاومة للتآكل والزيوت والعوامل الجوية</li><li><strong>الكابلات المتخصصة:</strong><ul><li>كابلات مقاومة للحرارة العالية</li><li>كابلات مقاومة للمواد الكيميائية</li><li>كابلات مقاومة للحريق</li><li>كابلات نقل البيانات (مثل: الكابلات المحورية، الكابلات الملتوية)</li></ul></li></ul><h4 style='color: black;'>لماذا تختار كابلاتنا:</h4><h5 style='color: black;'>ميزات الكابلات</h5><ul><li><strong>مرونة لا تضاهى:</strong> كابلاتنا تتناسب مع التركيبات المعقدة والمساحات الضيقة</li><li><strong>المتانة:</strong> تتحمل البيئات القاسية والظروف القاسية</li><li><strong>التخصيص:</strong> حلول مخصصة لمتطلبات الصناعة المحددة</li><li><strong>الامتثال:</strong> تفي بالمعايير الدولية (IEC، ASTM، إلخ)</li><li><strong>خدمة العملاء الممتازة:</strong> دعم مخصص لاحتياجات الكابلات الخاصة بك</li></ul><h4 style='color: black;'>التطبيقات:</h4><ul><li>أتمتة الأنظمة الصناعية والتحكم</li><li>العقود الكهربائية والبناء</li><li>التصنيع (مثل: السيارات، الطيران، الأجهزة المنزلية)</li><li>الطاقة المتجددة (مثل: الطاقة الشمسية، الرياح)</li><li>مراكز البيانات والشبكات</li></ul>",
       "images": [
         "specializedcables1.webp",
         "specializedcables2.webp",
@@ -239,11 +281,15 @@
     "4": {
       "name": "Uninsulated Copper Cables",
       "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
+      "nameAR": "كابلات نحاسية غير معزولة",
+      "descriptionAR": "<p>الكابلات: الاتصال بمرونة وموثوقية</p><p>في Mira Project Suppliers، نقدم مجموعة شاملة من الكابلات المصممة لتلبية الاحتياجات المتنوعة للصناعات المختلفة. تضمن منتجات الكابلات لدينا اتصالات موثوقة ومرونة ومتانة، حتى في البيئات الصعبة.</p><h4 style='color: black;'>منتجات الكابلات لدينا:</h4><h5 style='color: black;'>أنواع الكابلات</h5><ul><li><strong>الكابلات النحاسية غير المعزولة</strong></li><li><strong>كابلات الأرض الخضراء/الصفراء</strong></li><li><strong>كابلات LSOH</strong></li><li><strong>كابلات XLPE</strong></li><li><strong>كابلات STA</strong></li><li><strong>كابلات SWA</strong></li></ul><h4 style='color: black;'>لماذا تختار كابلاتنا:</h4><h5 style='color: black;'>ميزات الكابلات</h5><ul><li><strong>مرونة لا تضاهى:</strong> كابلاتنا تتناسب مع التركيبات المعقدة والمساحات الضيقة</li><li><strong>المتانة:</strong> تتحمل البيئات القاسية والظروف القاسية</li><li><strong>التخصيص:</strong> حلول مخصصة لمتطلبات الصناعة المحددة</li><li><strong>الامتثال:</strong> تفي بالمعايير الدولية (IEC، ASTM، إلخ)</li><li><strong>خدمة العملاء الممتازة:</strong> دعم مخصص لاحتياجات الكابلات الخاصة بك</li></ul><h4 style='color: black;'>التطبيقات:</h4><ul><li>أتمتة الأنظمة الصناعية والتحكم</li><li>العقود الكهربائية والبناء</li><li>التصنيع (مثل: السيارات، الطيران، الأجهزة المنزلية)</li><li>الطاقة المتجددة (مثل: الطاقة الشمسية، الرياح)</li><li>مراكز البيانات والشبكات</li></ul>",
       "images": ["uninstallcoppercables1.webp", "uninstallcoppercables2.webp"]
     },
     "5": {
       "name": "Green/Yellow Ground cables",
       "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
+      "nameAR": "كابلات الأرض الخضراء/الصفراء",
+      "descriptionAR": "<p>الكابلات: الاتصال بمرونة وموثوقية</p><p>في Mira Project Suppliers، نقدم مجموعة شاملة من الكابلات المصممة لتلبية الاحتياجات المتنوعة للصناعات المختلفة. تضمن منتجات الكابلات لدينا اتصالات موثوقة ومرونة ومتانة، حتى في البيئات الصعبة.</p><h4 style='color: black;'>منتجات الكابلات لدينا:</h4><h5 style='color: black;'>أنواع الكابلات</h5><ul><li><strong>الكابلات النحاسية غير المعزولة</strong></li><li><strong>كابلات الأرض الخضراء/الصفراء</strong></li><li><strong>كابلات LSOH</strong></li><li><strong>كابلات XLPE</strong></li><li><strong>كابلات STA</strong></li><li><strong>كابلات SWA</strong></li></ul><h4 style='color: black;'>لماذا تختار كابلاتنا:</h4><h5 style='color: black;'>ميزات الكابلات</h5><ul><li><strong>مرونة لا تضاهى:</strong> كابلاتنا تتناسب مع التركيبات المعقدة والمساحات الضيقة</li><li><strong>المتانة:</strong> تتحمل البيئات القاسية والظروف القاسية</li><li><strong>التخصيص:</strong> حلول مخصصة لمتطلبات الصناعة المحددة</li><li><strong>الامتثال:</strong> تفي بالمعايير الدولية (IEC، ASTM، إلخ)</li><li><strong>خدمة العملاء الممتازة:</strong> دعم مخصص لاحتياجات الكابلات الخاصة بك</li></ul><h4 style='color: black;'>التطبيقات:</h4><ul><li>أتمتة الأنظمة الصناعية والتحكم</li><li>العقود الكهربائية والبناء</li><li>التصنيع (مثل: السيارات، الطيران، الأجهزة المنزلية)</li><li>الطاقة المتجددة (مثل: الطاقة الشمسية، الرياح)</li><li>مراكز البيانات والشبكات</li></ul>",
       "images": [
         "greenyellowgroundcables1.webp",
         "greenyellowgroundcables2.webp",
@@ -253,6 +299,8 @@
     "6": {
       "name": "LSOH cables",
       "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
+      "nameAR": "كابلات LSOH",
+      "descriptionAR": "<p>الكابلات: الاتصال بمرونة وموثوقية</p><p>في Mira Project Suppliers، نقدم مجموعة شاملة من الكابلات المصممة لتلبية الاحتياجات المتنوعة للصناعات المختلفة. تضمن منتجات الكابلات لدينا اتصالات موثوقة ومرونة ومتانة، حتى في البيئات الصعبة.</p><h4 style='color: black;'>منتجات الكابلات لدينا:</h4><h5 style='color: black;'>أنواع الكابلات</h5><ul><li><strong>الكابلات النحاسية غير المعزولة</strong></li><li><strong>كابلات الأرض الخضراء/الصفراء</strong></li><li><strong>كابلات LSOH</strong></li><li><strong>كابلات XLPE</strong></li><li><strong>كابلات STA</strong></li><li><strong>كابلات SWA</strong></li></ul><h4 style='color: black;'>لماذا تختار كابلاتنا:</h4><h5 style='color: black;'>ميزات الكابلات</h5><ul><li><strong>مرونة لا تضاهى:</strong> كابلاتنا تتناسب مع التركيبات المعقدة والمساحات الضيقة</li><li><strong>المتانة:</strong> تتحمل البيئات القاسية والظروف القاسية</li><li><strong>التخصيص:</strong> حلول مخصصة لمتطلبات الصناعة المحددة</li><li><strong>الامتثال:</strong> تفي بالمعايير الدولية (IEC، ASTM، إلخ)</li><li><strong>خدمة العملاء الممتازة:</strong> دعم مخصص لاحتياجات الكابلات الخاصة بك</li></ul><h4 style='color: black;'>التطبيقات:</h4><ul><li>أتمتة الأنظمة الصناعية والتحكم</li><li>العقود الكهربائية والبناء</li><li>التصنيع (مثل: السيارات، الطيران، الأجهزة المنزلية)</li><li>الطاقة المتجددة (مثل: الطاقة الشمسية، الرياح)</li><li>مراكز البيانات والشبكات</li></ul>",
       "images": [
         "LSOHcables1.webp",
         "LSOHcables2.webp",
@@ -260,274 +308,338 @@
         "LSOHcables4.webp"
       ]
     },
-    "7": {
-      "name": "XLPE cables",
-      "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
-      "images": [
-        "XLPEcables1.webp",
-        "XLPEcables2.webp",
-        "XLPEcables3.webp",
-        "XLPEcables4.webp"
-      ]
-    },
-    "8": {
-      "name": "STA cables",
-      "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
-      "images": ["STAcables1.webp"]
-    },
-    "9": {
-      "name": "SWA cables",
-      "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
-      "images": [
-        "SWAcables1.webp",
-        "SWAcables2.webp",
-        "SWAcables3.webp",
-        "SWAcables4.webp"
-      ]
-    },
+   "7": {
+    "name": "XLPE cables",
+    "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
+    "nameAR": "كابلات XLPE",
+    "descriptionAR": "<p>الكابلات: الاتصال بمرونة وموثوقية</p><p>في Mira Project Suppliers، نقدم مجموعة شاملة من الكابلات المصممة لتلبية الاحتياجات المتنوعة للصناعات المختلفة. تضمن منتجات الكابلات لدينا اتصالات موثوقة ومرونة ومتانة، حتى في البيئات الصعبة.</p><h4 style='color: black;'>منتجات الكابلات لدينا:</h4><h5 style='color: black;'>أنواع الكابلات</h5><ul><li><strong>الكابلات النحاسية غير المعزولة</strong></li><li><strong>كابلات الأرض الخضراء/الصفراء</strong></li><li><strong>كابلات LSOH</strong></li><li><strong>كابلات XLPE</strong></li><li><strong>كابلات STA</strong></li><li><strong>كابلات SWA</strong></li></ul><h4 style='color: black;'>لماذا تختار كابلاتنا:</h4><h5 style='color: black;'>ميزات الكابلات</h5><ul><li><strong>مرونة لا تضاهى:</strong> كابلاتنا تتناسب مع التركيبات المعقدة والمساحات الضيقة</li><li><strong>المتانة:</strong> تتحمل البيئات القاسية والظروف القاسية</li><li><strong>التخصيص:</strong> حلول مخصصة لمتطلبات الصناعة المحددة</li><li><strong>الامتثال:</strong> تفي بالمعايير الدولية (IEC، ASTM، إلخ)</li><li><strong>خدمة العملاء الممتازة:</strong> دعم مخصص لاحتياجات الكابلات الخاصة بك</li></ul><h4 style='color: black;'>التطبيقات:</h4><ul><li>أتمتة الأنظمة الصناعية والتحكم</li><li>العقود الكهربائية والبناء</li><li>التصنيع (مثل: السيارات، الطيران، الأجهزة المنزلية)</li><li>الطاقة المتجددة (مثل: الطاقة الشمسية، الرياح)</li><li>مراكز البيانات والشبكات</li></ul>",
+    "images": [
+      "XLPEcables1.webp",
+      "XLPEcables2.webp",
+      "XLPEcables3.webp",
+      "XLPEcables4.webp"
+    ]
+  },
+  "8": {
+    "name": "STA cables",
+    "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
+    "nameAR": "كابلات STA",
+    "descriptionAR": "<p>الكابلات: الاتصال بمرونة وموثوقية</p><p>في Mira Project Suppliers، نقدم مجموعة شاملة من الكابلات المصممة لتلبية الاحتياجات المتنوعة للصناعات المختلفة. تضمن منتجات الكابلات لدينا اتصالات موثوقة ومرونة ومتانة، حتى في البيئات الصعبة.</p><h4 style='color: black;'>منتجات الكابلات لدينا:</h4><h5 style='color: black;'>أنواع الكابلات</h5><ul><li><strong>الكابلات النحاسية غير المعزولة</strong></li><li><strong>كابلات الأرض الخضراء/الصفراء</strong></li><li><strong>كابلات LSOH</strong></li><li><strong>كابلات XLPE</strong></li><li><strong>كابلات STA</strong></li><li><strong>كابلات SWA</strong></li></ul><h4 style='color: black;'>لماذا تختار كابلاتنا:</h4><h5 style='color: black;'>ميزات الكابلات</h5><ul><li><strong>مرونة لا تضاهى:</strong> كابلاتنا تتناسب مع التركيبات المعقدة والمساحات الضيقة</li><li><strong>المتانة:</strong> تتحمل البيئات القاسية والظروف القاسية</li><li><strong>التخصيص:</strong> حلول مخصصة لمتطلبات الصناعة المحددة</li><li><strong>الامتثال:</strong> تفي بالمعايير الدولية (IEC، ASTM، إلخ)</li><li><strong>خدمة العملاء الممتازة:</strong> دعم مخصص لاحتياجات الكابلات الخاصة بك</li></ul><h4 style='color: black;'>التطبيقات:</h4><ul><li>أتمتة الأنظمة الصناعية والتحكم</li><li>العقود الكهربائية والبناء</li><li>التصنيع (مثل: السيارات، الطيران، الأجهزة المنزلية)</li><li>الطاقة المتجددة (مثل: الطاقة الشمسية، الرياح)</li><li>مراكز البيانات والشبكات</li></ul>",
+    "images": ["STAcables1.webp"]
+  },
+  "9": {
+    "name": "SWA cables",
+    "description": "<p>Cables: Connecting with Flexibility and Reliability</p><p>At Mira Project Suppliers, we offer a comprehensive range of cables, designed to meet the diverse needs of various industries. Our cable products ensure reliable connections, flexibility, and durability, even in demanding environments.</p><h4 style='color: black;'>Our Cable Products:</h4><h5 style='color: black;'>Types of Cables</h5><ul><li><strong>Uninsulated copper cables</strong></li><li><strong>Green/Yellow Ground cables</strong></li><li><strong>LSOH cables</strong></li><li><strong>XLPE cables</strong></li><li><strong>STA cables</strong></li><li><strong>SWA cables</strong></li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h5 style='color: black;'>Cable Features</h5><ul><li><strong>Unmatched flexibility:</strong> Our cables accommodate complex installations and tight spaces</li><li><strong>Durability:</strong> Withstand harsh environments and extreme conditions</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Compliance:</strong> Meet international standards (IEC, ASTM, etc.)</li><li><strong>Excellent customer service:</strong> Dedicated support for your cable needs</li></ul><h4 style='color: black;'>Applications:</h4><ul><li>Industrial automation and control systems</li><li>Electrical contracting and construction</li><li>Manufacturing (e.g., automotive, aerospace, appliances)</li><li>Renewable energy (e.g., solar, wind)</li><li>Data centers and networking</li></ul>",
+    "nameAR": "كابلات SWA",
+    "descriptionAR": "<p>الكابلات: الاتصال بمرونة وموثوقية</p><p>في Mira Project Suppliers، نقدم مجموعة شاملة من الكابلات المصممة لتلبية الاحتياجات المتنوعة للصناعات المختلفة. تضمن منتجات الكابلات لدينا اتصالات موثوقة ومرونة ومتانة، حتى في البيئات الصعبة.</p><h4 style='color: black;'>منتجات الكابلات لدينا:</h4><h5 style='color: black;'>أنواع الكابلات</h5><ul><li><strong>الكابلات النحاسية غير المعزولة</strong></li><li><strong>كابلات الأرض الخضراء/الصفراء</strong></li><li><strong>كابلات LSOH</strong></li><li><strong>كابلات XLPE</strong></li><li><strong>كابلات STA</strong></li><li><strong>كابلات SWA</strong></li></ul><h4 style='color: black;'>لماذا تختار كابلاتنا:</h4><h5 style='color: black;'>ميزات الكابلات</h5><ul><li><strong>مرونة لا تضاهى:</strong> كابلاتنا تتناسب مع التركيبات المعقدة والمساحات الضيقة</li><li><strong>المتانة:</strong> تتحمل البيئات القاسية والظروف القاسية</li><li><strong>التخصيص:</strong> حلول مخصصة لمتطلبات الصناعة المحددة</li><li><strong>الامتثال:</strong> تفي بالمعايير الدولية (IEC، ASTM، إلخ)</li><li><strong>خدمة العملاء الممتازة:</strong> دعم مخصص لاحتياجات الكابلات الخاصة بك</li></ul><h4 style='color: black;'>التطبيقات:</h4><ul><li>أتمتة الأنظمة الصناعية والتحكم</li><li>العقود الكهربائية والبناء</li><li>التصنيع (مثل: السيارات، الطيران، الأجهزة المنزلية)</li><li>الطاقة المتجددة (مثل: الطاقة الشمسية، الرياح)</li><li>مراكز البيانات والشبكات</li></ul>",
+    "images": [
+      "SWAcables1.webp",
+      "SWAcables2.webp",
+      "SWAcables3.webp",
+      "SWAcables4.webp"
+    ]
+  },
 
     "10": {
-      "name": "British NYA Specification",
-      "description": "<p>At Mira Project Suppliers, we specialize in providing high-quality electrical wires, ensuring reliable and efficient connections for various applications. Our extensive range of electrical wires meets international standards, catering to diverse industry needs.</p><h4 style='color: black;'>Our Electrical Wire Products:</h4><ul><li><strong>Unmatched quality:</strong> Our wires meet international standards (IEC, ASTM, etc.)</li><li><strong>Wide range:</strong> We offer various sizes, materials, and insulation types</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Competitive pricing:</strong> Cost-effective without compromising on quality</li><li><strong>Excellent customer service:</strong> Dedicated support for your electrical wire needs</li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h4 style='color: black;'>Applications:</h4><ul><li>Electrical contracting and construction</li><li>Industrial automation and control systems</li><li>Electrical panels and switchgear</li><li>Appliance manufacturing</li><li>Automotive and aerospace industries</li></ul>",
-      "images": [
-        "BritishNYASpecification1.webp",
-        "BritishNYASpecification2.webp",
-        "BritishNYASpecification3.webp",
-        "BritishNYASpecification4.webp"
-      ]
-    },
-    "11": {
-      "name": "NYA Wires-LSOH",
-      "description": "<p>At Mira Project Suppliers, we specialize in providing high-quality electrical wires, ensuring reliable and efficient connections for various applications. Our extensive range of electrical wires meets international standards, catering to diverse industry needs.</p><h4 style='color: black;'>Our Electrical Wire Products:</h4><ul><li><strong>Unmatched quality:</strong> Our wires meet international standards (IEC, ASTM, etc.)</li><li><strong>Wide range:</strong> We offer various sizes, materials, and insulation types</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Competitive pricing:</strong> Cost-effective without compromising on quality</li><li><strong>Excellent customer service:</strong> Dedicated support for your electrical wire needs</li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h4 style='color: black;'>Applications:</h4><ul><li>Electrical contracting and construction</li><li>Industrial automation and control systems</li><li>Electrical panels and switchgear</li><li>Appliance manufacturing</li><li>Automotive and aerospace industries</li></ul>",
-      "images": [
-        "NYAWiresLSOH1.webp",
-        "NYAWiresLSOH2.webp",
-        "NYAWiresLSOH3.webp",
-        "NYAWiresLSOH4.webp"
-      ]
-    },
-    "12": {
-      "name": "American AWG Specification ",
-      "description": "<p>At Mira Project Suppliers, we specialize in providing high-quality electrical wires, ensuring reliable and efficient connections for various applications. Our extensive range of electrical wires meets international standards, catering to diverse industry needs.</p><h4 style='color: black;'>Our Electrical Wire Products:</h4><ul><li><strong>Unmatched quality:</strong> Our wires meet international standards (IEC, ASTM, etc.)</li><li><strong>Wide range:</strong> We offer various sizes, materials, and insulation types</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Competitive pricing:</strong> Cost-effective without compromising on quality</li><li><strong>Excellent customer service:</strong> Dedicated support for your electrical wire needs</li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h4 style='color: black;'>Applications:</h4><ul><li>Electrical contracting and construction</li><li>Industrial automation and control systems</li><li>Electrical panels and switchgear</li><li>Appliance manufacturing</li><li>Automotive and aerospace industries</li></ul>",
-      "images": [
-        "AmericanAWGSpecification1.webp",
-        "AmericanAWGSpecification2.webp",
-        "AmericanAWGSpecification3.webp",
-        "AmericanAWGSpecification4.webp",
-        "AmericanAWGSpecification5.webp"
-      ]
-    },
+    "name": "British NYA Specification",
+    "description": "<p>At Mira Project Suppliers, we specialize in providing high-quality electrical wires, ensuring reliable and efficient connections for various applications. Our extensive range of electrical wires meets international standards, catering to diverse industry needs.</p><h4 style='color: black;'>Our Electrical Wire Products:</h4><ul><li><strong>Unmatched quality:</strong> Our wires meet international standards (IEC, ASTM, etc.)</li><li><strong>Wide range:</strong> We offer various sizes, materials, and insulation types</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Competitive pricing:</strong> Cost-effective without compromising on quality</li><li><strong>Excellent customer service:</strong> Dedicated support for your electrical wire needs</li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h4 style='color: black;'>Applications:</h4><ul><li>Electrical contracting and construction</li><li>Industrial automation and control systems</li><li>Electrical panels and switchgear</li><li>Appliance manufacturing</li><li>Automotive and aerospace industries</li></ul>",
+    "nameAR": "مواصفات British NYA",
+    "descriptionAR": "<p>في Mira Project Suppliers، نتخصص في توفير الأسلاك الكهربائية عالية الجودة، مما يضمن اتصالات موثوقة وفعالة لتطبيقات مختلفة. تلبية مجموعتنا الواسعة من الأسلاك الكهربائية للمعايير الدولية، مما يلبي احتياجات الصناعات المتنوعة.</p><h4 style='color: black;'>منتجات الأسلاك الكهربائية لدينا:</h4><ul><li><strong>جودة لا تضاهى:</strong> تفي أسلاكنا بالمعايير الدولية (IEC، ASTM، إلخ)</li><li><strong>مجموعة واسعة:</strong> نقدم أحجامًا وموادًا وأنواع عزل مختلفة</li><li><strong>التخصيص:</strong> حلول مخصصة لمتطلبات الصناعة المحددة</li><li><strong>أسعار تنافسية:</strong> فعالة من حيث التكلفة دون المساومة على الجودة</li><li><strong>خدمة العملاء الممتازة:</strong> دعم مخصص لاحتياجات الأسلاك الكهربائية الخاصة بك</li></ul><h4 style='color: black;'>لماذا تختار كابلاتنا:</h4><h4 style='color: black;'>التطبيقات:</h4><ul><li>العقود الكهربائية والبناء</li><li>أتمتة الأنظمة الصناعية والتحكم</li><li>لوحات كهربائية ومفاتيح التحكم</li><li>تصنيع الأجهزة</li><li>الصناعات الجوية والسيارات</li></ul>",
+    "images": [
+      "BritishNYASpecification1.webp",
+      "BritishNYASpecification2.webp",
+      "BritishNYASpecification3.webp",
+      "BritishNYASpecification4.webp"
+    ]
+  },
+  "11": {
+    "name": "NYA Wires-LSOH",
+    "description": "<p>At Mira Project Suppliers, we specialize in providing high-quality electrical wires, ensuring reliable and efficient connections for various applications. Our extensive range of electrical wires meets international standards, catering to diverse industry needs.</p><h4 style='color: black;'>Our Electrical Wire Products:</h4><ul><li><strong>Unmatched quality:</strong> Our wires meet international standards (IEC, ASTM, etc.)</li><li><strong>Wide range:</strong> We offer various sizes, materials, and insulation types</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Competitive pricing:</strong> Cost-effective without compromising on quality</li><li><strong>Excellent customer service:</strong> Dedicated support for your electrical wire needs</li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h4 style='color: black;'>Applications:</h4><ul><li>Electrical contracting and construction</li><li>Industrial automation and control systems</li><li>Electrical panels and switchgear</li><li>Appliance manufacturing</li><li>Automotive and aerospace industries</li></ul>",
+    "nameAR": "أسلاك NYA-LSOH",
+    "descriptionAR": "<p>في Mira Project Suppliers، نتخصص في توفير الأسلاك الكهربائية عالية الجودة، مما يضمن اتصالات موثوقة وفعالة لتطبيقات مختلفة. تلبية مجموعتنا الواسعة من الأسلاك الكهربائية للمعايير الدولية، مما يلبي احتياجات الصناعات المتنوعة.</p><h4 style='color: black;'>منتجات الأسلاك الكهربائية لدينا:</h4><ul><li><strong>جودة لا تضاهى:</strong> تفي أسلاكنا بالمعايير الدولية (IEC، ASTM، إلخ)</li><li><strong>مجموعة واسعة:</strong> نقدم أحجامًا وموادًا وأنواع عزل مختلفة</li><li><strong>التخصيص:</strong> حلول مخصصة لمتطلبات الصناعة المحددة</li><li><strong>أسعار تنافسية:</strong> فعالة من حيث التكلفة دون المساومة على الجودة</li><li><strong>خدمة العملاء الممتازة:</strong> دعم مخصص لاحتياجات الأسلاك الكهربائية الخاصة بك</li></ul><h4 style='color: black;'>لماذا تختار كابلاتنا:</h4><h4 style='color: black;'>التطبيقات:</h4><ul><li>العقود الكهربائية والبناء</li><li>أتمتة الأنظمة الصناعية والتحكم</li><li>لوحات كهربائية ومفاتيح التحكم</li><li>تصنيع الأجهزة</li><li>الصناعات الجوية والسيارات</li></ul>",
+    "images": [
+      "NYAWiresLSOH1.webp",
+      "NYAWiresLSOH2.webp",
+      "NYAWiresLSOH3.webp",
+      "NYAWiresLSOH4.webp"
+    ]
+  },
+  "12": {
+    "name": "American AWG Specification",
+    "description": "<p>At Mira Project Suppliers, we specialize in providing high-quality electrical wires, ensuring reliable and efficient connections for various applications. Our extensive range of electrical wires meets international standards, catering to diverse industry needs.</p><h4 style='color: black;'>Our Electrical Wire Products:</h4><ul><li><strong>Unmatched quality:</strong> Our wires meet international standards (IEC, ASTM, etc.)</li><li><strong>Wide range:</strong> We offer various sizes, materials, and insulation types</li><li><strong>Customization:</strong> Tailored solutions for specific industry requirements</li><li><strong>Competitive pricing:</strong> Cost-effective without compromising on quality</li><li><strong>Excellent customer service:</strong> Dedicated support for your electrical wire needs</li></ul><h4 style='color: black;'>Why Choose Our Cables:</h4><h4 style='color: black;'>Applications:</h4><ul><li>Electrical contracting and construction</li><li>Industrial automation and control systems</li><li>Electrical panels and switchgear</li><li>Appliance manufacturing</li><li>Automotive and aerospace industries</li></ul>",
+    "nameAR": "مواصفات American AWG",
+    "descriptionAR": "<p>في Mira Project Suppliers، نتخصص في توفير الأسلاك الكهربائية عالية الجودة، مما يضمن اتصالات موثوقة وفعالة لتطبيقات مختلفة. تلبية مجموعتنا الواسعة من الأسلاك الكهربائية للمعايير الدولية، مما يلبي احتياجات الصناعات المتنوعة.</p><h4 style='color: black;'>منتجات الأسلاك الكهربائية لدينا:</h4><ul><li><strong>جودة لا تضاهى:</strong> تفي أسلاكنا بالمعايير الدولية (IEC، ASTM، إلخ)</li><li><strong>مجموعة واسعة:</strong> نقدم أحجامًا وموادًا وأنواع عزل مختلفة</li><li><strong>التخصيص:</strong> حلول مخصصة لمتطلبات الصناعة المحددة</li><li><strong>أسعار تنافسية:</strong> فعالة من حيث التكلفة دون المساومة على الجودة</li><li><strong>خدمة العملاء الممتازة:</strong> دعم مخصص لاحتياجات الأسلاك الكهربائية الخاصة بك</li></ul><h4 style='color: black;'>لماذا تختار كابلاتنا:</h4><h4 style='color: black;'>التطبيقات:</h4><ul><li>العقود الكهربائية والبناء</li><li>أتمتة الأنظمة الصناعية والتحكم</li><li>لوحات كهربائية ومفاتيح التحكم</li><li>تصنيع الأجهزة</li><li>الصناعات الجوية والسيارات</li></ul>",
+    "images": [
+      "AmericanAWGSpecification1.webp",
+      "AmericanAWGSpecification2.webp",
+      "AmericanAWGSpecification3.webp",
+      "AmericanAWGSpecification4.webp",
+      "AmericanAWGSpecification5.webp"
+    ]
+  },
 
     "13": {
-      "name": "Pendant lighting",
-      "description": "<div><p>Add a touch of sophistication and elegance to your interior with our stunning pendant lighting collection. Pendant lights are a versatile and stylish way to illuminate your home, office, or commercial space, offering a unique blend of form and function.</p><h4 style='color: black;'>Key Features:</h4><ul><li>Suspended from the ceiling, pendant lights provide focused lighting and create a sense of openness</li><li>Available in a wide range of styles, materials, and finishes to suit your interior design</li><li>Adjustable arms and shades allow for customizable lighting direction and ambiance</li><li>Energy-efficient options available, including LED and eco-friendly materials</li><li>Perfect for kitchens, dining rooms, living rooms, bedrooms, and commercial spaces</li></ul><h4 style='color: black;'>Benefits:</h4><ul><li>Creates a focal point in the room, adding visual interest and style</li><li>Provides task lighting for cooking, reading, and workspaces</li><li>Can be used to create a cozy atmosphere or brighten up a room</li><li>Easy to install and maintain</li><li>Suitable for modern, contemporary, and traditional interior designs</li></ul><h4 style='color: black;'>Explore Our Collection</h4><p>Browse our extensive range of pendant lights, featuring:</p><ul><li>Modern and sleek designs</li><li>Rustic and vintage-inspired fixtures</li><li>Industrial-chic metal shades</li><li>Elegant glass and crystal pendants</li><li>Energy-efficient LED options</li></ul><p>Find the perfect pendant light to elevate your space and create a warm, inviting atmosphere.</p></div>",
-      "images": ["Pendantlighting1.webp", "Pendantlighting2.webp"]
-    },
-    "14": {
-      "name": "Recessed lighting",
-      "description": "<div><p>Experience the perfect blend of style and subtlety with our recessed lighting solutions. Recessed lights are expertly designed to blend into your ceiling, providing a sleek and minimalist appearance while delivering exceptional illumination.</p><h4 style='color: black;'>Key Features:</h4><ul><li>Flush-mounted design creates a seamless look, perfect for modern interiors</li><li>Available in various trim styles, reflector finishes, and lens options</li><li>Adjustable and fixed options for customizable lighting direction</li><li>Energy-efficient LED and halogen options for reduced energy consumption</li><li>Suitable for living rooms, kitchens, hallways, and commercial spaces</li></ul><h4 style='color: black;'>Benefits:</h4><ul><li>Creates a clean and uncluttered ceiling line, perfect for minimalist designs</li><li>Provides focused lighting for task areas, such as kitchen counters and reading nooks</li><li>Can be used to create ambiance and highlight architectural features</li><li>Easy to install and maintain, with simple bulb replacement</li><li>Compatible with smart home systems for advanced lighting control</li></ul><h4 style='color: black;'>Explore Our Collection</h4><p>Discover our range of recessed lighting options, featuring:</p><ul><li>Ultra-thin trim designs for minimal visual impact</li><li>High-performance reflectors for maximum light output</li><li>Adjustable and fixed gimbal rings for precise lighting control</li><li>Wet-location and outdoor-rated options for versatility</li><li>Energy-efficient LED solutions for reduced energy consumption</li></ul></div>",
-      "images": [
-        "Recessedlighting1.webp",
-        "Recessedlighting3.webp",
-        "Recessedlighting4.jpg",
-        "Recessedlighting5.jpg"
-      ]
-    },
-    "15": {
-      "name": "Bulbs ",
-      "description": "<div><p>Find the perfect light bulb to suit your needs with our extensive range of incandescent, halogen, and LED options. From warm and cozy to bright and energizing, our bulbs offer a variety of color temperatures and lumen outputs to enhance your space.</p><h4 style='color: black;'>Key Features:</h4><ul><li><strong>Energy Efficiency:</strong> LED bulbs use up to 90% less energy than traditional incandescent bulbs</li><li><strong>Long-Lasting:</strong> LED bulbs can last up to 25 times longer than incandescent bulbs</li><li><strong>Dimmable:</strong> Many of our bulbs are dimmable, allowing for customizable brightness</li><li><strong>Color Temperature:</strong> Choose from warm white (2700K-3000K), soft white (3000K-3500K), bright white (3500K-4100K), and daylight (5000K-6500K)</li><li><strong>Lumen Output:</strong> Select from a range of lumen outputs to suit your lighting needs</li></ul><h4 style='color: black;'>Benefits:</h4><ul><li><strong>Save Energy and Money:</strong> Reduce your energy consumption and lower your utility bills</li><li><strong>Less Maintenance:</strong> Long-lasting bulbs mean less frequent replacements</li><li><strong>Customizable Lighting:</strong> Dimmable bulbs and various color temperatures allow for personalized lighting</li><li><strong>Environmentally Friendly:</strong> LED bulbs are free of toxic chemicals and recyclable</li></ul><h4 style='color: black;'>Explore Our Collection</h4><p>Discover our range of recessed lighting options, featuring:</p><ul><li><strong>Incandescent Bulbs:</strong> Classic and affordable, perfect for decorative fixtures</li><li><strong>Halogen Bulbs:</strong> Bright and energizing, ideal for task lighting</li><li><strong>LED Bulbs:</strong> Energy-efficient and long-lasting, suitable for a wide range of applications</li><li><strong>Smart Bulbs:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li><li><strong>Specialty Bulbs:</strong> Appliance bulbs, stage lighting, and more!</li></ul></div>",
-      "images": ["Bulbs1.webp", "Bulbs2.webp", "Bulbs3.webp", "Bulbs4.webp"]
-    },
-    "16": {
-      "name": "Lighitng Strips",
-      "description": "<div><p>Add a touch of modernity and flexibility to your lighting with our innovative lighting strips. These versatile and easy-to-use strips can be cut to size, bent, and shaped to fit any space or design.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Flexible and Bendable:</strong> Can be shaped to fit curved or irregular surfaces</li><li><strong>Cuttable:</strong> Can be cut to size for customized lengths</li><li><strong>Adhesive Backing:</strong> Easy to install with peel-and-stick adhesive</li><li><strong>Waterproof:</strong> Suitable for indoor and outdoor use, including bathrooms and kitchens</li><li><strong>Color Changing:</strong> RGB and color temperature adjustable options available</li></ul><h4 style=\"color: black;\">Benefits:</h4><ul><li><strong>Easy Installation:</strong> Simple peel-and-stick installation, no wiring required</li><li><strong>Customizable:</strong> Cut to size and shape to fit your unique space</li><li><strong>Space-Saving:</strong> Thin and flexible design, perfect for tight spaces</li><li><strong>Energy Efficient:</strong> LED technology uses minimal energy</li><li><strong>Ambiance Creation:</strong> Create unique ambiance and highlight architectural features</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>RGB Lighting Strips:</strong> Color-changing options for dynamic ambiance</li><li><strong>White Lighting Strips:</strong> Warm white, soft white, and bright white options</li><li><strong>Outdoor Lighting Strips:</strong> Weatherproof and durable options for exterior use</li><li><strong>Smart Lighting Strips:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li><li><strong>Specialty Lighting Strips:</strong> UV, infrared, and more!</li></ul><h4 style=\"color: black;\">Ideas for Use</h4><ul><li>Under cabinet lighting</li><li>Backlighting for TVs and computers</li><li>Accent lighting for stairs and hallways</li><li>Ambient lighting for bedrooms and living rooms</li><li>Decorative lighting for parties and events</li></ul></div>",
-      "images": [
-        "LighitngStrips1.webp",
-        "LighitngStrips3.webp",
-        "LighitngStrips4.jpg",
-        "LighitngStrips5.jpg"
-      ]
-    },
+    "name": "Pendant lighting",
+    "description": "<div><p>Add a touch of sophistication and elegance to your interior with our stunning pendant lighting collection. Pendant lights are a versatile and stylish way to illuminate your home, office, or commercial space, offering a unique blend of form and function.</p><h4 style='color: black;'>Key Features:</h4><ul><li>Suspended from the ceiling, pendant lights provide focused lighting and create a sense of openness</li><li>Available in a wide range of styles, materials, and finishes to suit your interior design</li><li>Adjustable arms and shades allow for customizable lighting direction and ambiance</li><li>Energy-efficient options available, including LED and eco-friendly materials</li><li>Perfect for kitchens, dining rooms, living rooms, bedrooms, and commercial spaces</li></ul><h4 style='color: black;'>Benefits:</h4><ul><li>Creates a focal point in the room, adding visual interest and style</li><li>Provides task lighting for cooking, reading, and workspaces</li><li>Can be used to create a cozy atmosphere or brighten up a room</li><li>Easy to install and maintain</li><li>Suitable for modern, contemporary, and traditional interior designs</li></ul><h4 style='color: black;'>Explore Our Collection</h4><p>Browse our extensive range of pendant lights, featuring:</p><ul><li>Modern and sleek designs</li><li>Rustic and vintage-inspired fixtures</li><li>Industrial-chic metal shades</li><li>Elegant glass and crystal pendants</li><li>Energy-efficient LED options</li></ul><p>Find the perfect pendant light to elevate your space and create a warm, inviting atmosphere.</p></div>",
+    "nameAR": "إضاءة تعليقية",
+    "descriptionAR": "<div><p>أضف لمسة من الرقي والأناقة إلى داخلك مع مجموعتنا الرائعة من الإضاءة التعليقية. الأضواء التعليقية هي وسيلة متعددة الاستخدامات وأنيقة لإنارة منزلك أو مكتبك أو مساحتك التجارية، مما يوفر مزيجًا فريدًا من الشكل والوظيفة.</p><h4 style='color: black;'>الميزات الرئيسية:</h4><ul><li>معلقة من السقف، توفر الأضواء التعليقية إضاءة مركزة وتخلق إحساسًا بالانفتاح</li><li>متوفرة في مجموعة واسعة من الأساليب والمواد والتشطيبات لتناسب تصميم داخلك</li><li>تسمح الأذرع والأغطية القابلة للتعديل بتوجيه الإضاءة وتعديل الأجواء</li><li>خيارات موفرة للطاقة متاحة، بما في ذلك LED ومواد صديقة للبيئة</li><li>مثالية للمطابخ وغرف الطعام وغرف المعيشة وغرف النوم والمساحات التجارية</li></ul><h4 style='color: black;'>الفوائد:</h4><ul><li>تخلق نقطة محورية في الغرفة، مما يضيف اهتمامًا بصريًا وأسلوبًا</li><li>توفر إضاءة موجهة للطهي والقراءة ومساحات العمل</li><li>يمكن استخدامها لخلق جو مريح أو لإضاءة الغرفة</li><li>سهل التركيب والصيانة</li><li>تناسب التصاميم الداخلية الحديثة والمعاصرة والتقليدية</li></ul><h4 style='color: black;'>استكشف مجموعتنا</h4><p>تصفح مجموعتنا الواسعة من الأضواء التعليقية، التي تتميز بـ:</p><ul><li>تصاميم حديثة وأنيقة</li><li>تركيبات ذات طابع ريفي وعتيق</li><li>أغطية معدنية بتصميم صناعي أنيق</li><li>أضواء زجاجية وكريستالية أنيقة</li><li>خيارات LED موفرة للطاقة</li></ul><p>ابحث عن الضوء التعليقي المثالي لرفع مستوى مساحتك وخلق جو دافئ وجذاب.</p></div>",
+    "images": ["Pendantlighting1.webp", "Pendantlighting2.webp"]
+  },
+  "14": {
+    "name": "Recessed lighting",
+    "description": "<div><p>Experience the perfect blend of style and subtlety with our recessed lighting solutions. Recessed lights are expertly designed to blend into your ceiling, providing a sleek and minimalist appearance while delivering exceptional illumination.</p><h4 style='color: black;'>Key Features:</h4><ul><li>Flush-mounted design creates a seamless look, perfect for modern interiors</li><li>Available in various trim styles, reflector finishes, and lens options</li><li>Adjustable and fixed options for customizable lighting direction</li><li>Energy-efficient LED and halogen options for reduced energy consumption</li><li>Suitable for living rooms, kitchens, hallways, and commercial spaces</li></ul><h4 style='color: black;'>Benefits:</h4><ul><li>Creates a clean and uncluttered ceiling line, perfect for minimalist designs</li><li>Provides focused lighting for task areas, such as kitchen counters and reading nooks</li><li>Can be used to create ambiance and highlight architectural features</li><li>Easy to install and maintain, with simple bulb replacement</li><li>Compatible with smart home systems for advanced lighting control</li></ul><h4 style='color: black;'>Explore Our Collection</h4><p>Discover our range of recessed lighting options, featuring:</p><ul><li>Ultra-thin trim designs for minimal visual impact</li><li>High-performance reflectors for maximum light output</li><li>Adjustable and fixed gimbal rings for precise lighting control</li><li>Wet-location and outdoor-rated options for versatility</li><li>Energy-efficient LED solutions for reduced energy consumption</li></ul></div>",
+    "nameAR": "إضاءة مدمجة",
+    "descriptionAR": "<div><p>اكتشف المزيج المثالي من الأناقة والاعتدال مع حلول الإضاءة المدمجة لدينا. الأضواء المدمجة مصممة ببراعة لتندمج مع السقف، مما يوفر مظهرًا سلسًا و minimalist مع تقديم إضاءة استثنائية.</p><h4 style='color: black;'>الميزات الرئيسية:</h4><ul><li>تصميم مدمج يخلق مظهرًا سلسًا، مثالي للتصاميم الحديثة</li><li>متوفرة بأنماط تقليم مختلفة، وتشطيبات عاكسة، وخيارات عدسات</li><li>خيارات قابلة للتعديل وثابتة لتوجيه الإضاءة حسب الرغبة</li><li>خيارات موفرة للطاقة من LED وهالوجين لتقليل استهلاك الطاقة</li><li>مناسبة لغرف المعيشة والمطابخ والممرات والمساحات التجارية</li></ul><h4 style='color: black;'>الفوائد:</h4><ul><li>تخلق خط سقف نظيف وغير مزدحم، مثالي للتصاميم minimalistic</li><li>توفر إضاءة مركزة للمناطق الوظيفية، مثل أسطح الطهي وزوايا القراءة</li><li>يمكن استخدامها لخلق جو وتسليط الضوء على الميزات المعمارية</li><li>سهل التركيب والصيانة، مع استبدال المصابيح بسهولة</li><li>متوافقة مع أنظمة المنزل الذكي للتحكم المتقدم في الإضاءة</li></ul><h4 style='color: black;'>استكشف مجموعتنا</h4><p>اكتشف مجموعة خيارات الإضاءة المدمجة لدينا، التي تتميز بـ:</p><ul><li>تصاميم تقليم رفيعة للغاية لتقليل التأثير البصري</li><li>عاكسات عالية الأداء لأقصى قدر من الإضاءة</li><li>حلقة جيمبال قابلة للتعديل وثابتة للتحكم الدقيق في الإضاءة</li><li>خيارات مقاومة للماء ومخصصة للاستخدام الخارجي للتنوع</li><li>حلول LED موفرة للطاقة لتقليل استهلاك الطاقة</li></ul></div>",
+    "images": [
+      "Recessedlighting1.webp",
+      "Recessedlighting3.webp",
+      "Recessedlighting4.jpg",
+      "Recessedlighting5.jpg"
+    ]
+  },
+  "15": {
+    "name": "Bulbs",
+    "description": "<div><p>Find the perfect light bulb to suit your needs with our extensive range of incandescent, halogen, and LED options. From warm and cozy to bright and energizing, our bulbs offer a variety of color temperatures and lumen outputs to enhance your space.</p><h4 style='color: black;'>Key Features:</h4><ul><li><strong>Energy Efficiency:</strong> LED bulbs use up to 90% less energy than traditional incandescent bulbs</li><li><strong>Long-Lasting:</strong> LED bulbs can last up to 25 times longer than incandescent bulbs</li><li><strong>Dimmable:</strong> Many of our bulbs are dimmable, allowing for customizable brightness</li><li><strong>Color Temperature:</strong> Choose from warm white (2700K-3000K), soft white (3000K-3500K), bright white (3500K-4100K), and daylight (5000K-6500K)</li><li><strong>Lumen Output:</strong> Select from a range of lumen outputs to suit your lighting needs</li></ul><h4 style='color: black;'>Benefits:</h4><ul><li><strong>Save Energy and Money:</strong> Reduce your energy consumption and lower your utility bills</li><li><strong>Less Maintenance:</strong> Long-lasting bulbs mean less frequent replacements</li><li><strong>Customizable Lighting:</strong> Dimmable bulbs and various color temperatures allow for personalized lighting</li><li><strong>Environmentally Friendly:</strong> LED bulbs are free of toxic chemicals and recyclable</li></ul><h4 style='color: black;'>Explore Our Collection</h4><p>Discover our range of bulbs, featuring:</p><ul><li><strong>Incandescent Bulbs:</strong> Classic and affordable, perfect for decorative fixtures</li><li><strong>Halogen Bulbs:</strong> Bright and energizing, ideal for task lighting</li><li><strong>LED Bulbs:</strong> Energy-efficient and long-lasting, suitable for a wide range of applications</li><li><strong>Smart Bulbs:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li><li><strong>Specialty Bulbs:</strong> Appliance bulbs, stage lighting, and more!</li></ul></div>",
+    "nameAR": "مصابيح",
+    "descriptionAR": "<div><p>ابحث عن المصباح المثالي لتلبية احتياجاتك مع مجموعتنا الواسعة من الخيارات المتنوعة من المصابيح المتوهجة والهالوجين وLED. من الدفء والراحة إلى السطوع والتنشيط، تقدم مصابيحنا مجموعة من درجات حرارة الألوان وإخراج اللومن لتعزيز مساحتك.</p><h4 style='color: black;'>الميزات الرئيسية:</h4><ul><li><strong>كفاءة الطاقة:</strong> تستهلك مصابيح LED ما يصل إلى 90% أقل من الطاقة مقارنةً بالمصابيح المتوهجة التقليدية</li><li><strong>طويلة العمر:</strong> يمكن أن تدوم مصابيح LED حتى 25 مرة أطول من المصابيح المتوهجة</li><li><strong>قابلة للتعتيم:</strong> العديد من مصابيحنا قابلة للتعتيم، مما يتيح تخصيص السطوع</li><li><strong>درجة حرارة اللون:</strong> اختر من بين الأبيض الدافئ (2700K-3000K)، الأبيض الناعم (3000K-3500K)، الأبيض الساطع (3500K-4100K)، وضوء النهار (5000K-6500K)</li><li><strong>إخراج اللومن:</strong> اختر من بين مجموعة من إخراج اللومن لتلبية احتياجاتك من الإضاءة</li></ul><h4 style='color: black;'>الفوائد:</h4><ul><li><strong>توفير الطاقة والمال:</strong> قلل من استهلاكك للطاقة وخفض فواتيرك</li><li><strong>صيانة أقل:</strong> المصابيح طويلة العمر تعني استبدالها بشكل أقل تكرارًا</li><li><strong>إضاءة قابلة للتخصيص:</strong> المصابيح القابلة للتعتيم ودرجات حرارة الألوان المتنوعة تتيح لك تخصيص الإضاءة</li><li><strong>صديقة للبيئة:</strong> مصابيح LED خالية من المواد الكيميائية السامة وقابلة لإعادة التدوير</li></ul><h4 style='color: black;'>استكشف مجموعتنا</h4><p>اكتشف مجموعتنا من المصابيح، التي تتميز بـ:</p><ul><li><strong>المصابيح المتوهجة:</strong> تقليدية وبأسعار معقولة، مثالية للتجهيزات الزخرفية</li><li><strong>المصابيح الهالوجينية:</strong> ساطعة ومنشطة، مثالية للإضاءة الوظيفية</li><li><strong>مصابيح LED:</strong> موفرة للطاقة وطويلة العمر، مناسبة لمجموعة واسعة من التطبيقات</li><li><strong>المصابيح الذكية:</strong> مزودة بتقنية Wi-Fi وBluetooth، متوافقة مع أنظمة المنزل الذكي</li><li><strong>المصابيح الخاصة:</strong> مصابيح للأجهزة، إضاءة للمسرح، وأكثر!</li></ul></div>",
+    "images": ["Bulbs1.webp", "Bulbs2.webp", "Bulbs3.webp", "Bulbs4.webp"]
+  },
+  "16": {
+    "name": "Lighting Strips",
+    "description": "<div><p>Add a touch of modernity and flexibility to your lighting with our innovative lighting strips. These versatile and easy-to-use strips can be cut to size, bent, and shaped to fit any space or design.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Flexible and Bendable:</strong> Can be shaped to fit curved or irregular surfaces</li><li><strong>Cuttable:</strong> Can be cut to size for customized lengths</li><li><strong>Adhesive Backing:</strong> Easy to install with peel-and-stick adhesive</li><li><strong>Waterproof:</strong> Suitable for indoor and outdoor use, including bathrooms and kitchens</li><li><strong>Color Changing:</strong> RGB and color temperature adjustable options available</li></ul><h4 style=\"color: black;\">Benefits:</h4><ul><li><strong>Easy Installation:</strong> Simple peel-and-stick installation, no wiring required</li><li><strong>Customizable:</strong> Cut to size and shape to fit your unique space</li><li><strong>Space-Saving:</strong> Thin and flexible design, perfect for tight spaces</li><li><strong>Energy Efficient:</strong> LED technology uses minimal energy</li><li><strong>Ambiance Creation:</strong> Create unique ambiance and highlight architectural features</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>RGB Lighting Strips:</strong> Color-changing options for dynamic ambiance</li><li><strong>White Lighting Strips:</strong> Warm white, soft white, and bright white options</li><li><strong>Outdoor Lighting Strips:</strong> Weatherproof and durable options for exterior use</li><li><strong>Smart Lighting Strips:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li><li><strong>Specialty Lighting Strips:</strong> UV, infrared, and more!</li></ul><h4 style=\"color: black;\">Ideas for Use</h4><ul><li>Under cabinet lighting</li><li>Backlighting for TVs and computers</li><li>Accent lighting for stairs and hallways</li><li>Ambient lighting for bedrooms and living rooms</li><li>Decorative lighting for parties and events</li></ul></div>",
+    "nameAR": "شرائط الإضاءة",
+    "descriptionAR": "<div><p>أضف لمسة من الحداثة والمرونة إلى إضائتك مع شرائط الإضاءة المبتكرة لدينا. هذه الشرائط المتعددة الاستخدامات وسهلة الاستخدام يمكن قصها حسب الحجم، وثنيها، وتشكيلها لتناسب أي مساحة أو تصميم.</p><h4 style=\"color: black;\">الميزات الرئيسية:</h4><ul><li><strong>مرنة وقابلة للثني:</strong> يمكن تشكيلها لتناسب الأسطح المنحنية أو غير المنتظمة</li><li><strong>قابلة للتقطيع:</strong> يمكن تقطيعها حسب الحجم لأطوال مخصصة</li><li><strong>لاصق خلفي:</strong> سهل التركيب باستخدام لاصق قابل للإزالة</li><li><strong>مقاومة للماء:</strong> مناسبة للاستخدام الداخلي والخارجي، بما في ذلك الحمامات والمطابخ</li><li><strong>تغيير الألوان:</strong> خيارات RGB وقابلة لتعديل درجة حرارة اللون متاحة</li></ul><h4 style=\"color: black;\">الفوائد:</h4><ul><li><strong>تركيب سهل:</strong> تركيب بسيط باستخدام لاصق قابل للإزالة، لا حاجة للأسلاك</li><li><strong>قابلة للتخصيص:</strong> قص حسب الحجم والشكل لتناسب مساحتك الفريدة</li><li><strong>توفير المساحة:</strong> تصميم رفيع ومرن، مثالي للأماكن الضيقة</li><li><strong>موفرة للطاقة:</strong> تقنية LED تستخدم طاقة أقل</li><li><strong>خلق الأجواء:</strong> إنشاء أجواء فريدة وتسليط الضوء على الميزات المعمارية</li></ul><h4 style=\"color: black;\">استكشف مجموعتنا</h4><ul><li><strong>شرائط الإضاءة RGB:</strong> خيارات تغيير اللون لجو ديناميكي</li><li><strong>شرائط الإضاءة البيضاء:</strong> خيارات أبيض دافئ، أبيض ناعم، وأبيض ساطع</li><li><strong>شرائط الإضاءة الخارجية:</strong> خيارات مقاومة للطقس ومتينة للاستخدام الخارجي</li><li><strong>شرائط الإضاءة الذكية:</strong> مزودة بتقنية Wi-Fi وBluetooth، متوافقة مع أنظمة المنزل الذكي</li><li><strong>شرائط الإضاءة الخاصة:</strong> UV، الأشعة تحت الحمراء، وأكثر!</li></ul><h4 style=\"color: black;\">أفكار للاستخدام</h4><ul><li>إضاءة تحت الخزائن</li><li>الإضاءة الخلفية للتلفزيونات وأجهزة الكمبيوتر</li><li>إضاءة مميزة للسلالم والممرات</li><li>إضاءة محيطية للغرف النوم وغرف المعيشة</li><li>إضاءة زخرفية للحفلات والفعاليات</li></ul></div>",
+    "images": [
+      "LighitngStrips1.webp",
+      "LighitngStrips3.webp",
+      "LighitngStrips4.jpg",
+      "LighitngStrips5.jpg"
+    ]
+  },
     "17": {
-      "name": "Interior Spotlights",
-      "description": "<div><p>Elevate your interior design with our versatile and adjustable interior spotlights. Perfect for highlighting architectural features, artwork, or task areas, these spotlights provide focused lighting to enhance your space.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Adjustable Arms:</strong> Direct light exactly where you need it</li><li><strong>Swivel Heads:</strong> Rotate and tilt to customize light direction</li><li><strong>LED Technology:</strong> Energy-efficient and long-lasting</li><li><strong>Dimmable Options:</strong> Customize brightness to suit your needs</li><li><strong>Stylish Designs:</strong> Sleek and modern fixtures to complement your decor</li></ul><h4 style=\"color: black;\">Benefits:</h4><ul><li><strong>Accentuate Features:</strong> Highlight architectural details, artwork, or decorative elements</li><li><strong>Task Lighting:</strong> Focus light on workspaces, reading areas, or kitchen counters</li><li><strong>Ambiance Creation:</strong> Create a cozy atmosphere or brighten up a room</li><li><strong>Energy Efficiency:</strong> LED technology reduces energy consumption</li><li><strong>Design Flexibility:</strong> Adjustable arms and swivel heads for customized lighting</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Fixed Spotlights:</strong> Stationary fixtures for focused lighting</li><li><strong>Adjustable Spotlights:</strong> Flexible arms and swivel heads for customized lighting</li><li><strong>Recessed Spotlights:</strong> Flush-mounted fixtures for a sleek appearance</li><li><strong>Track Lighting:</strong> Flexible and adjustable lighting systems</li><li><strong>Smart Spotlights:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li></ul><h4 style=\"color: black;\">Ideas for Use</h4><ul><li>Highlighting architectural features or artwork</li><li>Task lighting for workspaces or reading areas</li><li>Accent lighting for stairs or hallways</li><li>Ambient lighting for living rooms or bedrooms</li><li>Showcase lighting for retail or display cases</li></ul></div>",
-      "images": [
-        "InteriorSpotlights1.webp",
-        "InteriorSpotlights2.webp",
-        "InteriorSpotlights3.webp",
-        "InteriorSpotlights4.webp"
-      ]
-    },
-    "18": {
-      "name": "Track Light",
-      "description": "<div><p>Customize Your Lighting Adjustable and versatile, our track lights provide focused lighting for any space.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Flexible Tracks:</strong> Bendable and adjustable tracks for customized lighting</li><li><strong>Swivel Heads:</strong> Rotate and tilt to direct light exactly where you need it</li><li><strong>LED Technology:</strong> Energy-efficient and long-lasting</li><li><strong>Dimmable Options:</strong> Customize brightness to suit your needs</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Single-Circuit Tracks:</strong> Simple and efficient lighting solutions</li><li><strong>Two-Circuit Tracks:</strong> Independent control of multiple lights</li><li><strong>Smart Tracks:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li></ul><h4 style=\"color: black;\">Ideas for Use</h4><ul><li><strong>Accent Lighting:</strong> Highlight architectural features or artwork</li><li><strong>Task Lighting:</strong> Focus light on workspaces or reading areas</li><li><strong>Ambient Lighting:</strong> Create a cozy atmosphere or brighten up a room</li></ul></div>",
-      "images": ["TrackLight1.webp", "TrackLight2.webp"]
-    },
-    "19": {
-      "name": "Volatage Coverters",
-      "description": "<div><p>Safe and Reliable Power Conversion Convert voltage with ease and confidence using our reliable voltage converters.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Step-Up/Step-Down:</strong> Convert voltage up or down to match your device's needs</li><li><strong>Compact Design:</strong> Portable and travel-friendly</li><li><strong>Safety Features:</strong> Overload protection, short-circuit protection, and more</li><li><strong>Wide Range:</strong> Convert 110V to 220V, 220V to 110V, and more</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Travel Converters:</strong> Compact and portable for on-the-go use</li><li><strong>Heavy-Duty Converters:</strong> High-wattage conversion for heavy loads</li><li><strong>Smart Converters:</strong> Automatic voltage detection and adjustment</li></ul></div>",
-      "images": ["VolatageCoverters2.webp", "VolatageCoverters3.webp"]
-    },
-    "20": {
-      "name": "Lighting Unit",
-      "description": "<div><p>Efficient and Reliable Lighting Solutions Our lighting units provide high-quality, energy-efficient lighting for various applications.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>LED Technology:</strong> Energy-efficient and long-lasting</li><li><strong>Compact Design:</strong> Space-saving and discreet</li><li><strong>Adjustable:</strong> Customize light direction and brightness</li><li><strong>Durable:</strong> Weather-resistant and built to last</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Indoor Lighting Units:</strong> Suitable for homes, offices, and commercial spaces</li><li><strong>Outdoor Lighting Units:</strong> Weather-resistant for exterior use</li><li><strong>Specialty Lighting Units:</strong> Custom solutions for unique applications</li></ul><h4 style=\"color: black;\">Ideas for Use:</h4><ul><li><strong>Task Lighting:</strong> Focus light on workspaces or reading areas</li><li><strong>Ambient Lighting:</strong> Create a cozy atmosphere or brighten up a room</li><li><strong>Accent Lighting:</strong> Highlight architectural features or artwork</li></ul></div>",
-      "images": ["LightingUnit1.webp"]
-    },
-
-    "21": {
-      "name": "Exterior Spotlights",
-      "description": "<div><p>Brighten Up Your Home's Exterior Enhance your home's curb appeal and safety with our exterior lighting solutions. Our range includes flood lights, spotlights, and more to illuminate your outdoor space.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Weather-Resistant:</strong> Durable and waterproof designs for harsh outdoor conditions</li><li><strong>Energy-Efficient:</strong> LED technology reduces energy consumption</li><li><strong>Adjustable:</strong> Customize light direction and brightness to suit your needs</li><li><strong>Security:</strong> Motion-sensing and timer options for added security</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Flood Lights:</strong> Broad-spectrum lighting for large areas</li><li><strong>Spotlights:</strong> Focused lighting for specific areas or features</li><li><strong>Pathway Lighting:</strong> Soft, ambient lighting for walkways and gardens</li><li><strong>Security Lighting:</strong> Motion-sensing and timer-enabled lights for added safety</li><li><strong>Smart Exterior Lighting:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li></ul><h4 style=\"color: black;\">Ideas for Use</h4><ul><li><strong>Highlight Architectural Features:</strong> Showcase your home's exterior design</li><li><strong>Improve Safety:</strong> Illuminate walkways, stairs, and entryways</li><li><strong>Enhance Curb Appeal:</strong> Boost your home's exterior appearance</li><li><strong>Create Ambiance:</strong> Soften outdoor spaces with warm, ambient lighting</li></ul></div>",
-      "images": [
-        "ExteriorSpotlights1.webp",
-        "ExteriorSpotlights2.webp",
-        "ExteriorSpotlights3.webp",
-        "ExteriorSpotlights4.webp"
-      ]
-    },
-
-    "22": {
-      "name": "Circuit Breaker",
-      "description": "<div><p>Safe and Efficient Circuit Control Our low voltage circuit breakers provide reliable protection for your electrical systems.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Automatic Reset:</strong> Easy recovery from overloads</li><li><strong>Compact Design:</strong> Space-saving installation</li><li><strong>High Accuracy:</strong> Precise overcurrent detection</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Miniature Circuit Breakers:</strong> For small-scale applications</li><li><strong>Molded Case Circuit Breakers:</strong> For high-capacity needs</li><li><strong>Smart Circuit Breakers:</strong> Wi-Fi enabled for remote monitoring</li></ul></div>",
-      "images": [
-        "CircuitBreaker1.webp",
-        "CircuitBreaker2.webp",
-        "CircuitBreaker3.webp",
-        "CircuitBreaker4.webp"
-      ]
-    },
+    "name": "Interior Spotlights",
+    "description": "<div><p>Elevate your interior design with our versatile and adjustable interior spotlights. Perfect for highlighting architectural features, artwork, or task areas, these spotlights provide focused lighting to enhance your space.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Adjustable Arms:</strong> Direct light exactly where you need it</li><li><strong>Swivel Heads:</strong> Rotate and tilt to customize light direction</li><li><strong>LED Technology:</strong> Energy-efficient and long-lasting</li><li><strong>Dimmable Options:</strong> Customize brightness to suit your needs</li><li><strong>Stylish Designs:</strong> Sleek and modern fixtures to complement your decor</li></ul><h4 style=\"color: black;\">Benefits:</h4><ul><li><strong>Accentuate Features:</strong> Highlight architectural details, artwork, or decorative elements</li><li><strong>Task Lighting:</strong> Focus light on workspaces, reading areas, or kitchen counters</li><li><strong>Ambiance Creation:</strong> Create a cozy atmosphere or brighten up a room</li><li><strong>Energy Efficiency:</strong> LED technology reduces energy consumption</li><li><strong>Design Flexibility:</strong> Adjustable arms and swivel heads for customized lighting</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Fixed Spotlights:</strong> Stationary fixtures for focused lighting</li><li><strong>Adjustable Spotlights:</strong> Flexible arms and swivel heads for customized lighting</li><li><strong>Recessed Spotlights:</strong> Flush-mounted fixtures for a sleek appearance</li><li><strong>Track Lighting:</strong> Flexible and adjustable lighting systems</li><li><strong>Smart Spotlights:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li></ul><h4 style=\"color: black;\">Ideas for Use</h4><ul><li>Highlighting architectural features or artwork</li><li>Task lighting for workspaces or reading areas</li><li>Accent lighting for stairs or hallways</li><li>Ambient lighting for living rooms or bedrooms</li><li>Showcase lighting for retail or display cases</li></ul></div>",
+    "nameAR": "أضواء داخلية",
+    "descriptionAR": "<div><p>ارتقِ بتصميمك الداخلي مع أضواءنا الداخلية القابلة للتعديل والمتعددة الاستخدامات. مثالية لتسليط الضوء على العناصر المعمارية، الأعمال الفنية، أو المناطق الوظيفية، توفر هذه الأضواء إضاءة مركزة لتعزيز مساحتك.</p><h4 style=\"color: black;\">الميزات الرئيسية:</h4><ul><li><strong>ذراع قابلة للتعديل:</strong> توجيه الضوء بالضبط حيث تحتاج إليه</li><li><strong>رؤوس دوارة:</strong> تدوير وإمالة لتخصيص اتجاه الضوء</li><li><strong>تكنولوجيا LED:</strong> موفرة للطاقة وطويلة العمر</li><li><strong>خيارات التعتيم:</strong> تخصيص السطوع ليناسب احتياجاتك</li><li><strong>تصاميم أنيقة:</strong> تجهيزات عصرية وأنيقة لتكمل ديكورك</li></ul><h4 style=\"color: black;\">الفوائد:</h4><ul><li><strong>تسليط الضوء على الميزات:</strong> إبراز التفاصيل المعمارية، الأعمال الفنية، أو العناصر الزخرفية</li><li><strong>إضاءة وظيفية:</strong> توجيه الضوء على أماكن العمل، مناطق القراءة، أو أسطح المطبخ</li><li><strong>خلق الأجواء:</strong> إنشاء جو مريح أو إنارة الغرفة</li><li><strong>كفاءة الطاقة:</strong> تقليل استهلاك الطاقة بفضل تكنولوجيا LED</li><li><strong>مرونة التصميم:</strong> أذرع قابلة للتعديل ورؤوس دوارة للإضاءة المخصصة</li></ul><h4 style=\"color: black;\">استكشف مجموعتنا</h4><ul><li><strong>أضواء ثابتة:</strong> تجهيزات ثابتة لإضاءة مركزة</li><li><strong>أضواء قابلة للتعديل:</strong> أذرع مرنة ورؤوس دوارة للإضاءة المخصصة</li><li><strong>أضواء مدمجة:</strong> تجهيزات مثبتة بشكل أنيق</li><li><strong>إضاءة على القضبان:</strong> أنظمة إضاءة مرنة وقابلة للتعديل</li><li><strong>أضواء ذكية:</strong> مزودة بتقنية Wi-Fi وBluetooth، متوافقة مع أنظمة المنزل الذكي</li></ul><h4 style=\"color: black;\">أفكار للاستخدام</h4><ul><li>تسليط الضوء على الميزات المعمارية أو الأعمال الفنية</li><li>إضاءة وظيفية لأماكن العمل أو مناطق القراءة</li><li>إضاءة مميزة للسلالم أو الممرات</li><li>إضاءة محيطية لغرف المعيشة أو غرف النوم</li><li>إضاءة عرض للحالات التجارية أو المتاجر</li></ul></div>",
+    "images": [
+      "InteriorSpotlights1.webp",
+      "InteriorSpotlights2.webp",
+      "InteriorSpotlights3.webp",
+      "InteriorSpotlights4.webp"
+    ]
+  },
+  "18": {
+    "name": "Track Light",
+    "description": "<div><p>Customize Your Lighting Adjustable and versatile, our track lights provide focused lighting for any space.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Flexible Tracks:</strong> Bendable and adjustable tracks for customized lighting</li><li><strong>Swivel Heads:</strong> Rotate and tilt to direct light exactly where you need it</li><li><strong>LED Technology:</strong> Energy-efficient and long-lasting</li><li><strong>Dimmable Options:</strong> Customize brightness to suit your needs</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Single-Circuit Tracks:</strong> Simple and efficient lighting solutions</li><li><strong>Two-Circuit Tracks:</strong> Independent control of multiple lights</li><li><strong>Smart Tracks:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li></ul><h4 style=\"color: black;\">Ideas for Use</h4><ul><li><strong>Accent Lighting:</strong> Highlight architectural features or artwork</li><li><strong>Task Lighting:</strong> Focus light on workspaces or reading areas</li><li><strong>Ambient Lighting:</strong> Create a cozy atmosphere or brighten up a room</li></ul></div>",
+    "nameAR": "إضاءة على القضبان",
+    "descriptionAR": "<div><p>خصص إضاءتك القابلة للتعديل والمرنة، توفر أضواء القضبان لدينا إضاءة مركزة لأي مساحة.</p><h4 style=\"color: black;\">الميزات الرئيسية:</h4><ul><li><strong>مسارات مرنة:</strong> مسارات قابلة للثني والتعديل للإضاءة المخصصة</li><li><strong>رؤوس دوارة:</strong> تدوير وإمالة لتوجيه الضوء بدقة حيث تحتاج إليه</li><li><strong>تكنولوجيا LED:</strong> موفرة للطاقة وطويلة العمر</li><li><strong>خيارات التعتيم:</strong> تخصيص السطوع ليناسب احتياجاتك</li></ul><h4 style=\"color: black;\">استكشف مجموعتنا</h4><ul><li><strong>مسارات أحادية الدائرة:</strong> حلول إضاءة بسيطة وفعالة</li><li><strong>مسارات ثنائية الدائرة:</strong> تحكم مستقل في الأضواء المتعددة</li><li><strong>مسارات ذكية:</strong> مزودة بتقنية Wi-Fi وBluetooth، متوافقة مع أنظمة المنزل الذكي</li></ul><h4 style=\"color: black;\">أفكار للاستخدام</h4><ul><li><strong>إضاءة مميزة:</strong> إبراز الميزات المعمارية أو الأعمال الفنية</li><li><strong>إضاءة وظيفية:</strong> توجيه الضوء على أماكن العمل أو مناطق القراءة</li><li><strong>إضاءة محيطية:</strong> إنشاء جو مريح أو إنارة الغرفة</li></ul></div>",
+    "images": [
+      "TrackLight1.webp",
+      "TrackLight2.webp"
+    ]
+  },
+  "19": {
+    "name": "Voltage Converters",
+    "description": "<div><p>Safe and Reliable Power Conversion Convert voltage with ease and confidence using our reliable voltage converters.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Step-Up/Step-Down:</strong> Convert voltage up or down to match your device's needs</li><li><strong>Compact Design:</strong> Portable and travel-friendly</li><li><strong>Safety Features:</strong> Overload protection, short-circuit protection, and more</li><li><strong>Wide Range:</strong> Convert 110V to 220V, 220V to 110V, and more</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Travel Converters:</strong> Compact and portable for on-the-go use</li><li><strong>Heavy-Duty Converters:</strong> High-wattage conversion for heavy loads</li><li><strong>Smart Converters:</strong> Automatic voltage detection and adjustment</li></ul></div>",
+    "nameAR": "محولات الجهد",
+    "descriptionAR": "<div><p>تحويل الجهد بأمان وموثوقية، قم بتحويل الجهد بسهولة وثقة باستخدام محولات الجهد الموثوقة لدينا.</p><h4 style=\"color: black;\">الميزات الرئيسية:</h4><ul><li><strong>تحويل للأعلى/للأسفل:</strong> تحويل الجهد لأعلى أو لأسفل ليتناسب مع احتياجات جهازك</li><li><strong>تصميم مدمج:</strong> محمول وسهل السفر</li><li><strong>ميزات الأمان:</strong> حماية من التحميل الزائد، حماية من الدائرة القصيرة، والمزيد</li><li><strong>مجموعة واسعة:</strong> تحويل 110 فولت إلى 220 فولت، 220 فولت إلى 110 فولت، والمزيد</li></ul><h4 style=\"color: black;\">استكشف مجموعتنا</h4><ul><li><strong>محولات السفر:</strong> مدمجة ومحمولة للاستخدام أثناء التنقل</li><li><strong>محولات عالية التحمل:</strong> تحويل قدرة عالية للأحمال الثقيلة</li><li><strong>محولات ذكية:</strong> اكتشاف الجهد وضبطه تلقائيًا</li></ul></div>",
+    "images": [
+      "VolatageCoverters2.webp",
+      "VolatageCoverters3.webp"
+    ]
+  },
+  "20": {
+    "name": "Lighting Unit",
+    "description": "<div><p>Efficient and Reliable Lighting Solutions Our lighting units provide high-quality, energy-efficient lighting for various applications.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>LED Technology:</strong> Energy-efficient and long-lasting</li><li><strong>Compact Design:</strong> Space-saving and discreet</li><li><strong>Adjustable:</strong> Customize light direction and brightness</li><li><strong>Durable:</strong> Weather-resistant and built to last</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Indoor Lighting Units:</strong> Suitable for homes, offices, and commercial spaces</li><li><strong>Outdoor Lighting Units:</strong> Weather-resistant for exterior use</li><li><strong>Specialty Lighting Units:</strong> Custom solutions for unique applications</li></ul><h4 style=\"color: black;\">Ideas for Use:</h4><ul><li><strong>Task Lighting:</strong> Focus light on workspaces or reading areas</li><li><strong>Ambient Lighting:</strong> Create a cozy atmosphere or brighten up a room</li><li><strong>Accent Lighting:</strong> Highlight architectural features or artwork</li></ul></div>",
+    "nameAR": "وحدة الإضاءة",
+    "descriptionAR": "<div><p>حلول إضاءة فعالة وموثوقة، توفر وحدات الإضاءة لدينا إضاءة عالية الجودة وموفرة للطاقة لتطبيقات متنوعة.</p><h4 style=\"color: black;\">الميزات الرئيسية:</h4><ul><li><strong>تكنولوجيا LED:</strong> موفرة للطاقة وطويلة العمر</li><li><strong>تصميم مدمج:</strong> موفر للمساحة وسري</li><li><strong>قابل للتعديل:</strong> تخصيص اتجاه الضوء ودرجة السطوع</li><li><strong>متين:</strong> مقاوم للطقس ومبني ليدوم</li></ul><h4 style=\"color: black;\">استكشف مجموعتنا</h4><ul><li><strong>وحدات الإضاءة الداخلية:</strong> مناسبة للمنازل، المكاتب، والمساحات التجارية</li><li><strong>وحدات الإضاءة الخارجية:</strong> مقاومة للطقس للاستخدام الخارجي</li><li><strong>وحدات الإضاءة الخاصة:</strong> حلول مخصصة للتطبيقات الفريدة</li></ul><h4 style=\"color: black;\">أفكار للاستخدام:</h4><ul><li><strong>إضاءة وظيفية:</strong> توجيه الضوء على أماكن العمل أو مناطق القراءة</li><li><strong>إضاءة محيطية:</strong> إنشاء جو مريح أو إنارة الغرفة</li><li><strong>إضاءة مميزة:</strong> إبراز الميزات المعمارية أو الأعمال الفنية</li></ul></div>",
+    "images": [
+      "LightingUnit1.webp"
+    ]
+  },
+  "21": {
+    "name": "Exterior Spotlights",
+    "description": "<div><p>Brighten Up Your Home's Exterior Enhance your home's curb appeal and safety with our exterior lighting solutions. Our range includes flood lights, spotlights, and more to illuminate your outdoor space.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Weather-Resistant:</strong> Durable and waterproof designs for harsh outdoor conditions</li><li><strong>Energy-Efficient:</strong> LED technology reduces energy consumption</li><li><strong>Adjustable:</strong> Customize light direction and brightness to suit your needs</li><li><strong>Security:</strong> Motion-sensing and timer options for added security</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Flood Lights:</strong> Broad-spectrum lighting for large areas</li><li><strong>Spotlights:</strong> Focused lighting for specific areas or features</li><li><strong>Pathway Lighting:</strong> Soft, ambient lighting for walkways and gardens</li><li><strong>Security Lighting:</strong> Motion-sensing and timer-enabled lights for added safety</li><li><strong>Smart Exterior Lighting:</strong> Wi-Fi and Bluetooth enabled, compatible with smart home systems</li></ul><h4 style=\"color: black;\">Ideas for Use</h4><ul><li><strong>Highlight Architectural Features:</strong> Showcase your home's exterior design</li><li><strong>Improve Safety:</strong> Illuminate walkways, stairs, and entryways</li><li><strong>Enhance Curb Appeal:</strong> Boost your home's exterior appearance</li><li><strong>Create Ambiance:</strong> Soften outdoor spaces with warm, ambient lighting</li></ul></div>",
+    "nameAR": "أضواء خارجية",
+    "descriptionAR": "<div><p>أنر واجهة منزلك، عزز جاذبية منزلك وسلامته مع حلول الإضاءة الخارجية لدينا. تشمل مجموعتنا أضواء الفيضانات، الأضواء الكاشفة، والمزيد لإنارة المساحة الخارجية الخاصة بك.</p><h4 style=\"color: black;\">الميزات الرئيسية:</h4><ul><li><strong>مقاومة للطقس:</strong> تصميمات متينة ومقاومة للماء لمواجهة الظروف الجوية القاسية</li><li><strong>موفرة للطاقة:</strong> تقنيات LED تقلل من استهلاك الطاقة</li><li><strong>قابلة للتعديل:</strong> تخصيص اتجاه الضوء ودرجة السطوع لتلبية احتياجاتك</li><li><strong>الأمان:</strong> خيارات للكشف عن الحركة والمؤقتات لتعزيز الأمان</li></ul><h4 style=\"color: black;\">استكشف مجموعتنا</h4><ul><li><strong>أضواء الفيضانات:</strong> إضاءة واسعة النطاق للمساحات الكبيرة</li><li><strong>الأضواء الكاشفة:</strong> إضاءة مركزة لمناطق أو ميزات معينة</li><li><strong>إضاءة الممرات:</strong> إضاءة ناعمة ومحيطية للممرات والحدائق</li><li><strong>إضاءة الأمان:</strong> أضواء للكشف عن الحركة والموقتات لتعزيز الأمان</li><li><strong>الإضاءة الخارجية الذكية:</strong> مزودة بتقنية Wi-Fi وBluetooth، متوافقة مع أنظمة المنزل الذكي</li></ul><h4 style=\"color: black;\">أفكار للاستخدام</h4><ul><li><strong>تسليط الضوء على الميزات المعمارية:</strong> عرض تصميم واجهة منزلك</li><li><strong>تحسين الأمان:</strong> إنارة الممرات، السلالم، ومدخل المنزل</li><li><strong>تعزيز جاذبية الواجهة:</strong> تحسين مظهر واجهة منزلك</li><li><strong>خلق الأجواء:</strong> تلطيف المساحات الخارجية بالإضاءة الدافئة والمحيطية</li></ul></div>",
+    "images": [
+      "ExteriorSpotlights1.webp",
+      "ExteriorSpotlights2.webp",
+      "ExteriorSpotlights3.webp",
+      "ExteriorSpotlights4.webp"
+    ]
+  },
+  "22": {
+    "name": "Circuit Breaker",
+    "description": "<div><p>Safe and Efficient Circuit Control Our low voltage circuit breakers provide reliable protection for your electrical systems.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Automatic Reset:</strong> Easy recovery from overloads</li><li><strong>Compact Design:</strong> Space-saving installation</li><li><strong>High Accuracy:</strong> Precise overcurrent detection</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Miniature Circuit Breakers:</strong> For small-scale applications</li><li><strong>Molded Case Circuit Breakers:</strong> For high-capacity needs</li><li><strong>Smart Circuit Breakers:</strong> Wi-Fi enabled for remote monitoring</li></ul></div>",
+    "nameAR": "قواطع الدائرة",
+    "descriptionAR": "<div><p>تحكم آمن وفعال في الدائرة، توفر قواطع الدائرة منخفضة الجهد لدينا حماية موثوقة لأنظمتك الكهربائية.</p><h4 style=\"color: black;\">الميزات الرئيسية:</h4><ul><li><strong>إعادة ضبط تلقائي:</strong> استعادة سهلة من التحميل الزائد</li><li><strong>تصميم مدمج:</strong> تركيب موفر للمساحة</li><li><strong>دقة عالية:</strong> كشف دقيق للتيار الزائد</li></ul><h4 style=\"color: black;\">استكشف مجموعتنا</h4><ul><li><strong>قواطع الدائرة المصغرة:</strong> للتطبيقات الصغيرة</li><li><strong>قواطع الدائرة ذات الصندوق المصبوب:</strong> للاحتياجات ذات السعة العالية</li><li><strong>قواطع الدائرة الذكية:</strong> مزودة بتقنية Wi-Fi للمراقبة عن بُعد</li></ul></div>",
+    "images": [
+      "CircuitBreaker1.webp",
+      "CircuitBreaker2.webp",
+      "CircuitBreaker3.webp",
+      "CircuitBreaker4.webp"
+    ]
+  },
     "24": {
-      "name": "Electrical panels",
-      "description": "<div><p>Reliable and Efficient Energy Management Our electrical panels provide safe and organized power distribution for residential, commercial, and industrial applications.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Customizable:</strong> Tailored to meet specific energy needs</li><li><strong>Space-Saving:</strong> Compact designs for flexible installation</li><li><strong>Safety Features:</strong> Overcurrent protection, grounding, and more</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Main Electrical Panels:</strong> Central power distribution hubs</li><li><strong>Sub Panels:</strong> Secondary distribution points for expanded systems</li><li><strong>Smart Panels:</strong> Wi-Fi enabled for remote monitoring and control</li></ul></div>",
-      "images": [
-        "Electricalpanels1.webp",
-        "Electricalpanels2.webp",
-        "Electricalpanels3.webp",
-        "Electricalpanels4.webp"
-      ]
-    },
+    "name": "Electrical panels",
+    "nameAR": "الألواح الكهربائية",
+    "description": "<div><p>Reliable and Efficient Energy Management Our electrical panels provide safe and organized power distribution for residential, commercial, and industrial applications.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Customizable:</strong> Tailored to meet specific energy needs</li><li><strong>Space-Saving:</strong> Compact designs for flexible installation</li><li><strong>Safety Features:</strong> Overcurrent protection, grounding, and more</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Main Electrical Panels:</strong> Central power distribution hubs</li><li><strong>Sub Panels:</strong> Secondary distribution points for expanded systems</li><li><strong>Smart Panels:</strong> Wi-Fi enabled for remote monitoring and control</li></ul></div>",
+    "descriptionAR": "<div><p>إدارة الطاقة بشكل موثوق وفعال. توفر الألواح الكهربائية لدينا توزيعًا آمنًا ومنظمًا للطاقة للتطبيقات السكنية والتجارية والصناعية.</p><h4 style=\"color: black;\">الميزات الرئيسية:</h4><ul><li><strong>قابل للتخصيص:</strong> مصمم لتلبية احتياجات الطاقة المحددة</li><li><strong>موفر للمساحة:</strong> تصاميم مدمجة للتثبيت المرن</li><li><strong>ميزات الأمان:</strong> حماية من التيار الزائد، تأريض، وأكثر</li></ul><h4 style=\"color: black;\">استكشف مجموعتنا</h4><ul><li><strong>الألواح الكهربائية الرئيسية:</strong> مراكز توزيع الطاقة المركزية</li><li><strong>الألواح الفرعية:</strong> نقاط توزيع ثانوية للأنظمة الموسعة</li><li><strong>الألواح الذكية:</strong> مزودة بالواي فاي للمراقبة والتحكم عن بُعد</li></ul></div>",
+    "images": [
+      "Electricalpanels1.webp",
+      "Electricalpanels2.webp",
+      "Electricalpanels3.webp",
+      "Electricalpanels4.webp"
+    ]
+  },
 
-    "25": {
-      "name": "Switches and Sockets",
-      "description": "<div><p>Reliable and Safe Solutions for Your Home or Office Our electrical switches and sockets provide a safe and convenient way to control and connect your electrical devices.</p><h4 style={{ color: 'black' }}>Key Features:</h4><ul><li><strong>Durable Materials:</strong> High-quality materials for long-lasting use</li><li><strong>Variety of Options:</strong> Range of styles, finishes, and configurations</li><li><strong>Safety Features:</strong> Overload protection, surge protection, and more</li></ul><h4 style={{ color: 'black' }}>Explore Our Collection</h4><ul><li><strong>Light Switches:</strong> Control your lighting with ease</li><li><strong>Power Sockets:</strong> Connect your devices with confidence</li><li><strong>Smart Switches and Sockets:</strong> Wi-Fi enabled for remote control and monitoring</li></ul></div>",
-      "images": [
-        "SwitchesandSockets1.jpg",
-        "SwitchesandSockets2.jpg",
-        "SwitchesandSockets3.jpg",
-        "SwitchesandSockets4.png",
-        "SwitchesandSockets5.png",
-        "SwitchesandSockets6.png"
-      ]
-    },
+  "25": {
+    "name": "Switches and Sockets",
+    "nameAR": "المفاتيح والمقابس",
+    "description": "<div><p>Reliable and Safe Solutions for Your Home or Office Our electrical switches and sockets provide a safe and convenient way to control and connect your electrical devices.</p><h4 style={{ color: 'black' }}>Key Features:</h4><ul><li><strong>Durable Materials:</strong> High-quality materials for long-lasting use</li><li><strong>Variety of Options:</strong> Range of styles, finishes, and configurations</li><li><strong>Safety Features:</strong> Overload protection, surge protection, and more</li></ul><h4 style={{ color: 'black' }}>Explore Our Collection</h4><ul><li><strong>Light Switches:</strong> Control your lighting with ease</li><li><strong>Power Sockets:</strong> Connect your devices with confidence</li><li><strong>Smart Switches and Sockets:</strong> Wi-Fi enabled for remote control and monitoring</li></ul></div>",
+    "descriptionAR": "<div><p>حلول موثوقة وآمنة لمنزلك أو مكتبك. توفر مفاتيح ومقابس الكهرباء لدينا وسيلة آمنة ومريحة للتحكم في أجهزتك الكهربائية وتوصيلها.</p><h4 style={{ color: 'black' }}>الميزات الرئيسية:</h4><ul><li><strong>مواد متينة:</strong> مواد عالية الجودة للاستخدام الطويل الأمد</li><li><strong>تشكيلة متنوعة:</strong> مجموعة من الأنماط والتشطيبات والتكوينات</li><li><strong>ميزات الأمان:</strong> حماية من التحميل الزائد، حماية من الارتفاع المفاجئ في الجهد، وأكثر</li></ul><h4 style={{ color: 'black' }}>استكشف مجموعتنا</h4><ul><li><strong>المفاتيح الضوئية:</strong> تحكم في إضاءة منزلك بسهولة</li><li><strong>المقابس الكهربائية:</strong> قم بتوصيل أجهزتك بثقة</li><li><strong>المفاتيح والمقابس الذكية:</strong> مزودة بالواي فاي للتحكم والمراقبة عن بُعد</li></ul></div>",
+    "images": [
+      "SwitchesandSockets1.jpg",
+      "SwitchesandSockets2.jpg",
+      "SwitchesandSockets3.jpg",
+      "SwitchesandSockets4.png",
+      "SwitchesandSockets5.png",
+      "SwitchesandSockets6.png"
+    ]
+  },
 
-    "26": {
-      "name": "Fans",
-      "description": "<div><p>Stay Cool and Comfortable with Our Range of Fans Our fans provide a refreshing and energy-efficient way to keep your home or office cool and comfortable.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Ceiling Fans:</strong> Circulate air and reduce energy costs</li><li><strong>Stand Fans:</strong> Portable and versatile for personal use</li><li><strong>Quiet Operation:</strong> Minimal noise for disturbance-free use</li><li><strong>Adjustable Settings:</strong> Customize your comfort level</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Ceiling Fans:</strong> Sleek designs for modern homes</li><li><strong>Stand Fans:</strong> Compact and lightweight for easy movement</li><li><strong>Pedestal Fans:</strong> Adjustable height and tilt for optimal airflow</li><li><strong>Smart Fans:</strong> Wi-Fi enabled for remote control and scheduling</li></ul></div>",
-      "images": ["Fans1.jpg", "Fans2.webp", "Fans3.webp", "Fans4.jpg"]
-    },
+  "26": {
+    "name": "Fans",
+    "nameAR": "المراوح",
+    "description": "<div><p>Stay Cool and Comfortable with Our Range of Fans Our fans provide a refreshing and energy-efficient way to keep your home or office cool and comfortable.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Ceiling Fans:</strong> Circulate air and reduce energy costs</li><li><strong>Stand Fans:</strong> Portable and versatile for personal use</li><li><strong>Quiet Operation:</strong> Minimal noise for disturbance-free use</li><li><strong>Adjustable Settings:</strong> Customize your comfort level</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>Ceiling Fans:</strong> Sleek designs for modern homes</li><li><strong>Stand Fans:</strong> Compact and lightweight for easy movement</li><li><strong>Pedestal Fans:</strong> Adjustable height and tilt for optimal airflow</li><li><strong>Smart Fans:</strong> Wi-Fi enabled for remote control and scheduling</li></ul></div>",
+    "descriptionAR": "<div><p>ابقَ باردًا ومريحًا مع مجموعة المراوح لدينا. توفر مراوحنا وسيلة منعشة وفعالة من حيث الطاقة للحفاظ على برودة وراحة منزلك أو مكتبك.</p><h4 style=\"color: black;\">الميزات الرئيسية:</h4><ul><li><strong>المراوح السقفية:</strong> تدوير الهواء وتقليل تكاليف الطاقة</li><li><strong>المراوح الأرضية:</strong> قابلة للنقل ومتعددة الاستخدامات للاستخدام الشخصي</li><li><strong>تشغيل هادئ:</strong> ضوضاء قليلة لاستخدام خالٍ من الإزعاج</li><li><strong>إعدادات قابلة للتعديل:</strong> تخصيص مستوى الراحة الخاص بك</li></ul><h4 style=\"color: black;\">استكشف مجموعتنا</h4><ul><li><strong>المراوح السقفية:</strong> تصاميم أنيقة للمنازل العصرية</li><li><strong>المراوح الأرضية:</strong> مدمجة وخفيفة الوزن للحركة السهلة</li><li><strong>المراوح القاعدية:</strong> ارتفاع وزاوية قابلة للتعديل للحصول على تدفق هواء مثالي</li><li><strong>المراوح الذكية:</strong> مزودة بالواي فاي للتحكم عن بُعد والجدولة</li></ul></div>",
+    "images": ["Fans1.jpg", "Fans2.webp", "Fans3.webp", "Fans4.jpg"]
+  },
 
-    "27": {
-      "name": "Electrical enclosures",
-      "description": "<div><p>Protect and Organize Your Electrical Systems Our Products: Our electric enclosures, wire collections, and boxes provide a safe and organized way to manage your electrical systems.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>Durable Materials:</strong> High-quality materials for long-lasting use</li><li><strong>Variety of Sizes:</strong> Range of sizes to fit your specific needs</li><li><strong>Easy Installation:</strong> Simple and quick installation process</li><li><strong>Protection:</strong> Safeguard against environmental elements and tampering</li></ul><h4 style=\"color: black\">Explore Our Collection</h4><ul><li><strong>Electric Enclosures:</strong> Protect and house electrical components</li><li><strong>Wire Collections:</strong> Organize and manage wires and cables</li><li><strong>Boxes and Cabinets:</strong> Secure and store electrical equipment</li><li><strong>Accessories:</strong> Additional components for customization and convenience</li></ul></div>",
-      "images": [
-        "Electricalenclosures1.webp",
-        "Electricalenclosures2.webp",
-        "Electricalenclosures3.webp",
-        "Electricalenclosures4.webp",
-        "Electricalenclosures5.webp"
-      ]
-    },
-    "28": {
-      "name": "Plastic Pipes",
-      "description": "<div><p>Protect and Organize Your Electrical Systems Our Products: Our electric enclosures, wire collections, and boxes provide a safe and organized way to manage your electrical systems.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Corrosion Resistance:</strong> Withstand harsh chemicals and environments</li><li><strong>High Pressure Resistance:</strong> Handle high water pressure with ease</li><li><strong>Low Maintenance:</strong> Resist scaling and abrasion for long-lasting use</li><li><strong>Flexible and Lightweight:</strong> Easy to install and transport</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>PVC Pipes:</strong> Versatile and cost-effective solutions</li><li><strong>PE Pipes:</strong> High-density polyethylene pipes for heavy-duty use</li><li><strong>PP Pipes:</strong> Polypropylene pipes for high-temperature applications</li><li><strong>Fittings and Accessories:</strong> Complete your plumbing system with our range of fittings and accessories</li></ul></div>",
-      "images": [
-        "PlasticPipes1.webp",
-        "PlasticPipes3.webp",
-        "PlasticPipes7.jpg"
-      ]
-    },
-    "29": {
-      "name": "Metal conduit fittings",
-      "description": "<div><p>Metal Conduit Fittings - Secure and Protect Your Wiring Reliable and Durable Electrical Raceway Solutions Our Products: Our metal conduit fittings provide a secure and protective pathway for your electrical wiring.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>Durable Materials:</strong> High-quality metals for long-lasting use</li><li><strong>Corrosion Resistance:</strong> Withstand harsh environments and chemicals</li><li><strong>Easy Installation:</strong> Simple and quick connection process</li><li><strong>Flexibility:</strong> Range of fittings for various conduit types and sizes</li></ul><h4 style=\"color: black\">Explore Our Collection</h4><ul><li><strong>Conduit Bodies:</strong> Connect and branch conduit lines</li><li><strong>Couplings:</strong> Join conduit sections with ease</li><li><strong>Elbows:</strong> Change direction with 90-degree bends</li><li><strong>Adapters:</strong> Transition between different conduit types and sizes</li><li><strong>Accessories:</strong> Complete your conduit system with our range of accessories</li></ul></div>",
-      "images": [
-        "Metalconduitfittings1.webp",
-        "Metalconduitfittings2.webp",
-        "Metalconduitfittings3.webp",
-        "Metalconduitfittings4.jpg"
-      ]
-    },
+  "27": {
+    "name": "Electrical enclosures",
+    "nameAR": "الحاويات الكهربائية",
+    "description": "<div><p>Protect and Organize Your Electrical Systems Our Products: Our electric enclosures, wire collections, and boxes provide a safe and organized way to manage your electrical systems.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>Durable Materials:</strong> High-quality materials for long-lasting use</li><li><strong>Variety of Sizes:</strong> Range of sizes to fit your specific needs</li><li><strong>Easy Installation:</strong> Simple and quick installation process</li><li><strong>Protection:</strong> Safeguard against environmental elements and tampering</li></ul><h4 style=\"color: black\">Explore Our Collection</h4><ul><li><strong>Electric Enclosures:</strong> Protect and house electrical components</li><li><strong>Wire Collections:</strong> Organize and manage wires and cables</li><li><strong>Boxes and Cabinets:</strong> Secure and store electrical equipment</li><li><strong>Accessories:</strong> Additional components for customization and convenience</li></ul></div>",
+    "descriptionAR": "<div><p>حماية وتنظيم أنظمة الكهرباء الخاصة بك. توفر الحاويات الكهربائية لدينا، ومجموعات الأسلاك، والصناديق وسيلة آمنة ومنظمة لإدارة أنظمة الكهرباء الخاصة بك.</p><h4 style=\"color: black\">الميزات الرئيسية:</h4><ul><li><strong>مواد متينة:</strong> مواد عالية الجودة للاستخدام الطويل الأمد</li><li><strong>تشكيلة متنوعة من الأحجام:</strong> مجموعة من الأحجام لتناسب احتياجاتك المحددة</li><li><strong>تركيب سهل:</strong> عملية تركيب بسيطة وسريعة</li><li><strong>حماية:</strong> حماية ضد العناصر البيئية والتلاعب</li></ul><h4 style=\"color: black\">استكشف مجموعتنا</h4><ul><li><strong>الحاويات الكهربائية:</strong> حماية وتخزين المكونات الكهربائية</li><li><strong>مجموعات الأسلاك:</strong> تنظيم وإدارة الأسلاك والكابلات</li><li><strong>الصناديق والخزائن:</strong> تأمين وتخزين المعدات الكهربائية</li><li><strong>الإكسسوارات:</strong> مكونات إضافية للتخصيص والراحة</li></ul></div>",
+    "images": [
+      "Electricalenclosures1.webp",
+      "Electricalenclosures2.webp",
+      "Electricalenclosures3.webp",
+      "Electricalenclosures4.webp",
+      "Electricalenclosures5.webp"
+    ]
+  },
+
+  "28": {
+    "name": "Plastic Pipes",
+    "nameAR": "الأنابيب البلاستيكية",
+    "description": "<div><p>Protect and Organize Your Electrical Systems Our Products: Our electric enclosures, wire collections, and boxes provide a safe and organized way to manage your electrical systems.</p><h4 style=\"color: black;\">Key Features:</h4><ul><li><strong>Corrosion Resistance:</strong> Withstand harsh chemicals and environments</li><li><strong>High Pressure Resistance:</strong> Handle high water pressure with ease</li><li><strong>Low Maintenance:</strong> Resist scaling and abrasion for long-lasting use</li><li><strong>Flexible and Lightweight:</strong> Easy to install and transport</li></ul><h4 style=\"color: black;\">Explore Our Collection</h4><ul><li><strong>PVC Pipes:</strong> Versatile and cost-effective solutions</li><li><strong>PE Pipes:</strong> High-density polyethylene pipes for heavy-duty use</li><li><strong>PP Pipes:</strong> Polypropylene pipes for high-temperature applications</li><li><strong>Fittings and Accessories:</strong> Complete your plumbing system with our range of fittings and accessories</li></ul></div>",
+    "descriptionAR": "<div><p>حماية وتنظيم أنظمة الكهرباء الخاصة بك. توفر أنابيبنا البلاستيكية حلولاً موثوقة ودائمة مع المتانة والمرونة.</p><h4 style=\"color: black;\">الميزات الرئيسية:</h4><ul><li><strong>مقاومة التآكل:</strong> تتحمل المواد الكيميائية والبيئات القاسية</li><li><strong>مقاومة عالية للضغط:</strong> تعامل مع ضغط الماء العالي بسهولة</li><li><strong>صيانة منخفضة:</strong> مقاومة للتآكل والخدوش لاستخدام طويل الأمد</li><li><strong>مرونة وخفة الوزن:</strong> سهلة التثبيت والنقل</li></ul><h4 style=\"color: black;\">استكشف مجموعتنا</h4><ul><li><strong>أنابيب PVC:</strong> حلول متعددة الاستخدامات وفعالة من حيث التكلفة</li><li><strong>أنابيب PE:</strong> أنابيب بولي إيثيلين ذات كثافة عالية للاستخدام المكثف</li><li><strong>أنابيب PP:</strong> أنابيب بولي بروبلين للتطبيقات ذات درجات الحرارة العالية</li><li><strong>التجهيزات والإكسسوارات:</strong> أكمل نظام السباكة الخاص بك مع مجموعتنا من التجهيزات والإكسسوارات</li></ul></div>",
+    "images": [
+      "PlasticPipes1.webp",
+      "PlasticPipes3.webp",
+      "PlasticPipes7.jpg"
+    ]
+  },
+
+  "29": {
+    "name": "Metal conduit fittings",
+    "nameAR": "وصلات القنوات المعدنية",
+    "description": "<div><p>Metal Conduit Fittings - Secure and Protect Your Wiring Reliable and Durable Electrical Raceway Solutions Our Products: Our metal conduit fittings provide a secure and protective pathway for your electrical wiring.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>Durable Materials:</strong> High-quality metals for long-lasting use</li><li><strong>Corrosion Resistance:</strong> Withstand harsh environments and chemicals</li><li><strong>Easy Installation:</strong> Simple and quick connection process</li><li><strong>Flexibility:</strong> Range of fittings for various conduit types and sizes</li></ul><h4 style=\"color: black\">Explore Our Collection</h4><ul><li><strong>Conduit Bodies:</strong> Connect and branch conduit lines</li><li><strong>Couplings:</strong> Join conduit sections with ease</li><li><strong>Elbows:</strong> Change direction with 90-degree bends</li><li><strong>Adapters:</strong> Transition between different conduit types and sizes</li><li><strong>Accessories:</strong> Complete your conduit system with our range of accessories</li></ul></div>",
+    "descriptionAR": "<div><p>وصلات القنوات المعدنية - تأمين وحماية الأسلاك الخاصة بك. توفر وصلات القنوات المعدنية لدينا مسارًا آمنًا ومحميًا لأسلاكك الكهربائية.</p><h4 style=\"color: black\">الميزات الرئيسية:</h4><ul><li><strong>مواد متينة:</strong> معادن عالية الجودة للاستخدام الطويل الأمد</li><li><strong>مقاومة للتآكل:</strong> تتحمل البيئات القاسية والمواد الكيميائية</li><li><strong>تركيب سهل:</strong> عملية اتصال بسيطة وسريعة</li><li><strong>مرونة:</strong> مجموعة من الوصلات لأنواع وأحجام مختلفة من القنوات</li></ul><h4 style=\"color: black\">استكشف مجموعتنا</h4><ul><li><strong>أجسام القنوات:</strong> توصيل وتفرع خطوط القنوات</li><li><strong>التجهيزات:</strong> انضم إلى أقسام القنوات بسهولة</li><li><strong>المرفقات:</strong> تغيير الاتجاه بزاوية 90 درجة</li><li><strong>المحولات:</strong> الانتقال بين أنواع وأحجام مختلفة من القنوات</li><li><strong>الإكسسوارات:</strong> أكمل نظام القنوات الخاص بك مع مجموعتنا من الإكسسوارات</li></ul></div>",
+    "images": [
+      "Metalconduitfittings1.webp",
+      "Metalconduitfittings2.webp",
+      "Metalconduitfittings3.webp",
+      "Metalconduitfittings4.jpg"
+    ]
+  },
     "30": {
-      "name": "Metal Pipes",
-      "description": "<div><p>Metal Pipes - Strong and Versatile Solutions Reliable and Durable Plumbing and Industrial Solutions Our metal pipes provide a strong and versatile solution for your plumbing and industrial needs.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>High-Strength Materials:</strong> High-quality metals for long-lasting use</li><li><strong>Corrosion Resistance:</strong> Withstand harsh environments and chemicals</li><li><strong>Easy Installation:</strong> Simple and quick connection process</li><li><strong>Flexibility:</strong> Range of pipes for various applications and sizes</li></ul><h4 style=\"color: black\">Explore Our Collection</h4><ul><li><strong>Galvanized Pipes:</strong> Coated for added corrosion resistance</li><li><strong>Stainless Steel Pipes:</strong> High-corrosion resistance for harsh environments</li><li><strong>Copper Pipes:</strong> High-thermal conductivity for plumbing and HVAC</li><li><strong>Aluminum Pipes:</strong> Lightweight and corrosion-resistant for industrial use</li><li><strong>Fittings and Accessories:</strong> Complete your piping system with our range of fittings and accessories</li></ul></div>",
-      "images": [
-        "MetalPipes1.webp",
-        "MetalPipes2.webp",
-        "MetalPipes3.jpg",
-        "MetalPipes4.webp"
-      ]
-    },
-    "31": {
-      "name": "Plastic conduit fittings",
-      "description": "<div><p>Plastic Conduit Fittings - Flexible and Corrosion-Resistant Solutions Reliable and Durable Electrical Raceway Systems Our plastic conduit fittings provide a flexible and corrosion-resistant solution for your electrical wiring needs.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>High-Quality Materials:</strong> Durable plastics for long-lasting use</li><li><strong>Corrosion Resistance:</strong> Withstand harsh environments and chemicals</li><li><strong>Easy Installation:</strong> Simple and quick connection process</li><li><strong>Flexibility:</strong> Range of fittings for various conduit types and sizes</li></ul><h4 style=\"color: black\">Explore Our Collection</h4><ul><li><strong>Conduit Bodies:</strong> Connect and branch conduit lines</li><li><strong>Couplings:</strong> Join conduit sections with ease</li><li><strong>Elbows:</strong> Change direction with 90-degree bends</li><li><strong>Adapters:</strong> Transition between different conduit types and sizes</li><li><strong>Accessories:</strong> Complete your conduit system with our range of accessories</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>Chemical Resistance:</strong> Withstand exposure to harsh chemicals</li><li><strong>UV Resistance:</strong> Withstand outdoor exposure</li><li><strong>Low Maintenance:</strong> Resistant to scaling and abrasion</li></ul></div>",
-      "images": [
-        "Plasticconduitfittings1.webp",
-        "Plasticconduitfittings2.webp",
-        "Plasticconduitfittings3.webp",
-        "Plasticconduitfittings4.webp",
-        "Plasticconduitfittings5.webp",
-        "Plasticconduitfittings6.webp"
-      ]
-    },
-
-    "32": {
-      "name": "Plumbing Tools",
-      "description": "<div><p>Plumbing Tools - Essential for Efficient and Effective Plumbing Professional-Grade Solutions for Plumbers and DIY Enthusiasts Our plumbing tools provide the essential solutions for efficient and effective plumbing installations, repairs, and maintenance.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>Durable Materials:</strong> High-quality materials for long-lasting use</li><li><strong>Ergonomic Design:</strong> Comfortable grip and reduced fatigue</li><li><strong>Precision Engineering:</strong> Accurate and precise performance</li><li><strong>Versatility:</strong> Range of tools for various plumbing tasks</li></ul><h4 style=\"color: black\">Explore Our Collection:</h4><ul><li><strong>Pipe Wrenches:</strong> Grip and twist pipes with ease</li><li><strong>Plunger:</strong> Effective solutions for clogged drains</li><li><strong>Tubing Cutters:</strong> Clean and precise cuts</li><li><strong>Valve Keys:</strong> Easy operation of valves</li><li><strong>Tool Sets:</strong> Comprehensive sets for complete plumbing solutions</li></ul><h4 style=\"color: black\">Benefits:</h4><ul><li><strong>Time-Saving:</strong> Efficient tools for faster completion of tasks</li><li><strong>Cost-Effective:</strong> Long-lasting tools reduce replacement costs</li><li><strong>Professional Results:</strong> High-quality tools for accurate and precise performance</li></ul></div>",
-      "images": [
-        "PlumbingTools1.webp",
-        "PlumbingTools2.webp",
-        "PlumbingTools3.webp",
-        "PlumbingTools4.webp"
-      ]
-    },
-    "33": {
-      "name": "Plumbing supply",
-      "description": "<div><p>Plumbing Supply - Comprehensive Solutions for All Your Plumbing Needs Reliable and Durable Products for Plumbers and DIY Enthusiasts Our plumbing supply offers a wide range of products to cater to all your plumbing requirements, including:</p><h4 style=\"color: black\">Tension Connection</h4><ul><li><strong>PPR Test Plug:</strong> Ensure leak-free connections with our PPR test plug</li><li><strong>Hot Gray Pressure:</strong> Withstand high temperatures and pressures with our hot gray pressure products</li></ul><h4 style=\"color: black\">External Thread Bushing</h4><ul><li><strong>Easy Installation:</strong> Simplify your plumbing tasks with our easy-to-install external thread bushing</li><li><strong>Secure Connection:</strong> Ensure a secure and leak-free connection with our external thread bushing</li></ul><h4 style=\"color: black\">Other Products</h4><ul><li><strong>Pipes and Fittings:</strong> Comprehensive range of pipes and fittings for various plumbing applications</li><li><strong>Valves and Accessories:</strong> High-quality valves and accessories for efficient plumbing solutions</li><li><strong>Tools and Equipment:</strong> Professional-grade tools and equipment for efficient plumbing tasks</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>One-Stop Solution:</strong> Find all your plumbing needs in one place</li><li><strong>High-Quality Products:</strong> Reliable and durable products for long-lasting performance</li><li><strong>Competitive Pricing:</strong> Affordable prices for all your plumbing supply needs</li></ul></div>",
-      "images": [
-        "Plumbingsupply1.webp",
-        "Plumbingsupply2.webp",
-        "Plumbingsupply3.webp",
-        "Plumbingsupply4.webp"
-      ]
-    },
-    "34": {
-      "name": "Floor drains",
-      "description": "<div><p>Plumbing Flood Drains - Protect Your Property from Water Damage</p><h4 style=\"color: black\">Reliable and Efficient Flood Protection Solutions</h4><ul><li><strong>Automatic Flood Control:</strong> Prevents water backup and flooding</li><li><strong>Heavy-Duty Construction:</strong> Durable and long-lasting performance</li><li><strong>Easy Installation:</strong> Simple and quick setup</li><li><strong>Customizable Options:</strong> Suitable for various plumbing applications</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>Peace of Mind:</strong> Protect your property from costly water damage</li><li><strong>Reduced Risk:</strong> Minimize the risk of flooding and water backup</li><li><strong>Compliance:</strong> Meets local plumbing codes and regulations</li></ul></div>",
-      "images": [
-        "Floordrains1.webp",
-        "Floordrains2.webp",
-        "Floordrains3.webp",
-        "Floordrains4.png"
-      ]
-    },
-
-    "35": {
-      "name": "Air Conditioning Accessories",
-      "description": "<div><p>Air Conditioning Accessories - Enhance Your Cooling Experience</p><h4 style=\"color: black\">Upgrade and Optimize Your AC System</h4><ul><li><strong>Air Filters:</strong> Improve indoor air quality and system efficiency</li><li><strong>Thermostats:</strong> Precise temperature control for ultimate comfort</li><li><strong>Ducting and Vents:</strong> Optimize airflow and reduce energy loss</li><li><strong>Mounting Hardware:</strong> Secure and stable installation</li><li><strong>Maintenance Kits:</strong> Keep your AC system running smoothly</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>Improved Performance:</strong> Boost your AC system's efficiency and effectiveness</li><li><strong>Increased Comfort:</strong> Enjoy a cooler and healthier indoor environment</li><li><strong>Extended Lifespan:</strong> Protect your AC system from damage and wear</li></ul></div>",
-      "images": [
-        "AirConditioningAccessories1.webp",
-        "AirConditioningAccessories2.webp",
-        "AirConditioningAccessories3.webp",
-        "AirConditioningAccessories4.webp"
-      ]
-    },
-    "36": {
-      "name": "Water heater",
-      "description": "<div><p>Plumbing Fixtures - Complete Your Plumbing System Essential Products for a Functional and Comfortable Space</p><h4 style=\"color: black\">Electric Water Heaters</h4><ul><li><strong>Reliable Hot Water Solutions:</strong> Efficient and long-lasting electric water heaters</li></ul><h4 style=\"color: black\">Faucets and Sinks</h4><ul><li><strong>Stylish and Functional Fixtures:</strong> For kitchens and bathrooms</li></ul><h4 style=\"color: black\">Toilets and Bidets</h4><ul><li><strong>Hygienic and Water-Efficient Options:</strong> For a comfortable and eco-friendly experience</li></ul><h4 style=\"color: black\">Showers and Bathtubs</h4><ul><li><strong>Relaxing and Rejuvenating Fixtures:</strong> For the ultimate bathing experience</li></ul><h4 style=\"color: black\">Drainage Solutions</h4><ul><li><strong>Effective and Easy-to-Install Drainage Products:</strong> For a hassle-free plumbing system</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>Convenience:</strong> Complete your plumbing system with essential fixtures</li><li><strong>Comfort:</strong> Enjoy a functional and comfortable living space</li><li><strong>Style:</strong> Enhance your space with stylish and modern fixtures</li></ul></div>",
-      "images": [
-        "Waterheater1.webp",
-        "Waterheater2.webp",
-        "Waterheater3.webp",
-        "Waterheater4.webp"
-      ]
-    }
+    "name": "Metal Pipes",
+    "nameAR": "أنابيب معدنية",
+    "description": "<div><p>Metal Pipes - Strong and Versatile Solutions Reliable and Durable Plumbing and Industrial Solutions Our metal pipes provide a strong and versatile solution for your plumbing and industrial needs.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>High-Strength Materials:</strong> High-quality metals for long-lasting use</li><li><strong>Corrosion Resistance:</strong> Withstand harsh environments and chemicals</li><li><strong>Easy Installation:</strong> Simple and quick connection process</li><li><strong>Flexibility:</strong> Range of pipes for various applications and sizes</li></ul><h4 style=\"color: black\">Explore Our Collection</h4><ul><li><strong>Galvanized Pipes:</strong> Coated for added corrosion resistance</li><li><strong>Stainless Steel Pipes:</strong> High-corrosion resistance for harsh environments</li><li><strong>Copper Pipes:</strong> High-thermal conductivity for plumbing and HVAC</li><li><strong>Aluminum Pipes:</strong> Lightweight and corrosion-resistant for industrial use</li><li><strong>Fittings and Accessories:</strong> Complete your piping system with our range of fittings and accessories</li></ul></div>",
+    "descriptionAR": "<div><p>أنابيب معدنية - حلول قوية ومتعددة الاستخدامات. توفر أنابيبنا المعدنية حلاً قوياً ومتعدد الاستخدامات لاحتياجات السباكة والصناعة الخاصة بك.</p><h4 style=\"color: black\">الميزات الرئيسية:</h4><ul><li><strong>مواد عالية القوة:</strong> معادن عالية الجودة للاستخدام الطويل الأمد</li><li><strong>مقاومة للتآكل:</strong> تتحمل البيئات القاسية والمواد الكيميائية</li><li><strong>تركيب سهل:</strong> عملية اتصال بسيطة وسريعة</li><li><strong>مرونة:</strong> مجموعة من الأنابيب للتطبيقات والأحجام المختلفة</li></ul><h4 style=\"color: black\">استكشف مجموعتنا</h4><ul><li><strong>أنابيب مجلفنة:</strong> مطلية لمزيد من مقاومة التآكل</li><li><strong>أنابيب الفولاذ المقاوم للصدأ:</strong> مقاومة عالية للتآكل للبيئات القاسية</li><li><strong>أنابيب النحاس:</strong> توصيل حراري عالي للسباكة وتكييف الهواء</li><li><strong>أنابيب الألومنيوم:</strong> خفيفة الوزن ومقاومة للتآكل للاستخدام الصناعي</li><li><strong>التجهيزات والإكسسوارات:</strong> أكمل نظام الأنابيب الخاص بك مع مجموعتنا من التجهيزات والإكسسوارات</li></ul></div>",
+    "images": [
+      "MetalPipes1.webp",
+      "MetalPipes2.webp",
+      "MetalPipes3.jpg",
+      "MetalPipes4.webp"
+    ]
+  },
+  "31": {
+    "name": "Plastic conduit fittings",
+    "nameAR": "وصلات القنوات البلاستيكية",
+    "description": "<div><p>Plastic Conduit Fittings - Flexible and Corrosion-Resistant Solutions Reliable and Durable Electrical Raceway Systems Our plastic conduit fittings provide a flexible and corrosion-resistant solution for your electrical wiring needs.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>High-Quality Materials:</strong> Durable plastics for long-lasting use</li><li><strong>Corrosion Resistance:</strong> Withstand harsh environments and chemicals</li><li><strong>Easy Installation:</strong> Simple and quick connection process</li><li><strong>Flexibility:</strong> Range of fittings for various conduit types and sizes</li></ul><h4 style=\"color: black\">Explore Our Collection</h4><ul><li><strong>Conduit Bodies:</strong> Connect and branch conduit lines</li><li><strong>Couplings:</strong> Join conduit sections with ease</li><li><strong>Elbows:</strong> Change direction with 90-degree bends</li><li><strong>Adapters:</strong> Transition between different conduit types and sizes</li><li><strong>Accessories:</strong> Complete your conduit system with our range of accessories</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>Chemical Resistance:</strong> Withstand exposure to harsh chemicals</li><li><strong>UV Resistance:</strong> Withstand outdoor exposure</li><li><strong>Low Maintenance:</strong> Resistant to scaling and abrasion</li></ul></div>",
+    "descriptionAR": "<div><p>وصلات القنوات البلاستيكية - حلول مرنة ومقاومة للتآكل. توفر وصلات القنوات البلاستيكية لدينا حلاً مرناً ومقاوماً للتآكل لاحتياجات الأسلاك الكهربائية الخاصة بك.</p><h4 style=\"color: black\">الميزات الرئيسية:</h4><ul><li><strong>مواد عالية الجودة:</strong> بلاستيك متين للاستخدام الطويل الأمد</li><li><strong>مقاومة للتآكل:</strong> تتحمل البيئات القاسية والمواد الكيميائية</li><li><strong>تركيب سهل:</strong> عملية اتصال بسيطة وسريعة</li><li><strong>مرونة:</strong> مجموعة من التجهيزات لأنواع وأحجام مختلفة من القنوات</li></ul><h4 style=\"color: black\">استكشف مجموعتنا</h4><ul><li><strong>أجسام القنوات:</strong> توصيل وتفرع خطوط القنوات</li><li><strong>التجهيزات:</strong> انضم إلى أقسام القنوات بسهولة</li><li><strong>المرفقات:</strong> تغيير الاتجاه بزاوية 90 درجة</li><li><strong>المحولات:</strong> الانتقال بين أنواع وأحجام مختلفة من القنوات</li><li><strong>الإكسسوارات:</strong> أكمل نظام القنوات الخاص بك مع مجموعتنا من الإكسسوارات</li></ul><h4 style=\"color: black\">الفوائد</h4><ul><li><strong>مقاومة كيميائية:</strong> تتحمل التعرض للمواد الكيميائية القاسية</li><li><strong>مقاومة للأشعة فوق البنفسجية:</strong> تتحمل التعرض الخارجي</li><li><strong>صيانة منخفضة:</strong> مقاومة للتآكل والخدوش</li></ul></div>",
+    "images": [
+      "Plasticconduitfittings1.webp",
+      "Plasticconduitfittings2.webp",
+      "Plasticconduitfittings3.webp",
+      "Plasticconduitfittings4.webp",
+      "Plasticconduitfittings5.webp",
+      "Plasticconduitfittings6.webp"
+    ]
+  },
+  "32": {
+    "name": "Plumbing Tools",
+    "nameAR": "أدوات السباكة",
+    "description": "<div><p>Plumbing Tools - Essential for Efficient and Effective Plumbing Professional-Grade Solutions for Plumbers and DIY Enthusiasts Our plumbing tools provide the essential solutions for efficient and effective plumbing installations, repairs, and maintenance.</p><h4 style=\"color: black\">Key Features:</h4><ul><li><strong>Durable Materials:</strong> High-quality materials for long-lasting use</li><li><strong>Ergonomic Design:</strong> Comfortable grip and reduced fatigue</li><li><strong>Precision Engineering:</strong> Accurate and precise performance</li><li><strong>Versatility:</strong> Range of tools for various plumbing tasks</li></ul><h4 style=\"color: black\">Explore Our Collection:</h4><ul><li><strong>Pipe Wrenches:</strong> Grip and twist pipes with ease</li><li><strong>Plunger:</strong> Effective solutions for clogged drains</li><li><strong>Tubing Cutters:</strong> Clean and precise cuts</li><li><strong>Valve Keys:</strong> Easy operation of valves</li><li><strong>Tool Sets:</strong> Comprehensive sets for complete plumbing solutions</li></ul><h4 style=\"color: black\">Benefits:</h4><ul><li><strong>Time-Saving:</strong> Efficient tools for faster completion of tasks</li><li><strong>Cost-Effective:</strong> Long-lasting tools reduce replacement costs</li><li><strong>Professional Results:</strong> High-quality tools for accurate and precise performance</li></ul></div>",
+    "descriptionAR": "<div><p>أدوات السباكة - أساسية للسباكة الفعالة والفعالة. توفر أدوات السباكة لدينا الحلول الأساسية للتركيبات والإصلاحات والصيانة الفعالة في السباكة.</p><h4 style=\"color: black\">الميزات الرئيسية:</h4><ul><li><strong>مواد متينة:</strong> مواد عالية الجودة للاستخدام الطويل الأمد</li><li><strong>تصميم مريح:</strong> قبضة مريحة وتقليل التعب</li><li><strong>هندسة دقيقة:</strong> أداء دقيق ومحدد</li><li><strong>تنوع:</strong> مجموعة من الأدوات لمهام السباكة المختلفة</li></ul><h4 style=\"color: black\">استكشف مجموعتنا:</h4><ul><li><strong>مفاتيح الأنابيب:</strong> قبضة وتدوير الأنابيب بسهولة</li><li><strong>الشفاط:</strong> حلول فعالة لتسليك المجاري</li><li><strong>قواطع الأنابيب:</strong> قطع نظيفة ودقيقة</li><li><strong>مفاتيح الصمامات:</strong> تشغيل سهل للصمامات</li><li><strong>مجموعة الأدوات:</strong> مجموعات شاملة لحلول السباكة الكاملة</li></ul><h4 style=\"color: black\">الفوائد:</h4><ul><li><strong>توفير الوقت:</strong> أدوات فعالة لإكمال المهام بسرعة</li><li><strong>فعالية من حيث التكلفة:</strong> أدوات طويلة الأمد تقلل من تكاليف الاستبدال</li><li><strong>نتائج احترافية:</strong> أدوات عالية الجودة للأداء الدقيق والمحدد</li></ul></div>",
+    "images": [
+      "PlumbingTools1.webp",
+      "PlumbingTools2.webp",
+      "PlumbingTools3.webp",
+      "PlumbingTools4.webp"
+    ]
+  },
+  "33": {
+    "name": "Plumbing supply",
+    "nameAR": "إمدادات السباكة",
+    "description": "<div><p>Plumbing Supply - Comprehensive Solutions for All Your Plumbing Needs Reliable and Durable Products for Plumbers and DIY Enthusiasts Our plumbing supply offers a wide range of products to cater to all your plumbing requirements, including:</p><h4 style=\"color: black\">Tension Connection</h4><ul><li><strong>PPR Test Plug:</strong> Ensure leak-free connections with our PPR test plug</li><li><strong>Hot Gray Pressure:</strong> Withstand high temperatures and pressures with our hot gray pressure products</li></ul><h4 style=\"color: black\">External Thread Bushing</h4><ul><li><strong>Easy Installation:</strong> Simplify your plumbing tasks with our easy-to-install external thread bushing</li><li><strong>Secure Connection:</strong> Ensure a secure and leak-free connection with our external thread bushing</li></ul><h4 style=\"color: black\">Other Products</h4><ul><li><strong>Pipes and Fittings:</strong> Comprehensive range of pipes and fittings for various plumbing applications</li><li><strong>Valves and Accessories:</strong> High-quality valves and accessories for efficient plumbing solutions</li><li><strong>Tools and Equipment:</strong> Professional-grade tools and equipment for efficient plumbing tasks</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>One-Stop Solution:</strong> Find all your plumbing needs in one place</li><li><strong>High-Quality Products:</strong> Reliable and durable products for long-lasting performance</li><li><strong>Competitive Pricing:</strong> Affordable prices for all your plumbing supply needs</li></ul></div>",
+    "descriptionAR": "<div><p>إمدادات السباكة - حلول شاملة لجميع احتياجات السباكة الخاصة بك. تقدم إمدادات السباكة لدينا مجموعة واسعة من المنتجات لتلبية جميع متطلبات السباكة الخاصة بك، بما في ذلك:</p><h4 style=\"color: black\">توصيل التوتر</h4><ul><li><strong>سداد اختبار PPR:</strong> ضمان وصلات خالية من التسرب مع سداد اختبار PPR لدينا</li><li><strong>ضغط رمادي ساخن:</strong> تتحمل درجات الحرارة والضغوط العالية مع منتجات الضغط الرمادي الساخن لدينا</li></ul><h4 style=\"color: black\">المحول الخارجي</h4><ul><li><strong>تركيب سهل:</strong> تبسيط مهام السباكة الخاصة بك مع المحول الخارجي سهل التركيب</li><li><strong>اتصال آمن:</strong> ضمان اتصال آمن وخالي من التسرب مع المحول الخارجي لدينا</li></ul><h4 style=\"color: black\">منتجات أخرى</h4><ul><li><strong>أنابيب وتجهيزات:</strong> مجموعة شاملة من الأنابيب والتجهيزات لتطبيقات السباكة المختلفة</li><li><strong>صمامات وإكسسوارات:</strong> صمامات وإكسسوارات عالية الجودة لحلول سباكة فعالة</li><li><strong>أدوات ومعدات:</strong> أدوات ومعدات احترافية لمهام السباكة الفعالة</li></ul><h4 style=\"color: black\">الفوائد</h4><ul><li><strong>حل شامل:</strong> العثور على جميع احتياجات السباكة الخاصة بك في مكان واحد</li><li><strong>منتجات عالية الجودة:</strong> منتجات موثوقة ودائمة لأداء طويل الأمد</li><li><strong>أسعار تنافسية:</strong> أسعار معقولة لجميع احتياجات إمدادات السباكة الخاصة بك</li></ul></div>",
+    "images": [
+      "Plumbingsupply1.webp",
+      "Plumbingsupply2.webp",
+      "Plumbingsupply3.webp",
+      "Plumbingsupply4.webp"
+    ]
+  },
+  "34": {
+    "name": "Floor drains",
+    "nameAR": "مصارف الأرضية",
+    "description": "<div><p>Plumbing Flood Drains - Protect Your Property from Water Damage</p><h4 style=\"color: black\">Reliable and Efficient Flood Protection Solutions</h4><ul><li><strong>Automatic Flood Control:</strong> Prevents water backup and flooding</li><li><strong>Heavy-Duty Construction:</strong> Durable and long-lasting performance</li><li><strong>Easy Installation:</strong> Simple and quick setup</li><li><strong>Customizable Options:</strong> Suitable for various plumbing applications</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>Peace of Mind:</strong> Protect your property from costly water damage</li><li><strong>Reduced Risk:</strong> Minimize the risk of flooding and water backup</li><li><strong>Compliance:</strong> Meets local plumbing codes and regulations</li></ul></div>",
+    "descriptionAR": "<div><p>مصارف الأرضية - حماية ممتلكاتك من أضرار المياه</p><h4 style=\"color: black\">حلول موثوقة وفعالة لحماية الفيضانات</h4><ul><li><strong>تحكم تلقائي في الفيضانات:</strong> يمنع تراكم المياه والفيضانات</li><li><strong>بناء قوي:</strong> أداء متين وطويل الأمد</li><li><strong>تركيب سهل:</strong> إعداد بسيط وسريع</li><li><strong>خيارات قابلة للتخصيص:</strong> مناسبة لتطبيقات السباكة المختلفة</li></ul><h4 style=\"color: black\">الفوائد</h4><ul><li><strong>راحة البال:</strong> حماية ممتلكاتك من أضرار المياه المكلفة</li><li><strong>تقليل المخاطر:</strong> تقليل خطر الفيضانات وتراكم المياه</li><li><strong>امتثال:</strong> تلبية معايير وقوانين السباكة المحلية</li></ul></div>",
+    "images": [
+      "Floordrains1.webp",
+      "Floordrains2.webp",
+      "Floordrains3.webp",
+      "Floordrains4.png"
+    ]
+  },
+  "35": {
+    "name": "Air Conditioning Accessories",
+    "nameAR": "إكسسوارات تكييف الهواء",
+    "description": "<div><p>Air Conditioning Accessories - Enhance Your Cooling Experience</p><h4 style=\"color: black\">Upgrade and Optimize Your AC System</h4><ul><li><strong>Air Filters:</strong> Improve indoor air quality and system efficiency</li><li><strong>Thermostats:</strong> Precise temperature control for ultimate comfort</li><li><strong>Ducting and Vents:</strong> Optimize airflow and reduce energy loss</li><li><strong>Mounting Hardware:</strong> Secure and stable installation</li><li><strong>Maintenance Kits:</strong> Keep your AC system running smoothly</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>Improved Performance:</strong> Boost your AC system's efficiency and effectiveness</li><li><strong>Increased Comfort:</strong> Enjoy a cooler and healthier indoor environment</li><li><strong>Extended Lifespan:</strong> Protect your AC system from damage and wear</li></ul></div>",
+    "descriptionAR": "<div><p>إكسسوارات تكييف الهواء - تعزيز تجربة التبريد الخاصة بك</p><h4 style=\"color: black\">ترقية وتحسين نظام التكييف الخاص بك</h4><ul><li><strong>فلاتر الهواء:</strong> تحسين جودة الهواء الداخلي وكفاءة النظام</li><li><strong>الثرموستات:</strong> تحكم دقيق في درجة الحرارة لراحة مثلى</li><li><strong>التهوية والمجاري:</strong> تحسين تدفق الهواء وتقليل فقد الطاقة</li><li><strong>أجهزة التثبيت:</strong> تركيب آمن ومستقر</li><li><strong>أطقم الصيانة:</strong> الحفاظ على تشغيل نظام التكييف بسلاسة</li></ul><h4 style=\"color: black\">الفوائد</h4><ul><li><strong>أداء محسن:</strong> تعزيز كفاءة وفعالية نظام التكييف الخاص بك</li><li><strong>راحة أكبر:</strong> الاستمتاع ببيئة داخلية أبرد وأكثر صحة</li><li><strong>عمر أطول:</strong> حماية نظام التكييف الخاص بك من الضرر والتآكل</li></ul></div>",
+    "images": [
+      "AirConditioningAccessories1.webp",
+      "AirConditioningAccessories2.webp",
+      "AirConditioningAccessories3.webp",
+      "AirConditioningAccessories4.webp"
+    ]
+  },
+  "36": {
+    "name": "Water heater",
+    "nameAR": "سخان المياه",
+    "description": "<div><p>Plumbing Fixtures - Complete Your Plumbing System Essential Products for a Functional and Comfortable Space</p><h4 style=\"color: black\">Electric Water Heaters</h4><ul><li><strong>Reliable Hot Water Solutions:</strong> Efficient and long-lasting electric water heaters</li></ul><h4 style=\"color: black\">Faucets and Sinks</h4><ul><li><strong>Stylish and Functional Fixtures:</strong> For kitchens and bathrooms</li></ul><h4 style=\"color: black\">Toilets and Bidets</h4><ul><li><strong>Hygienic and Water-Efficient Options:</strong> For a comfortable and eco-friendly experience</li></ul><h4 style=\"color: black\">Showers and Bathtubs</h4><ul><li><strong>Relaxing and Rejuvenating Fixtures:</strong> For the ultimate bathing experience</li></ul><h4 style=\"color: black\">Drainage Solutions</h4><ul><li><strong>Effective and Easy-to-Install Drainage Products:</strong> For a hassle-free plumbing system</li></ul><h4 style=\"color: black\">Benefits</h4><ul><li><strong>Convenience:</strong> Complete your plumbing system with essential fixtures</li><li><strong>Comfort:</strong> Enjoy a functional and comfortable living space</li><li><strong>Style:</strong> Enhance your space with stylish and modern fixtures</li></ul></div>",
+    "descriptionAR": "<div><p>تركيبات السباكة - أكمل نظام السباكة الخاص بك بمنتجات أساسية لمساحة عملية ومريحة</p><h4 style=\"color: black\">سخانات المياه الكهربائية</h4><ul><li><strong>حلول موثوقة للمياه الساخنة:</strong> سخانات مياه كهربائية فعالة وطويلة الأمد</li></ul><h4 style=\"color: black\">الصنابير والأحواض</h4><ul><li><strong>تركيبات أنيقة وعملية:</strong> للمطابخ والحمامات</li></ul><h4 style=\"color: black\">المراحيض وأجهزة البيديه</h4><ul><li><strong>خيارات صحية وموفرة للمياه:</strong> لتجربة مريحة وصديقة للبيئة</li></ul><h4 style=\"color: black\">الدش والأحواض</h4><ul><li><strong>تركيبات مريحة ومنعشة:</strong> لتجربة الاستحمام المثلى</li></ul><h4 style=\"color: black\">حلول الصرف</h4><ul><li><strong>منتجات صرف فعالة وسهلة التركيب:</strong> لنظام سباكة خالي من المتاعب</li></ul><h4 style=\"color: black\">الفوائد</h4><ul><li><strong>الراحة:</strong> أكمل نظام السباكة الخاص بك بتركيبات أساسية</li><li><strong>الراحة:</strong> استمتع بمساحة معيشية عملية ومريحة</li><li><strong>الأناقة:</strong> تحسين مساحتك بتركيبات أنيقة وعصرية</li></ul></div>",
+    "images": [
+      "Waterheater1.webp",
+      "Waterheater2.webp",
+      "Waterheater3.webp",
+      "Waterheater4.webp"
+    ]
+  }
   }
 }

@@ -12,6 +12,8 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { useParams } from "react-router-dom";
 import { DetailsContect } from "./InfoContext";
 
+// {details?.lang === 'EN' ? "" :""}
+
 export default function ProductDetail() {
   const { id } = useParams();
   const details = useContext(DetailsContect);
@@ -23,9 +25,12 @@ export default function ProductDetail() {
           <nav class="breadcrumbs">
             <ol>
               <li>
-                <a href="/">Home</a>
+                <a href="/">{details?.lang === 'EN' ? "Home" :"المنزل"}
+                </a>
               </li>
-              <li class="current">{product?.name}</li>
+              <li class="current">
+              {details?.lang === 'EN' ? product?.name : product?.nameAR}
+                </li>
             </ol>
           </nav>
         </div>
@@ -40,7 +45,7 @@ export default function ProductDetail() {
           >
             <div class="row align-items-center">
               <div class="col-lg-7 portfolio-info">
-                <h3>Images</h3>
+                <h3>{details?.lang === 'EN' ? "Images" :"صور"}</h3>
               </div>
             </div>
 
@@ -80,7 +85,7 @@ export default function ProductDetail() {
               <div class="icon">
                 <i class="fas fa-dna"></i>
               </div>
-              <h4 style={{ color: "black" }}>Description</h4>
+              <h4 style={{ color: "black" }}>{details?.lang === 'EN' ? "Description" :"وصف"}</h4>
               <div
                 dangerouslySetInnerHTML={{
                   __html:

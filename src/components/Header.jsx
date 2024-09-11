@@ -28,6 +28,13 @@ export default function Header() {
             </i>
           </div>
           <div class="social-links d-none d-md-flex align-items-center">
+            <span
+              onClick={() => {
+                details.setLang(details.lang === "EN" ? "AR" : "EN");
+              }}
+            >
+              {details.lang}
+            </span>
             {/* <a href="#" class="twitter">
               <i class="bi bi-twitter-x"></i>
             </a>
@@ -46,7 +53,7 @@ export default function Header() {
 
       <div class="branding d-flex align-items-center">
         <div class="container position-relative d-flex align-items-center justify-content-between">
-          <a href="/" class="logo d-flex align-items-center me-auto">
+          <a href="/" class="logo d-flex align-items-center">
             <h1 class="sitename">{details?.website_name}</h1>
           </a>
 
@@ -60,7 +67,9 @@ export default function Header() {
                       setNestedOpen(each);
                     }}
                   >
-                    <span>{each.name}</span>
+                    <span>
+                      {details?.lang === "EN" ? each.name : each.nameAR}
+                    </span>
                     {each?.child && each?.child?.length !== 0 && (
                       <i class="bi bi-chevron-down toggle-dropdown"></i>
                     )}
@@ -81,7 +90,10 @@ export default function Header() {
                           >
                             <span
                               dangerouslySetInnerHTML={{
-                                __html: eachSubCat.name,
+                                __html:
+                                  details?.lang === "EN"
+                                    ? eachSubCat.name
+                                    : eachSubCat.nameAR,
                               }}
                             ></span>
                             {eachSubCat?.child &&
@@ -106,7 +118,10 @@ export default function Header() {
                                   <Link
                                     to={`/product/${eachproduct.id}`}
                                     dangerouslySetInnerHTML={{
-                                      __html: eachproduct.name,
+                                      __html:
+                                        details?.lang === "EN"
+                                          ? eachproduct.name
+                                          : eachproduct.nameAR,
                                     }}
                                   ></Link>
                                 </li>
@@ -140,11 +155,13 @@ export default function Header() {
                     }
                   }}
                 >
-                  About Us
+                  {details?.lang === "EN" ? "About Us" : "معلومات عنا"}
                 </a>
               </li>
               <li>
-                <a href="#contact">Contact Us</a>
+                <a href="#contact">
+                  {details?.lang === "EN" ? " Contact Us" : "اتصل بنا"}
+                </a>
               </li>
             </ul>
             <i

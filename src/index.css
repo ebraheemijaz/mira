@@ -190,6 +190,11 @@ h6 {
   color: var(--contrast-color);
 }
 
+.social-links span {
+  color: white;
+  cursor: pointer;
+}
+
 .header .branding {
   min-height: 60px;
   padding: 10px 0;

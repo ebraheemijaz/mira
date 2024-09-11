@@ -83,7 +83,10 @@ export default function ProductDetail() {
               <h4 style={{ color: "black" }}>Description</h4>
               <div
                 dangerouslySetInnerHTML={{
-                  __html: product?.description,
+                  __html:
+                    details?.lang === "EN"
+                      ? product?.description
+                      : product?.descriptionAR,
                 }}
               ></div>
               {/* <div>

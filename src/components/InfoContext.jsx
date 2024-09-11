@@ -7,6 +7,7 @@ export const DetailsContect = createContext();
 
 export default function InfoContext({ children }) {
   const [loader, setLoading] = useState(true);
+  const [lang, setLang] = useState("EN");
 
   useEffect(() => {
     setTimeout(() => {
@@ -14,8 +15,16 @@ export default function InfoContext({ children }) {
     }, 600);
   }, []);
 
+  useEffect(() => {
+    if (lang === "AR") {
+      document.body.setAttribute("dir", "rtl");
+    } else {
+      document.body.setAttribute("dir", "ltr");
+    }
+  }, [lang]);
+
   return (
-    <DetailsContect.Provider value={details}>
+    <DetailsContect.Provider value={{ ...details, lang, setLang }}>
       {loader && <Loader />}
       {!loader && children}
     </DetailsContect.Provider>

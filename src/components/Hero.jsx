@@ -7,41 +7,42 @@ import { Navigation, Autoplay } from "swiper/modules";
 export default function Hero() {
   const details = useContext(DetailsContect);
   return (
-    <section id="hero" class="hero section light-background">
-      <Swiper
-        loop
-        autoplay={{
-          delay: 1500,
-          disableOnInteraction: false,
-        }}
-        navigation={true}
-        modules={[Navigation, Autoplay]}
-        slidesPerView={1}
-        className="mySwiper"
-        style={{ height: "300px" }}
-      >
-        <SwiperSlide>
-          <img
-            src={`${window.location.protocol}//${window.location.host}/topslider1.jpg`}
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img
-            src={`${window.location.protocol}//${window.location.host}/topslider2.jpg`}
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img
-            src={`${window.location.protocol}//${window.location.host}/topslider3.jpg`}
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img
-            src={`${window.location.protocol}//${window.location.host}/topslider4.jpg`}
-          />
-        </SwiperSlide>
-      </Swiper>
-      {/* <div class="carousel-item active">
+    <>
+      <section id="hero" class="hero section light-background">
+        <Swiper
+          loop
+          autoplay={{
+            delay: 1500,
+            disableOnInteraction: false,
+          }}
+          navigation={true}
+          modules={[Navigation, Autoplay]}
+          slidesPerView={1}
+          className="mySwiper"
+          style={{ height: "300px" }}
+        >
+          <SwiperSlide>
+            <img
+              src={`${window.location.protocol}//${window.location.host}/topslider1.jpg`}
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <img
+              src={`${window.location.protocol}//${window.location.host}/topslider2.jpg`}
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <img
+              src={`${window.location.protocol}//${window.location.host}/topslider3.jpg`}
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <img
+              src={`${window.location.protocol}//${window.location.host}/topslider4.jpg`}
+            />
+          </SwiperSlide>
+        </Swiper>
+        {/* <div class="carousel-item active">
           <img src={img} alt="" />
           <div class="carousel-container">
             <div>
@@ -63,7 +64,7 @@ export default function Hero() {
           </div>
         </div> */}
 
-      {/* <div class="carousel-item">
+        {/* <div class="carousel-item">
           <img src="assets/img/hero-carousel/hero-carousel-2.jpg" alt="">
           <div class="carousel-container">
             <div>
@@ -107,7 +108,7 @@ export default function Hero() {
           </div>
         </div> */}
 
-      {/* <a
+        {/* <a
           class="carousel-control-prev"
           href="#hero-carousel"
           role="button"
@@ -132,8 +133,54 @@ export default function Hero() {
         </a>
 
         <ol class="carousel-indicators"></ol> */}
-      {/* </div> */}
-    </section>
+        {/* </div> */}
+      </section>
+      <div style={{ margin: "2%" }}></div>
+      <section
+        id="hero"
+        class="hero section light-background"
+        style={{ marginLeft: "2rem", marginRight: "2rem" }}
+      >
+        <Swiper
+          loop
+          autoplay={{
+            delay: 1500,
+            disableOnInteraction: false,
+          }}
+          navigation={true}
+          modules={[Navigation, Autoplay]}
+          slidesPerView={8}
+          spaceBetween={20}
+          className="mySwiper"
+          style={{ height: "100px" }}
+        >
+          {[
+            "AirConditioningAccessories1.webp",
+            "AmericanAWGSpecification3.webp",
+            "BritishNYASpecification2.webp",
+            "Bulbs3.webp",
+            "CircuitBreaker2.webp",
+            "Electricalenclosures2.webp",
+            "Electricalpanels1.webp",
+            "ExteriorSpotlights1.webp",
+            "Fans2.webp",
+            "fibercables1.webp",
+            "flexiblerubbercables2.webp",
+            "InteriorSpotlights4.webp",
+            "SwitchesandSockets2.jpg",
+            "TrackLight1.webp",
+            "SWAcables2.webp",
+            "Recessedlighting2.jpg",
+          ].map((each) => (
+            <SwiperSlide>
+              <img
+                src={`${window.location.protocol}//${window.location.host}/${each}`}
+              />
+            </SwiperSlide>
+          ))}
+        </Swiper>
+      </section>
+    </>
     // <section id="hero" class="hero section light-background">
     //   <div class="container">
     //     <div class="row gy-4 justify-content-center justify-content-lg-between">

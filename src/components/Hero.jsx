@@ -1,18 +1,47 @@
 import React, { useContext } from "react";
-import img from "../assets/img/hero.jpg";
+// import img from "../assets/img/hero.jpg";
 import { DetailsContect } from "./InfoContext";
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Navigation, Autoplay } from "swiper/modules";
 
 export default function Hero() {
   const details = useContext(DetailsContect);
   return (
     <section id="hero" class="hero section light-background">
-      <div
-        id="hero-carousel"
-        class="carousel slide"
-        data-bs-ride="carousel"
-        data-bs-interval="5000"
+      <Swiper
+        loop
+        autoplay={{
+          delay: 1500,
+          disableOnInteraction: false,
+        }}
+        navigation={true}
+        modules={[Navigation, Autoplay]}
+        slidesPerView={1}
+        className="mySwiper"
+        style={{ height: "300px" }}
       >
-        <div class="carousel-item active">
+        <SwiperSlide>
+          <img
+            src={`${window.location.protocol}//${window.location.host}/topslider1.jpg`}
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img
+            src={`${window.location.protocol}//${window.location.host}/topslider2.jpg`}
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img
+            src={`${window.location.protocol}//${window.location.host}/topslider3.jpg`}
+          />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img
+            src={`${window.location.protocol}//${window.location.host}/topslider4.jpg`}
+          />
+        </SwiperSlide>
+      </Swiper>
+      {/* <div class="carousel-item active">
           <img src={img} alt="" />
           <div class="carousel-container">
             <div>
@@ -32,9 +61,9 @@ export default function Hero() {
               </a>
             </div>
           </div>
-        </div>
+        </div> */}
 
-        {/* <div class="carousel-item">
+      {/* <div class="carousel-item">
           <img src="assets/img/hero-carousel/hero-carousel-2.jpg" alt="">
           <div class="carousel-container">
             <div>
@@ -78,7 +107,7 @@ export default function Hero() {
           </div>
         </div> */}
 
-        <a
+      {/* <a
           class="carousel-control-prev"
           href="#hero-carousel"
           role="button"
@@ -102,8 +131,8 @@ export default function Hero() {
           ></span>
         </a>
 
-        <ol class="carousel-indicators"></ol>
-      </div>
+        <ol class="carousel-indicators"></ol> */}
+      {/* </div> */}
     </section>
     // <section id="hero" class="hero section light-background">
     //   <div class="container">

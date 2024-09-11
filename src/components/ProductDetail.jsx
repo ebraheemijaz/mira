@@ -4,7 +4,7 @@ import React, { useState, useEffect, useContext } from "react";
 // import img3 from "../assets/img3.jpg";
 // import img4 from "../assets/img4.jpg";
 import Loader from "./Loader";
-import img from "../assets/img/hero.jpg";
+// import img from "../assets/img/hero.jpg";
 
 import { Navigation, Pagination, Scrollbar, A11y } from "swiper/modules";
 
@@ -25,12 +25,11 @@ export default function ProductDetail() {
           <nav class="breadcrumbs">
             <ol>
               <li>
-                <a href="/">{details?.lang === 'EN' ? "Home" :"المنزل"}
-                </a>
+                <a href="/">{details?.lang === "EN" ? "Home" : "المنزل"}</a>
               </li>
               <li class="current">
-              {details?.lang === 'EN' ? product?.name : product?.nameAR}
-                </li>
+                {details?.lang === "EN" ? product?.name : product?.nameAR}
+              </li>
             </ol>
           </nav>
         </div>
@@ -45,7 +44,7 @@ export default function ProductDetail() {
           >
             <div class="row align-items-center">
               <div class="col-lg-7 portfolio-info">
-                <h3>{details?.lang === 'EN' ? "Images" :"صور"}</h3>
+                <h3>{details?.lang === "EN" ? "Images" : "صور"}</h3>
               </div>
             </div>
 
@@ -85,7 +84,9 @@ export default function ProductDetail() {
               <div class="icon">
                 <i class="fas fa-dna"></i>
               </div>
-              <h4 style={{ color: "black" }}>{details?.lang === 'EN' ? "Description" :"وصف"}</h4>
+              <h4 style={{ color: "black" }}>
+                {details?.lang === "EN" ? "Description" : "وصف"}
+              </h4>
               <div
                 dangerouslySetInnerHTML={{
                   __html:

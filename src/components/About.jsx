@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react";
+import React, { useContext, useEffect, useState } from "react";
 // import about from "../assets/about.jpg";
 // import about2 from "../assets/about-2.jpg";
 import { DetailsContect } from "./InfoContext";
@@ -267,47 +267,46 @@ export default function About() {
         class="hero section light-background"
         style={{ marginLeft: "2rem", marginRight: "2rem" }}
       >
-        {show &&
-          v(
-            <Swiper
-              loop
-              autoplay={{
-                delay: 1500,
-                disableOnInteraction: false,
-              }}
-              navigation={true}
-              modules={[Navigation, Autoplay]}
-              slidesPerView={8}
-              spaceBetween={20}
-              className="mySwiper"
-              style={{ height: "100px" }}
-            >
-              {[
-                "AirConditioningAccessories1.webp",
-                "AmericanAWGSpecification3.webp",
-                "BritishNYASpecification2.webp",
-                "Bulbs3.webp",
-                "CircuitBreaker2.webp",
-                "Electricalenclosures2.webp",
-                "Electricalpanels1.webp",
-                "ExteriorSpotlights1.webp",
-                "Fans2.webp",
-                "fibercables1.webp",
-                "flexiblerubbercables2.webp",
-                "InteriorSpotlights4.webp",
-                "SwitchesandSockets2.jpg",
-                "TrackLight1.webp",
-                "SWAcables2.webp",
-                "Recessedlighting2.jpg",
-              ].map((each) => (
-                <SwiperSlide>
-                  <img
-                    src={`${window.location.protocol}//${window.location.host}/${each}`}
-                  />
-                </SwiperSlide>
-              ))}
-            </Swiper>
-          )}
+        {show && (
+          <Swiper
+            loop
+            autoplay={{
+              delay: 1500,
+              disableOnInteraction: false,
+            }}
+            navigation={true}
+            modules={[Navigation, Autoplay]}
+            slidesPerView={8}
+            spaceBetween={20}
+            className="mySwiper"
+            style={{ height: "100px" }}
+          >
+            {[
+              "AirConditioningAccessories1.webp",
+              "AmericanAWGSpecification3.webp",
+              "BritishNYASpecification2.webp",
+              "Bulbs3.webp",
+              "CircuitBreaker2.webp",
+              "Electricalenclosures2.webp",
+              "Electricalpanels1.webp",
+              "ExteriorSpotlights1.webp",
+              "Fans2.webp",
+              "fibercables1.webp",
+              "flexiblerubbercables2.webp",
+              "InteriorSpotlights4.webp",
+              "SwitchesandSockets2.jpg",
+              "TrackLight1.webp",
+              "SWAcables2.webp",
+              "Recessedlighting2.jpg",
+            ].map((each) => (
+              <SwiperSlide>
+                <img
+                  src={`${window.location.protocol}//${window.location.host}/${each}`}
+                />
+              </SwiperSlide>
+            ))}
+          </Swiper>
+        )}
       </section>
     </>
   );

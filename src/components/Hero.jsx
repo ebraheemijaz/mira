@@ -19,26 +19,21 @@ export default function Hero() {
           modules={[Navigation, Autoplay]}
           slidesPerView={1}
           className="mySwiper"
-          style={{ height: "300px" }}
+          style={{ height: "500px" }}
         >
           <SwiperSlide>
             <img
-              src={`${window.location.protocol}//${window.location.host}/topslider1.jpg`}
+              src={`${window.location.protocol}//${window.location.host}/banner (1).jpg`}
             />
           </SwiperSlide>
           <SwiperSlide>
             <img
-              src={`${window.location.protocol}//${window.location.host}/topslider2.jpg`}
+              src={`${window.location.protocol}//${window.location.host}/banner (2).jpg`}
             />
           </SwiperSlide>
           <SwiperSlide>
             <img
-              src={`${window.location.protocol}//${window.location.host}/topslider3.jpg`}
-            />
-          </SwiperSlide>
-          <SwiperSlide>
-            <img
-              src={`${window.location.protocol}//${window.location.host}/topslider4.jpg`}
+              src={`${window.location.protocol}//${window.location.host}/banner (3).jpg`}
             />
           </SwiperSlide>
         </Swiper>

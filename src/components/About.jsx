@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useContext, useState } from "react";
 // import about from "../assets/about.jpg";
 // import about2 from "../assets/about-2.jpg";
 import { DetailsContect } from "./InfoContext";

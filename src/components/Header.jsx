@@ -33,7 +33,7 @@ export default function Header() {
                 details.setLang(details.lang === "EN" ? "AR" : "EN");
               }}
             >
-              {details.lang==="EN"?"AR":"EN"}
+              {details.lang === "EN" ? "AR" : "EN"}
             </span>
             {/* <a href="#" class="twitter">
               <i class="bi bi-twitter-x"></i>
@@ -55,7 +55,10 @@ export default function Header() {
         <div class="container position-relative d-flex align-items-center justify-content-between">
           <a href="/" class="logo d-flex align-items-center">
             {/*<h1 class="sitename">{details?.website_name}</h1> */}
-          <img href src="file.png"></img>
+            <img
+              href
+              src={` ${window.location.protocol}//${window.location.host}/file.png`}
+            ></img>
           </a>
 
           <nav id="navmenu" class="navmenu">

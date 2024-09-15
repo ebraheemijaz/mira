@@ -52,7 +52,7 @@ export default function Hero() {
       <section
         id="hero"
         class="hero section light-background"
-        style={{ marginLeft: "2rem", marginRight: "2rem" }}
+        style={{ marginLeft: "2rem", marginRight: "2rem", height: "auto" }}
       >
         {show && (
           <Swiper

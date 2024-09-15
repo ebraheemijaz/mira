@@ -7,8 +7,8 @@ export default function ContactUs() {
   return (
     <section id="contact" class="contact section">
       <div class="container section-title" data-aos="fade-up">
-        <h2>Contact</h2>
-        <p>For any query contact us</p>
+        <h2>{details?.lang === 'EN' ? "Contact" :"اتصال"}</h2>
+        <p>{details?.lang === 'EN' ? `For any query contact us` :`لأي استفسار اتصل بنا`}</p>
       </div>
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -21,7 +21,7 @@ export default function ContactUs() {
             >
               <i class="bi bi-geo-alt flex-shrink-0"></i>
               <div>
-                <h3>Location</h3>
+                <h3>{details?.lang === 'EN' ? "Location" :"موقع"}</h3>
                 <p>{details?.address}</p>
               </div>
             </div>
@@ -33,7 +33,7 @@ export default function ContactUs() {
             >
               <i class="bi bi-telephone flex-shrink-0"></i>
               <div>
-                <h3>Call Us</h3>
+                <h3>{details?.lang === 'EN' ? "Call Us" :"اتصل بنا"}</h3>
                 <p>{details?.phone}</p>
               </div>
             </div>
@@ -45,7 +45,7 @@ export default function ContactUs() {
             >
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
-                <h3>Email Us</h3>
+                <h3>{details?.lang === 'EN' ? "Email Us" :"راسلنا عبر البريد الإلكتروني"}</h3>
                 <p>{details?.email}</p>
               </div>
             </div>

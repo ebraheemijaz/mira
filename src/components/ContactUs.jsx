@@ -26,7 +26,6 @@ export default function ContactUs() {
       method: "POST",
       headers: myHeaders,
       body: urlencoded,
-      redirect: "follow",
     };
 
     fetch(

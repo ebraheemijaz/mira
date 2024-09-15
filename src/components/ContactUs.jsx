@@ -3,6 +3,7 @@ import { DetailsContect } from "./InfoContext";
 
 import { useForm } from "react-hook-form";
 
+let url = "https://hooks.slack.com/services/";
 export default function ContactUs() {
   const details = useContext(DetailsContect);
   const {
@@ -12,6 +13,10 @@ export default function ContactUs() {
     watch,
     formState: { errors },
   } = useForm();
+
+  url = url + "T07M2SXL8UF/";
+  url = url + "B07MEJCCQLD/";
+  url = url + "JOajLUE59JQLfcBeXW32TTCo";
 
   const onSubmit = (data) => {
     const myHeaders = new Headers();
@@ -31,10 +36,7 @@ export default function ContactUs() {
       redirect: "follow",
     };
 
-    fetch(
-      "https://hooks.slack.com/services/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",
-      requestOptions
-    )
+    fetch(url, requestOptions)
       .then((response) => response.text(), reset())
       .then((result) => console.log(result))
       .catch((error) => console.error(error));

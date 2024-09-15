@@ -1,6 +1,8 @@
-import React from "react";
+import React, { useContext } from "react";
 
 export default function Choose() {
+  const details = useContext(DetailsContect);
+
   return (
     <section id="services" class="cards section">
       <div class="container section-title" data-aos="fade-up">

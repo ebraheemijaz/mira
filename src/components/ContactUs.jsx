@@ -6,6 +6,7 @@ import { useForm } from "react-hook-form";
 export default function ContactUs() {
   const details = useContext(DetailsContect);
   const {
+    reset,
     register,
     handleSubmit,
     watch,
@@ -19,20 +20,22 @@ export default function ContactUs() {
     const urlencoded = new URLSearchParams();
     urlencoded.append(
       "payload",
-      `{"text": "Name: ${data.name}\nEmail:${data.email}\nSubject:${data.subject}\nMessage:${data.message}"}`
+      `{"text": "Name:${data.name}\nEmail:${data.email}\nSubject:${data.subject}\nMessage:${data.message}"}`
     );
+    //
 
     const requestOptions = {
       method: "POST",
       headers: myHeaders,
       body: urlencoded,
+      redirect: "follow",
     };
 
     fetch(
-      "https://hooks.slack.com/services/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",
+      "https://hooks.slack.com/services/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",
       requestOptions
     )
-      .then((response) => response.text())
+      .then((response) => response.text(), reset())
       .then((result) => console.log(result))
       .catch((error) => console.error(error));
   };

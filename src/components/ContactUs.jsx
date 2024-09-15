@@ -4,6 +4,9 @@ import { DetailsContect } from "./InfoContext";
 import { useForm } from "react-hook-form";
 
 let url = "https://hooks.slack.com/services/";
+url = url + "T07M2SXL8UF/";
+url = url + "B07MEJCCQLD/";
+url = url + "JOajLUE59JQLfcBeXW32TTCo";
 export default function ContactUs() {
   const details = useContext(DetailsContect);
   const {
@@ -13,10 +16,6 @@ export default function ContactUs() {
     watch,
     formState: { errors },
   } = useForm();
-
-  url = url + "T07M2SXL8UF/";
-  url = url + "B07MEJCCQLD/";
-  url = url + "JOajLUE59JQLfcBeXW32TTCo";
 
   const onSubmit = (data) => {
     const myHeaders = new Headers();

@@ -401,6 +401,12 @@ h6 {
   }
 }
 
+@media (max-width: 700px) {
+  .hero {
+    height: 30vh !important;
+  }
+}
+
 /* Mobile Navigation */
 @media (max-width: 1199px) {
   .mobile-nav-toggle {
@@ -839,6 +845,7 @@ section,
 --------------------------------------------------------------*/
 .hero {
   padding: 0;
+  height: 500px;
 }
 
 .hero .carousel {

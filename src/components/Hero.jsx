@@ -28,7 +28,7 @@ export default function Hero() {
             modules={[Navigation, Autoplay]}
             slidesPerView={1}
             className="mySwiper"
-            style={{ height: "500px" }}
+            style={{ height: "inherit" }}
           >
             <SwiperSlide>
               <img
@@ -37,8 +37,7 @@ export default function Hero() {
             </SwiperSlide>
             <SwiperSlide>
               <img
-                src="https://cdn.salla.sa/form-builder/Y1m6bzEMaLFXc0onujMfLTSQZczYAsODmCtWSlzg.png"
-                // src={`${window.location.protocol}//${window.location.host}/banner (2).jpg`}
+                src={`${window.location.protocol}//${window.location.host}/banner (2).jpg`}
               />
             </SwiperSlide>
             <SwiperSlide>

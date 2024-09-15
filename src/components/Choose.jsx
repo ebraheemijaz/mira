@@ -40,7 +40,9 @@ export default function Choose() {
               <span>{details?.lang === "EN" ? "02" : "إثنان"}</span>
               <h4>
                 <a href="" class="stretched-link">
-                  Secure payment methods
+                  {details?.lang === "EN"
+                    ? "Secure payment methods"
+                    : "طرق الدفع الآمنة"}
                 </a>
               </h4>
               <p>

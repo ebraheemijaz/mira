@@ -37,7 +37,8 @@ export default function Hero() {
             </SwiperSlide>
             <SwiperSlide>
               <img
-                src={`${window.location.protocol}//${window.location.host}/banner (2).jpg`}
+                src="https://cdn.salla.sa/form-builder/Y1m6bzEMaLFXc0onujMfLTSQZczYAsODmCtWSlzg.png"
+                // src={`${window.location.protocol}//${window.location.host}/banner (2).jpg`}
               />
             </SwiperSlide>
             <SwiperSlide>

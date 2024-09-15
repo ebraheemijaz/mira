@@ -277,7 +277,7 @@ export default function About() {
             }}
             navigation={true}
             modules={[Navigation, Autoplay]}
-            slidesPerView={8}
+            slidesPerView={window.innerWidth < 700 ? 3 : 8}
             spaceBetween={20}
             className="mySwiper"
             style={{ height: "100px" }}

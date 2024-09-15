@@ -169,6 +169,12 @@ h6 {
   }
 }
 
+@media (max-width: 1199px) {
+  .languagebutton {
+    display: block !important;
+  }
+}
+
 .header .topbar .contact-info i a {
   line-height: 0;
   transition: 0.3s;

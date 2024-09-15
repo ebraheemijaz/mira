@@ -4,6 +4,7 @@ import React, { useContext, useEffect, useState } from "react";
 import { DetailsContect } from "./InfoContext";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Autoplay } from "swiper/modules";
+import { Link } from "react-router-dom";
 
 export default function About() {
   const details = useContext(DetailsContect);
@@ -170,7 +171,7 @@ export default function About() {
               ? "Manufacturing Partners"
               : "شركاء التصنيع"}
           </h2>
-          <div style={{ textAlign: "left" }}>
+          <div style={{ textAlign: details?.lang === "EN" ? "left" : "right" }}>
             <p>
               {details?.lang === "EN"
                 ? `We are proud to collaborate with renowned manufacturing partners
@@ -282,27 +283,29 @@ export default function About() {
             style={{ height: "100px" }}
           >
             {[
-              "AirConditioningAccessories1.webp",
-              "AmericanAWGSpecification3.webp",
-              "BritishNYASpecification2.webp",
-              "Bulbs3.webp",
-              "CircuitBreaker2.webp",
-              "Electricalenclosures2.webp",
-              "Electricalpanels1.webp",
-              "ExteriorSpotlights1.webp",
-              "Fans2.webp",
-              "fibercables1.webp",
-              "flexiblerubbercables2.webp",
-              "InteriorSpotlights4.webp",
-              "SwitchesandSockets2.jpg",
-              "TrackLight1.webp",
-              "SWAcables2.webp",
-              "Recessedlighting2.jpg",
+              { productId: "35", image: "AirConditioningAccessories1.webp" },
+              { productId: "12", image: "AmericanAWGSpecification3.webp" },
+              { productId: "10", image: "BritishNYASpecification2.webp" },
+              { productId: "15", image: "Bulbs3.webp" },
+              { productId: "22", image: "CircuitBreaker2.webp" },
+              { productId: "27", image: "Electricalenclosures2.webp" },
+              { productId: "24", image: "Electricalpanels1.webp" },
+              { productId: "21", image: "ExteriorSpotlights1.webp" },
+              { productId: "26", image: "Fans2.webp" },
+              { productId: "1", image: "fibercables1.webp" },
+              { productId: "2", image: "flexiblerubbercables2.webp" },
+              { productId: "17", image: "InteriorSpotlights4.webp" },
+              { productId: "25", image: "SwitchesandSockets2.jpg" },
+              { productId: "18", image: "TrackLight1.webp" },
+              { productId: "9", image: "SWAcables2.webp" },
+              { productId: "14", image: "Recessedlighting2.jpg" },
             ].map((each) => (
               <SwiperSlide>
-                <img
-                  src={`${window.location.protocol}//${window.location.host}/${each}`}
-                />
+                <Link to={`/product/${each.productId}`}>
+                  <img
+                    src={`${window.location.protocol}//${window.location.host}/${each.image}`}
+                  />
+                </Link>
               </SwiperSlide>
             ))}
           </Swiper>

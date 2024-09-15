@@ -167,6 +167,17 @@ export default function Header() {
                   {details?.lang === "EN" ? " Contact Us" : "اتصل بنا"}
                 </a>
               </li>
+              <li className="languagebutton d-none">
+                <a href="#">
+                  <span
+                    onClick={() => {
+                      details.setLang(details.lang === "EN" ? "AR" : "EN");
+                    }}
+                  >
+                    {details.lang === "EN" ? "AR" : "EN"}
+                  </span>
+                </a>
+              </li>
             </ul>
             <i
               class={`mobile-nav-toggle d-xl-none bi bi-${

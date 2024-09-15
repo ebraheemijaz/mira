@@ -107,7 +107,7 @@ export default function ContactUs() {
                     Your message has been sent. Thank you!
                   </div>
 
-                  <button type="submit">Send Message</button>
+                  <button type="submit">{details?.lang === 'EN' ? "Send Message" :"أرسل رسالة"}</button>
                 </div>
               </div>
             </form>

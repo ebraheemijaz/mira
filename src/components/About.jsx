@@ -264,8 +264,8 @@ export default function About() {
       </section>
 
       <section
-        id="hero"
-        class="hero section light-background"
+        id="hero-second"
+        class="hero-second section light-background"
         style={{ marginLeft: "2rem", marginRight: "2rem", height: "auto" }}
       >
         {show && (

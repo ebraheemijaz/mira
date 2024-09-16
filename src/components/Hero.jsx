@@ -50,8 +50,8 @@ export default function Hero() {
       </section>
       <div style={{ margin: "2%" }}></div>
       <section
-        id="hero"
-        class="hero section light-background"
+        id="hero-second"
+        class="hero-second section light-background"
         style={{ marginLeft: "2rem", marginRight: "2rem", height: "auto" }}
       >
         {show && (

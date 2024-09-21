@@ -201,6 +201,12 @@
           "nameAR": "المراوح",
           "id": "26",
           "child": []
+        },
+        {
+          "name": "Power Extension Fans",
+          "nameAR": "مراوح تمديد الطاقة",
+          "id": "37",
+          "child": []
         }
       ]
     },
@@ -373,12 +379,11 @@
       "nameAR": "مواصفات American AWG",
       "descriptionAR": "<p>في Mira Project Suppliers، نتخصص في توفير الأسلاك الكهربائية عالية الجودة، مما يضمن اتصالات موثوقة وفعالة لتطبيقات مختلفة. تلبية مجموعتنا الواسعة من الأسلاك الكهربائية للمعايير الدولية، مما يلبي احتياجات الصناعات المتنوعة.</p><h4 style='color: black;'>منتجات الأسلاك الكهربائية لدينا:</h4><ul><li><strong>جودة لا تضاهى:</strong> تفي أسلاكنا بالمعايير الدولية (IEC، ASTM، إلخ)</li><li><strong>مجموعة واسعة:</strong> نقدم أحجامًا وموادًا وأنواع عزل مختلفة</li><li><strong>التخصيص:</strong> حلول مخصصة لمتطلبات الصناعة المحددة</li><li><strong>أسعار تنافسية:</strong> فعالة من حيث التكلفة دون المساومة على الجودة</li><li><strong>خدمة العملاء الممتازة:</strong> دعم مخصص لاحتياجات الأسلاك الكهربائية الخاصة بك</li></ul><h4 style='color: black;'>لماذا تختار كابلاتنا:</h4><h4 style='color: black;'>التطبيقات:</h4><ul><li>العقود الكهربائية والبناء</li><li>أتمتة الأنظمة الصناعية والتحكم</li><li>لوحات كهربائية ومفاتيح التحكم</li><li>تصنيع الأجهزة</li><li>الصناعات الجوية والسيارات</li></ul>",
       "images": [
-        "AmericanAWGSpecification1.jpeg",
-        "AmericanAWGSpecification2.jpeg",
+        "AmericanAWGSpecification1.jfif",
+        "AmericanAWGSpecification8.jpeg",
         "AmericanAWGSpecification2.webp",
-        "AmericanAWGSpecification3.jpeg",
-        "AmericanAWGSpecification4.jpeg",
-        "AmericanAWGSpecification5.jpeg",
+        "AmericanAWGSpecification9.jpeg",
+        "AmericanAWGSpecification332.jpeg",
         "AmericanAWGSpecification5.webp"
       ]
     },
@@ -636,6 +641,22 @@
         "Waterheater2.webp",
         "Waterheater3.webp",
         "Waterheater4.webp"
+      ]
+    },
+    "37": {
+      "name": "Power Extension Fans",
+      "nameAR": "مراوح تمديد الطاقة",
+      "description": "<div><p>Heavy-Duty Power Cord Extensions Manufactured by Alfanar, Alraed, and Hylumen - Supplied by Mira Project Suppliers Reliable and durable power cord extensions for industrial, commercial, and residential applications.</p><h4 style={{ color: 'black' }}>Key Features:</h4><ul><li>High-quality copper conductors for efficient power transmission</li><li>Durable PVC insulation for enhanced safety and protection</li><li>Heavy-duty construction for prolonged lifespan</li><li>Available in various lengths and ampere ratings</li><li>Compliance with international safety standards</li></ul><h4 style={{ color: 'black' }}>Benefits:</h4><ul><li>Extend power reach without compromising safety</li><li>Suitable for indoor and outdoor use</li><li>Easy installation and maintenance</li><li>Cost-effective solution for power distribution</li></ul><h4 style={{ color: 'black' }}>Specifications:</h4><ul><li>Manufacturer: Alfanar, Alraed, and Hylumen</li><li>Material: Copper conductor, PVC insulation</li><li>Length: 3 Meter, 5 Meter, 10 Meter lengths available</li></ul><h4 style={{ color: 'black' }}>Why Choose Mira Project Suppliers?</h4><ul><li>Authentic products from renowned manufacturers</li><li>Competitive pricing</li><li>Timely delivery</li><li>Excellent customer support</li></ul><h4 style={{ color: 'black' }}>Order Now</h4><ul><li>and ensure reliable power distribution for your projects!</li></ul></div>",
+      "descriptionAR": "<div><p>تمديدات كابلات الطاقة الثقيلة المصنعة بواسطة الفنار، الرائد، وهيلومن - مقدمة من موردين مشروع ميرا. تمديدات كابلات الطاقة الموثوقة والمتينة للتطبيقات الصناعية والتجارية والسكنية.</p><h4 style={{ color: 'black' }}>الميزات الرئيسية:</h4><ul><li>موصلات نحاسية عالية الجودة لنقل الطاقة بكفاءة</li><li>عزل PVC متين لتعزيز السلامة والحماية</li><li>بناء قوي لزيادة عمر الخدمة</li><li>متوفر بأطوال وتيارات كهربائية مختلفة</li><li>الامتثال للمعايير الدولية للسلامة</li></ul><h4 style={{ color: 'black' }}>الفوائد:</h4><ul><li>تمديد نطاق الطاقة دون التضحية بالسلامة</li><li>مناسب للاستخدام الداخلي والخارجي</li><li>سهولة التركيب والصيانة</li><li>حل اقتصادي لتوزيع الطاقة</li></ul><h4 style={{ color: 'black' }}>المواصفات:</h4><ul><li>المصنع: الفنار، الرائد، وهيلومن</li><li>المادة: موصل نحاسي، عزل PVC</li><li>الأطوال المتاحة: 3 أمتار، 5 أمتار، 10 أمتار</li></ul><h4 style={{ color: 'black' }}>لماذا تختار موردين مشروع ميرا؟</h4><ul><li>منتجات أصلية من شركات تصنيع مشهورة</li><li>أسعار تنافسية</li><li>تسليم في الوقت المحدد</li><li>دعم عملاء ممتاز</li></ul><h4 style={{ color: 'black' }}>اطلب الآن</h4><ul><li>وتأكد من توزيع الطاقة بشكل موثوق لمشاريعك!</li></ul></div>",
+      "images": [
+        "power1.jfif",
+        "power2.jfif",
+        "power3.jfif",
+        "power4.jfif",
+        "power5.jfif",
+        "power6.jfif",
+        "power7.jfif",
+        "power8.jfif"
       ]
     }
   }

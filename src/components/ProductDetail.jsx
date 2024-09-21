@@ -97,65 +97,55 @@ export default function ProductDetail() {
               ></div>
               {/* <div>
                 <p>
-                  Plumbing Fixtures - Complete Your Plumbing System Essential
-                  Products for a Functional and Comfortable Space
+                  Heavy-Duty Power Cord Extensions Manufactured by Alfanar,
+                  Alraed, and Hylumen - Supplied by Mira Project Suppliers
+                  Reliable and durable power cord extensions for industrial,
+                  commercial, and residential applications.
                 </p>
 
-                <h4 style={{ color: "black" }}>Electric Water Heaters</h4>
+                <h4 style={{ color: "black" }}>Key Features:</h4>
                 <ul>
                   <li>
-                    <strong>Reliable Hot Water Solutions:</strong> Efficient and
-                    long-lasting electric water heaters
+                    High-quality copper conductors for efficient power
+                    transmission
                   </li>
+                  <li>
+                    Durable PVC insulation for enhanced safety and protection
+                  </li>
+                  <li>Heavy-duty construction for prolonged lifespan</li>
+                  <li>Available in various lengths and ampere ratings</li>
+                  <li>Compliance with international safety standards</li>
                 </ul>
 
-                <h4 style={{ color: "black" }}>Faucets and Sinks</h4>
+                <h4 style={{ color: "black" }}>Benefits:</h4>
                 <ul>
-                  <li>
-                    <strong>Stylish and Functional Fixtures:</strong> For
-                    kitchens and bathrooms
-                  </li>
+                  <li>Extend power reach without compromising safety</li>
+                  <li>Suitable for indoor and outdoor use</li>
+                  <li>Easy installation and maintenance</li>
+                  <li>Cost-effective solution for power distribution</li>
                 </ul>
 
-                <h4 style={{ color: "black" }}>Toilets and Bidets</h4>
+                <h4 style={{ color: "black" }}>Specifications:</h4>
                 <ul>
-                  <li>
-                    <strong>Hygienic and Water-Efficient Options:</strong> For a
-                    comfortable and eco-friendly experience
-                  </li>
+                  <li>Manufacturer: Alfanar, Alraed, and Hylumen</li>
+                  <li>Material: Copper conductor, PVC insulation</li>
+                  <li>Length: 3 Meter, 5 Meter, 10 Meter lengths available</li>
                 </ul>
 
-                <h4 style={{ color: "black" }}>Showers and Bathtubs</h4>
+                <h4 style={{ color: "black" }}>
+                  Why Choose Mira Project Suppliers?
+                </h4>
                 <ul>
-                  <li>
-                    <strong>Relaxing and Rejuvenating Fixtures:</strong> For the
-                    ultimate bathing experience
-                  </li>
+                  <li>Authentic products from renowned manufacturers</li>
+                  <li>Competitive pricing</li>
+                  <li>Timely delivery</li>
+                  <li>Excellent customer support</li>
                 </ul>
 
-                <h4 style={{ color: "black" }}>Drainage Solutions</h4>
+                <h4 style={{ color: "black" }}>Order Now</h4>
                 <ul>
                   <li>
-                    <strong>
-                      Effective and Easy-to-Install Drainage Products:
-                    </strong>{" "}
-                    For a hassle-free plumbing system
-                  </li>
-                </ul>
-
-                <h4 style={{ color: "black" }}>Benefits</h4>
-                <ul>
-                  <li>
-                    <strong>Convenience:</strong> Complete your plumbing system
-                    with essential fixtures
-                  </li>
-                  <li>
-                    <strong>Comfort:</strong> Enjoy a functional and comfortable
-                    living space
-                  </li>
-                  <li>
-                    <strong>Style:</strong> Enhance your space with stylish and
-                    modern fixtures
+                    and ensure reliable power distribution for your projects!
                   </li>
                 </ul>
               </div> */}
